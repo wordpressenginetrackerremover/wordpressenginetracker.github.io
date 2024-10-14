@@ -17,6 +17,18 @@ const calculateFileSize = ( textContent ) => {
     return mbSize;
 }
 
+function throttle( fn, wait ) {
+  var time = Date.now();
+
+  return () => {
+    if ( Date.now() - time > wait ) {
+      fn();
+
+      time = Date.now();
+    }
+  }
+};
+
 const adjustFontSize = () => {
   const element = document.getElementById( 'sites-count' );
   const content = element.innerHTML;
@@ -49,6 +61,7 @@ const adjustFontSize = () => {
       const finalSize = ( size * parseFloat( window.getComputedStyle( element ).fontSize ) ) - ( elementPadding );
       element.style.fontSize = `${ finalSize <= 400 ? finalSize : 400 }px`; // Scale based on the current font size
       element.style.whiteSpace = 'nowrap'; // Ensure text does not wrap
+      element.style.textAlign = finalSize >= 400 ? 'right' : 'center';
     }
   }
 }
@@ -175,8 +188,7 @@ const handleSearchForm = async () => {
       if ( sanitizedDomain ) {
         if ( ! isValidDomain( sanitizedDomain ) ) {
           updateFormResult( 'not-valid' );
-        }
-        else if ( isHostedOnWPE( sanitizedDomain ) ) {
+        } else if ( isHostedOnWPE( sanitizedDomain ) ) {
           updateFormResult( 'still-hosted' );
         } else {
           updateFormResult( 'not-hosted' );
@@ -191,9 +203,9 @@ document.addEventListener( 'DOMContentLoaded', async () => {
     handleSearchForm();
 } );
 
-window.addEventListener( 'resize', () => {
-  adjustFontSize();
-} );
+const throttledAdjustFontSize = throttle(adjustFontSize, 100);
+
+window.addEventListener( 'resize', throttledAdjustFontSize );
 
 window.addEventListener( 'load', async () => {
   const sitesCount = await fetchSitesCount();
