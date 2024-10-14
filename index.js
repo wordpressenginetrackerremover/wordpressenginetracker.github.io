@@ -78,8 +78,61 @@ const formatNumber = ( number ) => {
   return `${ numberString }.${ decimalString}K`;
 }
 
-document.addEventListener( 'DOMContentLoaded', async () => {
-    const allDomains = new Set();
+const sanitizeDomain = (input) => {
+  // Remove unwanted characters (keeping only letters, numbers, hyphens, and dots)
+  let sanitized = input.replace( /[^a-zA-Z0-9.-]/g, '' );
+  
+  return sanitized;
+}
+
+const isValidDomain = (domain) => {
+  const domainRegex = /^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,63}$/;
+  return domainRegex.test(domain);
+}
+
+const updateFormResult = ( type = 'empty' ) => {
+  const formResultElement = document.getElementById( 'form-result' );
+  const inputElement = document.querySelector( 'input#domain' );
+
+  inputElement.classList.remove( 'error' );
+  inputElement.classList.remove( 'success' );
+  formResultElement.classList.remove( 'error' );
+  formResultElement.classList.remove( 'success' );
+
+  if ( type === 'not-valid' ) {
+    formResultElement.innerHTML = "Not a valid domain";
+    inputElement.classList.add( 'error' );
+    formResultElement.classList.add( 'error' );
+    return;
+  }
+
+  if ( type === 'filled-out' ) {
+    formResultElement.innerHTML= "Press enter to search";
+    return;
+  }
+
+  if ( type === 'still-hosted' ) {
+    formResultElement.innerHTML = "Still hosted by WP Engine :-(";
+    inputElement.classList.add( 'error' );
+    formResultElement.classList.add( 'error' );
+    return;
+  }
+
+  if ( type === 'not-hosted' ) {
+    formResultElement.innerHTML = "Found a new host!";
+    inputElement.classList.add( 'success' );
+    formResultElement.classList.add( 'success' );
+    return;
+  }
+
+  formResultElement.innerHTML = "Please enter a domain";
+}
+
+const handleSearchForm = async () => {
+  const allDomains = new Set();
+  const searchForm = document.querySelector( 'form#search-form' );
+  const inputElement = document.querySelector( 'input#domain' );
+  const searchIcon = document.getElementById( 'search-icon' );
 
     const setDownloadSizeEstimate = mb => {
         document.querySelector( '.download-button__content' ).textContent = mb ? `Download (${ mb }MB)` : 'Download';
@@ -101,20 +154,41 @@ document.addEventListener( 'DOMContentLoaded', async () => {
     
     const isHostedOnWPE = domain => allDomains.has( domain );
 
-    const searchForm = document.querySelector( 'form#search-form' );
+    inputElement.addEventListener( 'input', event => {
+        const domain = sanitizeDomain( event.target.value );
+
+      if ( ! domain ) {
+        updateFormResult( 'empty' );
+        searchIcon.style.display = 'initial';
+        return;
+      }
+
+      updateFormResult( 'filled-out' );
+      searchIcon.style.display = 'none';
+    } );
+
     searchForm.addEventListener( 'submit', event => {
       event.preventDefault();
       const domain = event.target.elements['domain'].value;
-      
-      if ( domain ) {
-        console.log(
-            isHostedOnWPE( domain ) ? 'Domain is in the set.' : 'Domain is not in the set.'
-        );
+      const sanitizedDomain = sanitizeDomain( domain );
+
+      if ( sanitizedDomain ) {
+        if ( ! isValidDomain( sanitizedDomain ) ) {
+          updateFormResult( 'not-valid' );
+        }
+        else if ( isHostedOnWPE( sanitizedDomain ) ) {
+          updateFormResult( 'still-hosted' );
+        } else {
+          updateFormResult( 'not-hosted' );
+        }
       }
 
-      return domain && isHostedOnWPE( domain );
+      return sanitizedDomain && isHostedOnWPE( sanitizedDomain );
     } );
+}
 
+document.addEventListener( 'DOMContentLoaded', async () => {
+    handleSearchForm();
 } );
 
 window.addEventListener( 'resize', () => {
