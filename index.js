@@ -8,7 +8,7 @@ document.addEventListener( 'DOMContentLoaded', async () => {
     const allDomains = new Set();
 
     const setDownloadSizeEstimate = mb => {
-        document.querySelector( '.download-button__content' ).textContent = mb ? `Download CSV (${ mb }MB)` : 'Download';
+        document.querySelector( '.download-button__content' ).textContent = mb ? `Download (${ mb }MB)` : 'Download';
     }
 
     try {
