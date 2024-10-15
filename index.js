@@ -65,7 +65,7 @@ const adjustFontSize = async () => {
     if ( textWidth > 0 ) {
       const size = parseInt( containerWidth ) / textWidth;
       const finalSize = ( size * parseFloat( window.getComputedStyle( element ).fontSize ) ) - ( elementPadding );
-      const maxFontSize = containerWidth > 1800 ? 500 : 400;
+      const maxFontSize = parseInt( containerWidth ) > 1800 ? 500 : 400;
       element.style.fontSize = `${ finalSize <= maxFontSize ? finalSize : maxFontSize }px`; // Scale based on the current font size
       element.style.whiteSpace = 'nowrap'; // Ensure text does not wrap
       element.style.textAlign = finalSize >= maxFontSize ? 'right' : 'center';
