@@ -180,7 +180,7 @@ p, label {
     margin: 0;
     padding: var(--body-padding);
     font-weight: 500;
-    font-size: calc( 100vw / 4 );
+    font-size: calc( 100vw / 3.25 );
     line-height: 1;
     text-align: center;
     letter-spacing: -0.4rem;
@@ -252,7 +252,7 @@ p, label {
     }
 }
 
-@media (min-width: 1800px) {
+@media (min-width: 1600px) {
     .number-of-sites {
         display: flex;
         justify-content: flex-end;
@@ -265,6 +265,7 @@ p, label {
 
     .number-of-sites__count {
         padding: 0;
+        font-size: calc( 100vw / 4 );
     }
 
     .form-section {
