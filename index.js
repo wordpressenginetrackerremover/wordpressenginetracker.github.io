@@ -29,7 +29,13 @@ function throttle( fn, wait ) {
   }
 };
 
-const adjustFontSize = () => {
+const sleep = (ms) => {
+  return new Promise(resolve => setTimeout(resolve, ms));
+};
+
+const adjustFontSize = async () => {
+  // On instant resizes, width calculations are incorrect when event is fired. Small delay here fixes the issue.
+  await sleep(100);
   const element = document.getElementById( 'sites-count' );
   const content = element.innerHTML;
 
