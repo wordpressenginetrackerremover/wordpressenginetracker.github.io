@@ -91,14 +91,27 @@ const formatNumber = ( number ) => {
   return `${ numberString }.${ decimalString}K`;
 }
 
-const sanitizeDomain = (input) => {
+const isValidURL = ( str ) => {
+  try {
+    new URL( str );
+    return true;
+  } catch ( _ ) {
+    return false;
+  }
+}
+
+const prepareDomain = ( input ) => {
+  if ( isValidURL( input ) ) {
+    input = new URL( input ).hostname;
+  }
+
   // Remove unwanted characters (keeping only letters, numbers, hyphens, and dots)
-  let sanitized = input.replace( /[^a-zA-Z0-9.-]/g, '' );
-  
+  const sanitized = input.replace( /[^a-zA-Z0-9.-]/g, '' );
+
   return sanitized;
 }
 
-const isValidDomain = (domain) => {
+const isValidDomain = ( domain ) => {
   const domainRegex = /^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,63}$/;
   return domainRegex.test(domain);
 }
@@ -168,7 +181,7 @@ const handleSearchForm = async () => {
     const isHostedOnWPE = domain => allDomains.has( domain );
 
     inputElement.addEventListener( 'input', event => {
-        const domain = sanitizeDomain( event.target.value );
+        const domain = prepareDomain( event.target.value );
 
       if ( ! domain ) {
         updateFormResult( 'empty' );
@@ -182,20 +195,19 @@ const handleSearchForm = async () => {
 
     searchForm.addEventListener( 'submit', event => {
       event.preventDefault();
-      const domain = event.target.elements['domain'].value;
-      const sanitizedDomain = sanitizeDomain( domain );
+      const domain = prepareDomain( event.target.elements['domain'].value );
 
-      if ( sanitizedDomain ) {
-        if ( ! isValidDomain( sanitizedDomain ) ) {
+      if ( domain ) {
+        if ( ! isValidDomain( domain ) ) {
           updateFormResult( 'not-valid' );
-        } else if ( isHostedOnWPE( sanitizedDomain ) ) {
+        } else if ( isHostedOnWPE( domain ) ) {
           updateFormResult( 'still-hosted' );
         } else {
           updateFormResult( 'not-hosted' );
         }
       }
 
-      return sanitizedDomain && isHostedOnWPE( sanitizedDomain );
+      return domain && isHostedOnWPE( domain );
     } );
 }
 
