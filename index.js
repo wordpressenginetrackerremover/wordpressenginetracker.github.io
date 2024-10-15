@@ -65,9 +65,10 @@ const adjustFontSize = async () => {
     if ( textWidth > 0 ) {
       const size = parseInt( containerWidth ) / textWidth;
       const finalSize = ( size * parseFloat( window.getComputedStyle( element ).fontSize ) ) - ( elementPadding );
-      element.style.fontSize = `${ finalSize <= 400 ? finalSize : 400 }px`; // Scale based on the current font size
+      const maxFontSize = containerWidth > 1800 ? 500 : 400;
+      element.style.fontSize = `${ finalSize <= maxFontSize ? finalSize : maxFontSize }px`; // Scale based on the current font size
       element.style.whiteSpace = 'nowrap'; // Ensure text does not wrap
-      element.style.textAlign = finalSize >= 400 ? 'right' : 'center';
+      element.style.textAlign = finalSize >= maxFontSize ? 'right' : 'center';
     }
   }
 }
@@ -224,6 +225,7 @@ document.addEventListener( 'DOMContentLoaded', async () => {
 const throttledAdjustFontSize = throttle(adjustFontSize, 100);
 
 window.addEventListener( 'resize', throttledAdjustFontSize );
+window.addEventListener( 'resize', () => console.log( 'hello' ) );
 
 window.addEventListener( 'load', async () => {
   const sitesCount = await fetchSitesCount();

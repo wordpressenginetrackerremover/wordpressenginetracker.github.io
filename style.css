@@ -13,7 +13,7 @@
     --font-size-input: 1.2rem;
     --font-size-small: 1rem;
 
-    --body-padding: 2rem;
+    --body-padding: 0.75rem;
 }
 
 * {
@@ -55,6 +55,7 @@ p, label {
     justify-content: space-between;
     flex-direction: column;
     padding: var(--body-padding);
+    padding-bottom: 0;
 }
 
 .header__logo {
@@ -70,6 +71,8 @@ p, label {
 
 .form-section {
     max-width: 500px;
+    padding: var( --body-padding );
+    padding-top: 0;
 }
 
 .form-section__link {
@@ -156,7 +159,6 @@ p, label {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    margin-top: auto;
     padding: 2rem var(--body-padding);
     border-top: 2px solid var(--wp-custom-contrast-50);
 }
@@ -174,14 +176,18 @@ p, label {
     color: var(--primary-blue);
 }
 
+.number-of-sites {
+    margin-top: auto;
+}
+
 .number-of-sites__count {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    padding: 1rem;
+    margin: 0;
+    padding: var(--body-padding);
     font-weight: 500;
     font-size: 170px;
     line-height: 1;
-    text-align: center;
+    text-align: right;
+    letter-spacing: -0.4rem;
 }
 
 .form-section__form-result.error {
@@ -216,13 +222,21 @@ p, label {
 }
 
 @media (min-width: 800px) {
+    :root {
+        --body-padding: 2rem;
+    }
+
     .header {
         flex-direction: row;
         column-gap: 5rem;
     }
 
     .form-section {
+        position: absolute;
+        top: var(--body-padding);
+        right: var(--body-padding);
         width: 500px;
+        padding: 0;
     }
 
     .form-section__body {
@@ -234,5 +248,24 @@ p, label {
         justify-content: space-between;
         align-items: center;
         gap: 2.5rem;
+    }
+
+    .number-of-sites__count {
+        font-size: 275px;
+        letter-spacing: -0.4rem;
+    }
+}
+
+@media (min-width: 1800px) {
+    .number-of-sites {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: var(--body-padding);
+        gap: 5rem;
+    }
+
+    .form-section {
+        position: initial;
     }
 }
