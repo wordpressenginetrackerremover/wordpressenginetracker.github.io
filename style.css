@@ -176,17 +176,13 @@ p, label {
     color: var(--primary-blue);
 }
 
-.number-of-sites {
-    margin-top: auto;
-}
-
 .number-of-sites__count {
     margin: 0;
     padding: var(--body-padding);
     font-weight: 500;
-    font-size: 170px;
+    font-size: calc( 100vw / 4 );
     line-height: 1;
-    text-align: right;
+    text-align: center;
     letter-spacing: -0.4rem;
 }
 
@@ -211,10 +207,6 @@ p, label {
 }
 
 @media (min-width: 610px) {
-    .number-of-sites__count {
-        font-size: 50px;
-    }
-
     .footer {
         flex-direction: row;
         justify-content: space-between;
@@ -255,7 +247,7 @@ p, label {
     }
 
     .number-of-sites__count {
-        font-size: 275px;
+        text-align: right;
         letter-spacing: -0.4rem;
     }
 }
@@ -265,9 +257,14 @@ p, label {
         display: flex;
         justify-content: flex-end;
         align-items: center;
-        padding: var(--body-padding);
         gap: 5rem;
         margin-top: auto;
+        margin-bottom: 3vw;
+        padding-right: var(--body-padding);
+    }
+
+    .number-of-sites__count {
+        padding: 0;
     }
 
     .form-section {

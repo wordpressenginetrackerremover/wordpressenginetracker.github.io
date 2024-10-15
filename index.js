@@ -224,13 +224,12 @@ document.addEventListener( 'DOMContentLoaded', async () => {
 
 const throttledAdjustFontSize = throttle(adjustFontSize, 100);
 
-window.addEventListener( 'resize', throttledAdjustFontSize );
-window.addEventListener( 'resize', () => console.log( 'hello' ) );
+//window.addEventListener( 'resize', throttledAdjustFontSize );
 
 window.addEventListener( 'load', async () => {
   const sitesCount = await fetchSitesCount();
   const sitesCountElement = document.getElementById( 'sites-count' );
   sitesCountElement.textContent = formatNumber( sitesCount );
 
-  adjustFontSize();
+  //adjustFontSize();
 } );
