@@ -17,62 +17,6 @@ const calculateFileSize = ( textContent ) => {
     return mbSize;
 }
 
-function throttle( fn, wait ) {
-  var time = Date.now();
-
-  return () => {
-    if ( Date.now() - time > wait ) {
-      fn();
-
-      time = Date.now();
-    }
-  }
-};
-
-const sleep = (ms) => {
-  return new Promise(resolve => setTimeout(resolve, ms));
-};
-
-const adjustFontSize = async () => {
-  // On instant resizes, width calculations are incorrect when event is fired. Small delay here fixes the issue.
-  await sleep(100);
-  const element = document.getElementById( 'sites-count' );
-  const content = element.innerHTML;
-
-  if ( element ) {
-    // const containerWidth = window.getComputedStyle( element.parentElement ).width;
-    const containerWidth = window.getComputedStyle( element.parentElement ).width;
-    const elementPadding = window.getComputedStyle( element ).paddingLeft.replace( 'px', '' );
-
-    // Create a temporary hidden element for measurement
-    const tempElement = document.createElement( 'div' );
-    tempElement.style.position = 'absolute';
-    tempElement.style.whiteSpace = 'nowrap';
-    tempElement.style.visibility = 'hidden';
-    const computedStyle = window.getComputedStyle( element );
-    tempElement.style.fontFamily = computedStyle.fontFamily;
-    tempElement.style.fontWeight = computedStyle.fontWeight;
-    tempElement.style.fontStyle = computedStyle.fontStyle;
-    tempElement.style.fontSize = computedStyle.fontSize;
-    tempElement.style.letterSpacing = computedStyle.letterSpacing;
-    tempElement.style.textTransform = computedStyle.textTransform;
-    tempElement.innerHTML = content;
-    document.body.appendChild( tempElement );
-    const textWidth = tempElement.offsetWidth;
-    document.body.removeChild( tempElement ); // Clean up the temporary element
-
-    // Avoid division by zero or very small widths
-    if ( textWidth > 0 ) {
-      const size = parseInt( containerWidth ) / textWidth;
-      const finalSize = ( size * parseFloat( window.getComputedStyle( element ).fontSize ) ) - ( elementPadding );
-      const maxFontSize = parseInt( containerWidth ) > 1800 ? 500 : 400;
-      element.style.fontSize = `${ finalSize <= maxFontSize ? finalSize : maxFontSize }px`; // Scale based on the current font size
-      element.style.whiteSpace = 'nowrap'; // Ensure text does not wrap
-      element.style.textAlign = finalSize >= maxFontSize ? 'right' : 'center';
-    }
-  }
-}
-
 const fetchSitesCount = async () => {
   const jsonData = await fetch( 'site-count.json' );
   const body = await jsonData.json();
@@ -222,14 +166,8 @@ document.addEventListener( 'DOMContentLoaded', async () => {
     handleSearchForm();
 } );
 
-const throttledAdjustFontSize = throttle(adjustFontSize, 100);
-
-//window.addEventListener( 'resize', throttledAdjustFontSize );
-
 window.addEventListener( 'load', async () => {
   const sitesCount = await fetchSitesCount();
   const sitesCountElement = document.getElementById( 'sites-count' );
   sitesCountElement.textContent = formatNumber( sitesCount );
-
-  //adjustFontSize();
 } );
