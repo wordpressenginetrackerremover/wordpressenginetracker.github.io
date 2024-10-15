@@ -250,6 +250,10 @@ p, label {
         gap: 2.5rem;
     }
 
+    .number-of-sites {
+        margin-top: 250px;
+    }
+
     .number-of-sites__count {
         font-size: 275px;
         letter-spacing: -0.4rem;
@@ -263,6 +267,7 @@ p, label {
         align-items: center;
         padding: var(--body-padding);
         gap: 5rem;
+        margin-top: auto;
     }
 
     .form-section {
