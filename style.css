@@ -16,6 +16,10 @@
     --body-padding: 2rem;
 }
 
+* {
+    text-wrap: pretty;
+}
+
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-results-button,
@@ -201,15 +205,6 @@ p, label {
 }
 
 @media (min-width: 610px) {
-    .header {
-        flex-direction: row;
-        column-gap: 5rem;
-    }
-
-    .form-section__body {
-        margin-top: 0;
-    }
-
     .number-of-sites__count {
         font-size: 50px;
     }
@@ -221,6 +216,19 @@ p, label {
 }
 
 @media (min-width: 800px) {
+    .header {
+        flex-direction: row;
+        column-gap: 5rem;
+    }
+
+    .form-section {
+        width: 500px;
+    }
+
+    .form-section__body {
+        margin-top: 0;
+    }
+
     .form-section__download {
         flex-direction: row;
         justify-content: space-between;
