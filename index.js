@@ -1,5 +1,5 @@
 const fetchSitesData = async () => {
-    const response = await fetch( 'wpe_domains.csv' );
+    const response = await fetch( 'domains.csv' );
 
     if ( ! response.ok ) {
       throw new Error( 'Failed to fetch CSV file' );
