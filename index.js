@@ -89,14 +89,14 @@ const updateFormResult = ( type = 'empty' ) => {
   }
 
   if ( type === 'still-hosted' ) {
-    formResultElement.innerHTML = "Still hosted by WP Engine :-(";
+    formResultElement.innerHTML = "Still hosted by WP Engine";
     inputElement.classList.add( 'error' );
     formResultElement.classList.add( 'error' );
     return;
   }
 
   if ( type === 'not-hosted' ) {
-    formResultElement.innerHTML = "Found a new host!";
+    formResultElement.innerHTML = "Not hosted by WP Engine";
     inputElement.classList.add( 'success' );
     formResultElement.classList.add( 'success' );
     return;
