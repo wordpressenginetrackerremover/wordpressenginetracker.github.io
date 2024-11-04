@@ -115,6 +115,15 @@ const handleSearchForm = async () => {
         document.querySelector( '.download-button__content' ).textContent = mb ? `Download (${ mb }MB)` : 'Download';
     }
 
+    const wpeSites = [
+      /\.wpengine\.com$/,
+      /\.wpenginepowered\.com$/,
+      /\.flywheelsites\.com$/,
+      /\.flywheelstaging\.com$/,
+      /^wpenginepowered\.com$/,
+      /^flywheel\.io$/
+    ];
+
     try {
       const { text, rows } = await fetchSitesData();
   
@@ -129,7 +138,7 @@ const handleSearchForm = async () => {
       console.error( 'Error loading CSV: ', error );
     }
     
-    const isHostedOnWPE = domain => allDomains.has( domain );
+    const isHostedOnWPE = domain => allDomains.has( domain ) || wpeSites.some( regex => regex.test( domain ) );
 
     inputElement.addEventListener( 'input', event => {
         const domain = prepareDomain( event.target.value );
