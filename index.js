@@ -138,7 +138,10 @@ const handleSearchForm = async () => {
       console.error( 'Error loading CSV: ', error );
     }
     
-    const isHostedOnWPE = domain => allDomains.has( domain ) || wpeSites.some( regex => regex.test( domain ) );
+    const isHostedOnWPE = domain => {
+      const lowerDomain = domain.toLowerCase();
+      return allDomains.has( lowerDomain ) || wpeSites.some( regex => regex.test( lowerDomain ) );
+    }
 
     inputElement.addEventListener( 'input', event => {
         const domain = prepareDomain( event.target.value );
