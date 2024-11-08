@@ -1,6 +1,21 @@
 {
-    "siteCount": 16687,
+    "siteCount": 16694,
     "recentlyMoved": [
+        {
+            "domain_name": "marchbreakcourse.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "vpa.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "vidalatina.com",
+            "destination": "Hostinger",
+            "date": "2024-11-08"
+        },
         {
             "domain_name": "theprivatepainclinic.co.uk",
             "destination": "Krystal Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "outsidersrestrooms.com",
             "destination": "SiteGround",
             "date": "2024-11-07"
-        },
-        {
-            "domain_name": "tccanyon.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.txhcdallas.com",
-            "destination": "Kinsta",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "afirstrespondervoice.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
         }
     ],
     "dailyMovedStat": {
@@ -553,18 +553,18 @@
         "2024-11-07": "16446"
     },
     "topDestinationHosts": {
-        "Pressable": 4071,
+        "Pressable": 4072,
         "Bluehost": 3418,
         "SiteGround": 935,
         "Digital Ocean": 766,
         "Kinsta": 748,
-        "Hostinger": 459,
+        "Hostinger": 460,
         "GoDaddy": 219,
         "Elementor Hosting": 139,
         "Wordify": 129,
         "BigScoots": 122,
         "Liquid Web": 89,
-        "InMotion Hosting": 77,
+        "InMotion Hosting": 78,
         "WordPress.com": 77,
         "OVH": 55,
         "IONOS": 50,
