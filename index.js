@@ -182,7 +182,7 @@ function initRecentlyMoved() {
   fetch("site-count.json")
     .then((response) => response.json())
     .then((data) => {
-      const urls = data.recentlyMoved;
+      const urls = data.recentlyMoved.map(item => item.domain_name);
       const site = document.querySelector(".recently-moved");
 
       let currentIndex = 0;
