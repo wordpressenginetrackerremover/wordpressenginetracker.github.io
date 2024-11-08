@@ -203,6 +203,7 @@ p a {
 
 .footer__content {
     display: flex;
+    align-items: center;
     gap: 0.5rem;
 }
 
@@ -215,6 +216,7 @@ p a {
 }
 
 .footer img {
+    width: 140px;
     filter: brightness(0);
 }
 
@@ -455,6 +457,10 @@ p a {
 
     main > section {
         width: 100% !important;
+    }
+
+    main > section.chart {
+        width: calc( 100% - 2 * var(--body-padding) ) !important;
     }
 
     .intro, .large-count {
