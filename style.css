@@ -331,7 +331,6 @@ p a {
 
 .recently-moved {
     position: absolute;
-    animation: ticker 4s linear infinite;
     display: flex;
     align-items: center;
     gap: 8px;
@@ -359,23 +358,20 @@ p a {
     text-decoration: none;
 }
 
-@keyframes ticker {
-    0% {
-        transform: translateY(24px);
-        opacity: 0;
-    }
-    5% {
-        transform: translateY(0);
-        opacity: 1;
-    }
-    95% {
-        transform: translateY(0);
-        opacity: 1;
-    }
-    100% {
-        transform: translateY(-24px);
-        opacity: 0;
-    }
+.recently-moved-site-destination {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.recently-moved-site-destination img {
+    width: calc( var(--font-size-small) + 4px );
+}
+
+.recently-moved-site-destination p {
+    font-size: var(--font-size-small);
+    color: var(--black);
+    margin: 0;
 }
 
 .chart-container {
