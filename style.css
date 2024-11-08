@@ -46,6 +46,16 @@ body {
     flex-direction: column;
 }
 
+main {
+    display: flex;
+    height: 100vh;
+}
+
+main > section {
+    width: 50%;
+    overflow: hidden;
+}
+
 p, label {
     font-size: var(--font-size-body);
     line-height: 1.5;
@@ -208,15 +218,20 @@ p a {
     filter: brightness(0);
 }
 
+.number-of-sites {
+    display: flex;
+    flex-direction: column;
+}
+
 .number-of-sites__count {
     margin: 0;
     padding: var(--body-padding);
     font-weight: 500;
-    font-size: calc( 100vw / 3.5 );
+    font-size: calc( 100vw / 2.8 );
     line-height: 1;
     text-align: center;
     letter-spacing: -0.4rem;
-    margin-left: auto;
+    margin: 0 auto;
 }
 
 .form-section__form-result.error {
@@ -237,65 +252,6 @@ p a {
     color: var(--white);
     background-color: var(--success-green);
     border-color: var(--success-green);
-}
-
-@media (min-width: 610px) {
-    .footer {
-        flex-direction: row;
-        justify-content: space-between;
-    }
-}
-
-@media (min-width: 800px) {
-    :root {
-        --body-padding: 2rem;
-    }
-
-    .header {
-        flex-direction: row;
-        column-gap: 5rem;
-    }
-
-    .header__logo {
-        position: absolute;
-    }
-
-    .form-section {
-        position: absolute;
-        top: var(--body-padding);
-        right: var(--body-padding);
-        width: 500px;
-        padding: 0;
-    }
-
-    .form-section__body {
-        margin-top: 0;
-    }
-
-    .form-section__download {
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-        gap: 2.5rem;
-    }
-}
-
-main {
-    display: flex;
-    height: 100vh;
-}
-main > section {
-    width: 50%;
-    overflow: hidden;
-}
-.number-of-sites {
-    display: flex;
-    flex-direction: column;
-}
-
-.number-of-sites__count {
-    padding: 0;
-    font-size: calc( 50vw / 2.8 );
 }
 
 .chart {
@@ -484,6 +440,14 @@ main > section {
     list-style-type: none;
 }
 
+
+@media (min-width: 610px) {
+    .footer {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
 @media (max-width: 800px) {
     main {
         display: block;
@@ -499,5 +463,44 @@ main > section {
 
     .chart {
         height: 80vh;
+    }
+}
+
+@media (min-width: 800px) {
+    :root {
+        --body-padding: 2rem;
+    }
+
+    .header {
+        flex-direction: row;
+        column-gap: 5rem;
+    }
+
+    .header__logo {
+        position: absolute;
+    }
+
+    .form-section {
+        position: absolute;
+        top: var(--body-padding);
+        right: var(--body-padding);
+        width: 500px;
+        padding: 0;
+    }
+
+    .form-section__body {
+        margin-top: 0;
+    }
+
+    .form-section__download {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 2.5rem;
+    }
+
+    .number-of-sites__count {
+        padding: 0;
+        font-size: calc( 50vw / 2.8 );
     }
 }
