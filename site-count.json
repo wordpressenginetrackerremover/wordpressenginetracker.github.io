@@ -1,6 +1,36 @@
 {
-    "siteCount": 16600,
+    "siteCount": 16610,
     "recentlyMoved": [
+        {
+            "domain_name": "www.petlook.nl",
+            "destination": "Kinsta",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "fphploegmakers.nl",
+            "destination": "Kinsta",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "rideakart.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "vailmemorialpark.org",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "onelifestrong.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "shearcolourvail.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
         {
             "domain_name": "wholesale.tattoogoo.com",
             "destination": "BigScoots",
@@ -470,36 +500,6 @@
             "domain_name": "chungasslc.com",
             "destination": "SiteGround",
             "date": "2024-11-07"
-        },
-        {
-            "domain_name": "veronapizza.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "almondhead.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "reliant.team",
-            "destination": "BigScoots",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.westwood-energy.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "rededge.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "modeprojects.ca",
-            "destination": "Hostinger",
-            "date": "2024-11-07"
         }
     ],
     "dailyMovedStat": {
@@ -556,8 +556,8 @@
         "Pressable": 4050,
         "Bluehost": 3418,
         "SiteGround": 931,
-        "Digital Ocean": 749,
-        "Kinsta": 744,
+        "Digital Ocean": 753,
+        "Kinsta": 746,
         "Hostinger": 458,
         "GoDaddy": 218,
         "Elementor Hosting": 139,
