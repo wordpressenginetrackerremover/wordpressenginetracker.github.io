@@ -1,6 +1,26 @@
 {
-    "siteCount": 16562,
+    "siteCount": 16572,
     "recentlyMoved": [
+        {
+            "domain_name": "fshnc.org",
+            "destination": "Pressable",
+            "date": "2024-11-07"
+        },
+        {
+            "domain_name": "thevervelounge.com.au",
+            "destination": "WordPress.com",
+            "date": "2024-11-07"
+        },
+        {
+            "domain_name": "www.drjenniferwalden.com",
+            "destination": "Kinsta",
+            "date": "2024-11-07"
+        },
+        {
+            "domain_name": "www.kansasrenewal.com",
+            "destination": "Hostinger",
+            "date": "2024-11-07"
+        },
         {
             "domain_name": "vranzacabinets.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "contentgoodies.com",
             "destination": "Kinsta",
             "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.pmhpro.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "freshworksdental.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.penderprowashga.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.paradiseac-swfl.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
         }
     ],
     "dailyMovedStat": {
@@ -553,19 +553,19 @@
         "2024-11-07": "16446"
     },
     "topDestinationHosts": {
-        "Pressable": 4048,
+        "Pressable": 4049,
         "Bluehost": 3418,
         "SiteGround": 931,
         "Digital Ocean": 747,
-        "Kinsta": 741,
-        "Hostinger": 456,
+        "Kinsta": 742,
+        "Hostinger": 457,
         "GoDaddy": 218,
         "Elementor Hosting": 139,
         "Wordify": 129,
         "BigScoots": 121,
         "Liquid Web": 89,
         "InMotion Hosting": 76,
-        "WordPress.com": 74,
+        "WordPress.com": 75,
         "OVH": 55,
         "IONOS": 50,
         "A2 Hosting": 46,
