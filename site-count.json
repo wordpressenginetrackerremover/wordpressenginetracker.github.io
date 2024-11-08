@@ -1,6 +1,71 @@
 {
-    "siteCount": 16687,
+    "siteCount": 16712,
     "recentlyMoved": [
+        {
+            "domain_name": "www.plumberadam.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "plumberadam.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "warriorcf.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "rhinobackroofing.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "youritguyil.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "www.youritguyil.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "mobtowncrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "reclaim3.com",
+            "destination": "A2 Hosting",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "ironheadbuildings.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "raseborg.bojaco.com",
+            "destination": "Hetzner Online",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "marchbreakcourse.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "vpa.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "vidalatina.com",
+            "destination": "Hostinger",
+            "date": "2024-11-08"
+        },
         {
             "domain_name": "theprivatepainclinic.co.uk",
             "destination": "Krystal Hosting",
@@ -435,71 +500,6 @@
             "domain_name": "aawoods.co.uk",
             "destination": "IONOS",
             "date": "2024-11-07"
-        },
-        {
-            "domain_name": "kramelaw.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "francoschurrohouse.com",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "fjgraniteandmarble.com",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "zenithcommissioning.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "denvillefootandankle.com",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "tenneyconstructionservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "recoveryresources.world",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.wellsplasticsurgery.com",
-            "destination": "Kinsta",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "gregwilliams.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "outsidersrestrooms.com",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "tccanyon.com",
-            "destination": "Pressable",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "www.txhcdallas.com",
-            "destination": "Kinsta",
-            "date": "2024-11-07"
-        },
-        {
-            "domain_name": "afirstrespondervoice.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-07"
         }
     ],
     "dailyMovedStat": {
@@ -553,23 +553,23 @@
         "2024-11-07": "16446"
     },
     "topDestinationHosts": {
-        "Pressable": 4071,
+        "Pressable": 4077,
         "Bluehost": 3418,
         "SiteGround": 935,
-        "Digital Ocean": 766,
+        "Digital Ocean": 768,
         "Kinsta": 748,
-        "Hostinger": 459,
-        "GoDaddy": 219,
+        "Hostinger": 460,
+        "GoDaddy": 220,
         "Elementor Hosting": 139,
         "Wordify": 129,
         "BigScoots": 122,
         "Liquid Web": 89,
-        "InMotion Hosting": 77,
+        "InMotion Hosting": 78,
         "WordPress.com": 77,
         "OVH": 55,
         "IONOS": 50,
-        "A2 Hosting": 47,
-        "Hetzner Online": 46,
+        "A2 Hosting": 48,
+        "Hetzner Online": 47,
         "Namecheap": 41,
         "Krystal Hosting": 39,
         "GridPane": 36

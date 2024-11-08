@@ -178,6 +178,24 @@ const formatNumber = ( number ) => {
 //     handleSearchForm();
 // } );
 
+function triggerRecentlyMovedAnimation() {
+  const site = document.querySelector(".recently-moved");
+
+  const keyframes = [
+    { transform: 'translateY(24px)', opacity: 0 },
+    { transform: 'translateY(0)', opacity: 1, offset: 0.05 },
+    { transform: 'translateY(0)', opacity: 1, offset: 0.95 },
+    { transform: 'translateY(-24px)', opacity: 0 }
+  ];
+
+  const options = {
+    duration: 4000,
+    iterations: 1,
+  };
+
+  site.animate(keyframes, options);
+}
+
 function initRecentlyMoved() {
   fetch("site-count.json")
     .then((response) => response.json())
@@ -209,6 +227,7 @@ function initRecentlyMoved() {
         `;
 
         currentIndex = (currentIndex + 1) % urls.length;
+        triggerRecentlyMovedAnimation();
       }
 
       updateTicker();
