@@ -4,6 +4,7 @@
     --primary-blue: #0075DF;
     --secondary-blue: #6CE5F2;
     --light-blue: #E3F2FF;
+    --highlight: #005BAD;
     --black: #000000;
     --white: #ffffff;
     --success-green: #008a20;
@@ -73,7 +74,7 @@ p a {
 }
 
 .header__logo-highlight {
-    color: var(--white);
+    color: var(--highlight);
 }
 
 .form-section {
