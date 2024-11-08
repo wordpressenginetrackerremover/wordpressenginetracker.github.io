@@ -323,8 +323,29 @@ p a {
     font-size: var(--font-size-small);
 }
 
+.host-item img {
+    display: none;
+    width: var(--font-size-small);
+}
+
+.host-item a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: var(--black);
+}
+
+.host-item a:hover {
+    text-decoration: underline;
+    padding: 6px 0;
+}
+
+.host-item a:hover img {
+    display: inline;
+}
+
 .recently-moved-wrap {
-    height: 24px; /* Height of one item */
+    height: 54px; /* Height of one item */
     overflow: hidden;
     position: relative;
 }
@@ -333,7 +354,8 @@ p a {
     position: absolute;
     animation: ticker 4s linear infinite;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
     gap: 8px;
     color: var(--primary-blue);
     font-size: 20px;
@@ -357,6 +379,22 @@ p a {
 
 .recently-moved-site a:hover {
     text-decoration: none;
+}
+
+.recently-moved-site-destination {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.recently-moved-site-destination img {
+    width: calc( var(--font-size-small) + 4px );
+}
+
+.recently-moved-site-destination p {
+    font-size: var(--font-size-small);
+    color: var(--black);
+    margin: 0;
 }
 
 @keyframes ticker {

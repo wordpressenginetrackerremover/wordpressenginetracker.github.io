@@ -1,0 +1,82 @@
+{
+    "Pressable": {
+        "href": "https://pressable.com/wpe-contract-buyout/",
+        "image": "images/hosts/Pressable.png"
+    },
+    "Bluehost": {
+        "href": "https://www.bluehost.com/migrate-wordpress-website?channelid=P61C46097236S625N0B2A151D0E0000V107",
+        "image": "images/hosts/Bluehost.png"
+    },
+    "SiteGround": {
+        "href": "https://siteground.com/free-wp-migration",
+        "image": "images/hosts/Siteground.png"
+    },
+    "Digital Ocean": {
+        "href": "https://www.digitalocean.com/",
+        "image": "images/hosts/Digital-Ocean.png"
+    },
+    "Kinsta": {
+        "href": "https://kinsta.com/",
+        "image": "images/hosts/Kinsta.png"
+    },
+    "Hostinger": {
+        "href": "https://hostinger.com/migrate",
+        "image": "images/hosts/Hostinger.png"
+    },
+    "GoDaddy": {
+        "href": "https://www.godaddy.com/",
+        "image": "images/hosts/GoDaddy.png"
+    },
+    "Elementor Hosting": {
+        "href": "https://elementor.com/",
+        "image": "images/hosts/Elementor-Hosting.png"
+    },
+    "Wordify": {
+        "href": "https://wordify.com/",
+        "image": "images/hosts/Wordify.png"
+    },
+    "BigScoots": {
+        "href": "https://www.bigscoots.com/",
+        "image": "images/hosts/Bigscoots.png"
+    },
+    "LiquidWeb": {
+        "href": "https://www.liquidweb.com/",
+        "image": "images/hosts/Liquid-Web.png"
+    },
+    "InMotion Hosting": {
+        "href": "https://www.inmotionhosting.com/",
+        "image": "images/hosts/InMotion-Hosting.png"
+    },
+    "WordPress.com": {
+        "href": "https://wordpress.com/migrate-from-wp-engine/",
+        "image": "images/hosts/WordPress.com.png"
+    },
+    "OVH": {
+        "href": "https://www.ovhcloud.com/",
+        "image": "images/hosts/OVH.png"
+    },
+    "IONOS": {
+        "href": "https://www.ionos.com/",
+        "image": "images/hosts/IONOS.png"
+    },
+    "A2 Hosting": {
+        "href": "https://www.a2hosting.com/",
+        "image": "images/hosts/A2-Hosting.png"
+    },
+    "Hetzner Online": {
+        "href": "https://www.hetzner.com/",
+        "image": "images/hosts/Hetzner-Online.png"
+    },
+    "Namecheap": {
+        "href": "https://www.namecheap.com/",
+        "image": "images/hosts/Namecheap.png"
+    },
+    "Krystal Hosting": {
+        "href": "https://krystal.io/",
+        "image": "images/hosts/Krystal-Hosting.png"
+    },
+    "GridPane": {
+        "href": "https://gridpane.com/",
+        "image": "images/hosts/GridPane.png"
+    }
+}
