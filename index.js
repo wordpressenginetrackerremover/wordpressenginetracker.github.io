@@ -199,8 +199,17 @@ function triggerRecentlyMovedAnimation() {
 function initRecentlyMoved() {
   fetch("site-count.json")
     .then((response) => response.json())
-    .then((data) => {
+    .then(async (data) => {
+      const hostsRes = await fetch('hosts.json');
+      const hosts = await hostsRes.json();
+
       const urls = data.recentlyMoved.map(item => item.domain_name);
+      const hostData = data.recentlyMoved.map(item => {
+        return {
+          'host': item.destination,
+          'image': hosts[item.destination].image
+        }
+      });
       const site = document.querySelector(".recently-moved");
 
       let currentIndex = 0;
@@ -210,6 +219,10 @@ function initRecentlyMoved() {
             <div class="recently-moved-site">
                 <a href="https://${urls[currentIndex]}" target="_blank">${urls[currentIndex]}</a>
                 <img src="images/arrow-up-right.svg" alt="→" />
+            </div>
+            <div class="recently-moved-site-destination">
+              <img src=${hostData[currentIndex]['image']} alt=${hostData[currentIndex]['host']} />
+              <p>${hostData[currentIndex]['host']}</p>
             </div>
         `;
 
@@ -309,7 +322,7 @@ function animateNumber(element, start, end, duration = 500) {
 function initTopDestinations() {
   fetch("site-count.json")
     .then((response) => response.json())
-    .then((data) => {
+    .then( async (data) => {
       const hostElement = document.querySelector(".host");
       const sitesCount = document.querySelector("#sites-count");
 
@@ -318,10 +331,24 @@ function initTopDestinations() {
         .sort((a, b) => b[1] - a[1])
         .slice(0, 7);
 
+      const hostsRes = await fetch('hosts.json');
+      const hosts = await hostsRes.json();
+
       topFive.forEach(([host, count]) => {
+        const hostData = hosts[host];
         const item = document.createElement("li");
         item.className = "host-item";
-        item.innerHTML = host;
+        item.innerHTML = `
+          <a
+            href="${hostData.href}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ${host}${' '}${hostData['has_promo'] ? '<span class="promo">(Promo)</span>' : ''}
+            <img src="images/arrow-up-right-black.svg" alt="→" />
+          </a>
+          
+        `;
 
         item.addEventListener("mouseenter", () => {
           animateNumber(
