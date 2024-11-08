@@ -334,6 +334,10 @@ p a {
     color: var(--black);
 }
 
+.host-item a span.promo {
+    padding-left: 2px;
+}
+
 .host-item a:hover {
     text-decoration: underline;
 }

@@ -325,7 +325,7 @@ function initTopDestinations() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            ${host}
+            ${host}${' '}${hostData['has_promo'] ? '<span class="promo">(Promo)</span>' : ''}
             <img src="images/arrow-up-right-black.svg" alt="→" />
           </a>
           
