@@ -24,17 +24,36 @@
         <meta name="twitter:title" content="WP Engine Tracker">
         <meta name="twitter:description" content="Tracking how many websites have left WP Engine and found a new home since September 21, 2024.">
         <meta name="twitter:image" content="https://wordpressenginetracker.com/images/wpet-og-image.png">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
     </head>
 
     <body>
         <script src="index.js" defer></script>
-        <header class="header">
-            <h1 class="header__logo">WP<br />Engine<br /><span class="header__logo-highlight">Tracker</span></h1>
-        </header>
-
+        <main>
         <section class="number-of-sites">
-            <p id="sites-count" class="number-of-sites__count"></p>
-            <div class="form-section">
+            <div class="intro">
+                <header class="header">
+                    <h1 class="header__logo">WordPress<br />Engine<br /><span class="header__logo-highlight">Tracker</span></h1>
+                </header>
+                <div class="source-serif-4-text">
+                    <p>
+                        This is the number of websites that have left WP Engine and found <a href="https://wordpress.org/hosting/">a new home</a> since Sep&nbsp;21,&nbsp;2024.
+                    </p>
+                    <p>
+                        <a href="https://wordpress.org/news/2024/10/wp-engine-promotions/">Find some promotions</a> to move to other hosts. <a href="https://wordpressenginetracker.com/domains.csv">Download CSV (6mb)</a> of all sites ready for a new home.
+                    </p>
+                </div>
+            </div>
+            <div class="large-count">
+                <span class="large-count__logo">
+                    <img height="48" width="48" src="images/wp-logo.svg" />
+                </span>
+                <p id="sites-count" class="number-of-sites__count source-serif-4-text"></p>
+            </div>
+            <!-- <div class="form-section">
                 <p class="form-section__body">
                     This is the number of websites that have left WP Engine and 
                     <a class="form-section__link" href="https://wordpress.org/hosting/">found a new home</a> 
@@ -66,9 +85,9 @@
                     <span id="form-result" class="form-section__form-result">
                         Enter a domain name
                     </span>
-                </form>
+                </form> -->
 
-                <div class="form-section__download">
+                <!-- <div class="form-section__download">
                     <p class="form-section__download-body">Download a CSV of all sites ready for a new&nbsp;home</p>
                     <a href="/domains.csv" class="form-section__download-button">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
@@ -76,16 +95,34 @@
                         </svg>
                         <span class="download-button__content">Download</span>
                     </a>
-                </div>
-            </div>
+                </div> -->
         </section>
 
-        <footer class="footer">
-            <span class="footer__content">An <img src="images/a8c-logo.svg" /> thingamajig</span>
-            <a class="footer__link" href="https://github.com/wordpressenginetracker/wordpressenginetracker.com">
-                Contribute at GitHub
-            </a>
-        </footer>
+        <section class="chart">
+            <div class="recently-moved-container">
+                <h3>Recently Moved</h3>
+                <div class="recently-moved-wrap">
+                    <div class="recently-moved source-serif-4-text"> <img src="images/arrow-right.svg" /></div>
+                </div>
+            </div>
+            <div class="top-destinations">
+                <h3>Top Destinations</h3>
+                <div class="host-list">
+                    <ul class="host"></ul>
+                </div>
+            </div>
+            <div class="chart-container">
+                <span class="chart-container__date">20 SEP, 2024</span>
+                <div class="bars-container"></div>
+            </div>
+            <footer class="footer">
+                <span class="footer__content">An <img src="images/a8c-logo.svg" /> thingamajig</span>
+                <a class="footer__link" href="https://github.com/wordpressenginetracker/wordpressenginetracker.com">
+                    Contribute at GitHub
+                </a>
+            </footer>
+        </section>
+    </main>
 
     </body>
 </html>
