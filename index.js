@@ -42,144 +42,297 @@ const formatNumber = ( number ) => {
   return `${ numberString }.${ decimalString}K`;
 }
 
-const isValidURL = ( str ) => {
-  try {
-    new URL( str );
-    return true;
-  } catch ( _ ) {
-    return false;
-  }
-}
+// const isValidURL = ( str ) => {
+//   try {
+//     new URL( str );
+//     return true;
+//   } catch ( _ ) {
+//     return false;
+//   }
+// }
 
-const prepareDomain = ( input ) => {
-  if ( isValidURL( input ) ) {
-    input = new URL( input ).hostname;
-  }
+// const prepareDomain = ( input ) => {
+//   if ( isValidURL( input ) ) {
+//     input = new URL( input ).hostname;
+//   }
 
-  // Remove unwanted characters (keeping only letters, numbers, hyphens, and dots)
-  const sanitized = input.replace( /[^a-zA-Z0-9.-]/g, '' );
+//   // Remove unwanted characters (keeping only letters, numbers, hyphens, and dots)
+//   const sanitized = input.replace( /[^a-zA-Z0-9.-]/g, '' );
 
-  return sanitized;
-}
+//   return sanitized;
+// }
 
-const isValidDomain = ( domain ) => {
-  const domainRegex = /^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,63}$/;
-  return domainRegex.test(domain);
-}
+// const isValidDomain = ( domain ) => {
+//   const domainRegex = /^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,63}$/;
+//   return domainRegex.test(domain);
+// }
 
-const updateFormResult = ( type = 'empty' ) => {
-  const formResultElement = document.getElementById( 'form-result' );
-  const inputElement = document.querySelector( 'input#domain' );
+// const updateFormResult = ( type = 'empty' ) => {
+//   const formResultElement = document.getElementById( 'form-result' );
+//   const inputElement = document.querySelector( 'input#domain' );
 
-  inputElement.classList.remove( 'error' );
-  inputElement.classList.remove( 'success' );
-  formResultElement.classList.remove( 'error' );
-  formResultElement.classList.remove( 'success' );
+//   inputElement.classList.remove( 'error' );
+//   inputElement.classList.remove( 'success' );
+//   formResultElement.classList.remove( 'error' );
+//   formResultElement.classList.remove( 'success' );
 
-  if ( type === 'not-valid' ) {
-    formResultElement.innerHTML = "Not a valid domain";
-    inputElement.classList.add( 'error' );
-    formResultElement.classList.add( 'error' );
-    return;
-  }
+//   if ( type === 'not-valid' ) {
+//     formResultElement.innerHTML = "Not a valid domain";
+//     inputElement.classList.add( 'error' );
+//     formResultElement.classList.add( 'error' );
+//     return;
+//   }
 
-  if ( type === 'filled-out' ) {
-    formResultElement.innerHTML= "Press enter to search";
-    return;
-  }
+//   if ( type === 'filled-out' ) {
+//     formResultElement.innerHTML= "Press enter to search";
+//     return;
+//   }
 
-  if ( type === 'still-hosted' ) {
-    formResultElement.innerHTML = "Still hosted by WP Engine";
-    inputElement.classList.add( 'error' );
-    formResultElement.classList.add( 'error' );
-    return;
-  }
+//   if ( type === 'still-hosted' ) {
+//     formResultElement.innerHTML = "Still hosted by WP Engine";
+//     inputElement.classList.add( 'error' );
+//     formResultElement.classList.add( 'error' );
+//     return;
+//   }
 
-  if ( type === 'not-hosted' ) {
-    formResultElement.innerHTML = "Not hosted by WP Engine";
-    inputElement.classList.add( 'success' );
-    formResultElement.classList.add( 'success' );
-    return;
-  }
+//   if ( type === 'not-hosted' ) {
+//     formResultElement.innerHTML = "Not hosted by WP Engine";
+//     inputElement.classList.add( 'success' );
+//     formResultElement.classList.add( 'success' );
+//     return;
+//   }
 
-  formResultElement.innerHTML = "Please enter a domain";
-}
+//   formResultElement.innerHTML = "Please enter a domain";
+// }
 
-const handleSearchForm = async () => {
-  const allDomains = new Set();
-  const searchForm = document.querySelector( 'form#search-form' );
-  const inputElement = document.querySelector( 'input#domain' );
-  const searchIcon = document.getElementById( 'search-icon' );
+// const handleSearchForm = async () => {
+//   const allDomains = new Set();
+//   const searchForm = document.querySelector( 'form#search-form' );
+//   const inputElement = document.querySelector( 'input#domain' );
+//   const searchIcon = document.getElementById( 'search-icon' );
 
-    const setDownloadSizeEstimate = mb => {
-        document.querySelector( '.download-button__content' ).textContent = mb ? `Download (${ mb }MB)` : 'Download';
-    }
+//     const setDownloadSizeEstimate = mb => {
+//         document.querySelector( '.download-button__content' ).textContent = mb ? `Download (${ mb }MB)` : 'Download';
+//     }
 
-    const wpeSites = [
-      /\.wpengine\.com$/,
-      /\.wpenginepowered\.com$/,
-      /\.flywheelsites\.com$/,
-      /\.flywheelstaging\.com$/,
-      /^wpenginepowered\.com$/,
-      /^flywheel\.io$/
-    ];
+//     const wpeSites = [
+//       /\.wpengine\.com$/,
+//       /\.wpenginepowered\.com$/,
+//       /\.flywheelsites\.com$/,
+//       /\.flywheelstaging\.com$/,
+//       /^wpenginepowered\.com$/,
+//       /^flywheel\.io$/
+//     ];
 
-    try {
-      const { text, rows } = await fetchSitesData();
+//     try {
+//       const { text, rows } = await fetchSitesData();
   
-      setDownloadSizeEstimate( calculateFileSize( text ) );    
+//       setDownloadSizeEstimate( calculateFileSize( text ) );    
 
-      rows.map( row => row.trim() )
-        .filter( row => row )
-        .forEach( domain => allDomains.add( domain ) );
+//       rows.map( row => row.trim() )
+//         .filter( row => row )
+//         .forEach( domain => allDomains.add( domain ) );
   
-      console.log( `Loaded CSV with ${allDomains.size} domains` );
-    } catch (error) {
-      console.error( 'Error loading CSV: ', error );
-    }
+//       console.log( `Loaded CSV with ${allDomains.size} domains` );
+//     } catch (error) {
+//       console.error( 'Error loading CSV: ', error );
+//     }
     
-    const isHostedOnWPE = domain => {
-      const lowerDomain = domain.toLowerCase();
-      return allDomains.has( lowerDomain ) || wpeSites.some( regex => regex.test( lowerDomain ) );
-    }
+//     const isHostedOnWPE = domain => {
+//       const lowerDomain = domain.toLowerCase();
+//       return allDomains.has( lowerDomain ) || wpeSites.some( regex => regex.test( lowerDomain ) );
+//     }
 
-    inputElement.addEventListener( 'input', event => {
-        const domain = prepareDomain( event.target.value );
+//     inputElement.addEventListener( 'input', event => {
+//         const domain = prepareDomain( event.target.value );
 
-      if ( ! domain ) {
-        updateFormResult( 'empty' );
-        searchIcon.style.display = 'initial';
-        return;
+//       if ( ! domain ) {
+//         updateFormResult( 'empty' );
+//         searchIcon.style.display = 'initial';
+//         return;
+//       }
+
+//       updateFormResult( 'filled-out' );
+//       searchIcon.style.display = 'none';
+//     } );
+
+//     searchForm.addEventListener( 'submit', event => {
+//       event.preventDefault();
+//       const domain = prepareDomain( event.target.elements['domain'].value );
+
+//       if ( domain ) {
+//         if ( ! isValidDomain( domain ) ) {
+//           updateFormResult( 'not-valid' );
+//         } else if ( isHostedOnWPE( domain ) ) {
+//           updateFormResult( 'still-hosted' );
+//         } else {
+//           updateFormResult( 'not-hosted' );
+//         }
+//       }
+
+//       return domain && isHostedOnWPE( domain );
+//     } );
+// }
+
+// document.addEventListener( 'DOMContentLoaded', async () => {
+//     handleSearchForm();
+// } );
+
+function initRecentlyMoved() {
+  fetch("site-count.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const urls = data.recentlyMoved;
+      const site = document.querySelector(".recently-moved");
+
+      let currentIndex = 0;
+
+      function updateTicker() {
+        site.innerHTML = `
+            <div class="recently-moved-site">
+                <a href="https://${urls[currentIndex]}" target="_blank">${urls[currentIndex]}</a>
+                <img src="images/arrow-up-right.svg" alt="→" />
+            </div>
+        `;
+
+        currentIndex = (currentIndex + 1) % urls.length;
       }
 
-      updateFormResult( 'filled-out' );
-      searchIcon.style.display = 'none';
-    } );
-
-    searchForm.addEventListener( 'submit', event => {
-      event.preventDefault();
-      const domain = prepareDomain( event.target.elements['domain'].value );
-
-      if ( domain ) {
-        if ( ! isValidDomain( domain ) ) {
-          updateFormResult( 'not-valid' );
-        } else if ( isHostedOnWPE( domain ) ) {
-          updateFormResult( 'still-hosted' );
-        } else {
-          updateFormResult( 'not-hosted' );
-        }
-      }
-
-      return domain && isHostedOnWPE( domain );
-    } );
+      updateTicker();
+      setInterval(updateTicker, 4000);
+    });
 }
 
-document.addEventListener( 'DOMContentLoaded', async () => {
-    handleSearchForm();
-} );
+function initChart() {
+  fetch("site-count.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const stats = data.dailyMovedStat;
+      const barsContainer = document.querySelector(".bars-container");
 
-window.addEventListener( 'load', async () => {
+      const tooltip = document.createElement("div");
+      tooltip.className = "tooltip";
+      barsContainer.appendChild(tooltip);
+
+      let tooltipTimeout;
+
+      const maxValue = Math.max(...Object.values(stats));
+      const entries = Object.entries(stats);
+
+      // Create bars
+      entries.forEach(([date, value], index) => {
+        const height = (value / maxValue) * 100;
+        const bar = document.createElement("div");
+        bar.className = "bar";
+        bar.style.height = `${height}%`;
+        bar.dataset.value = value;
+        bar.style.animationDelay = `${index * 30}ms`;
+        barsContainer.appendChild(bar);
+      });
+
+      // Update tooltip on mousemove
+      const updateTooltip = (e) => {
+        clearTimeout(tooltipTimeout);
+        tooltip.style.opacity = "1";
+
+        const barsContainerRect = barsContainer.getBoundingClientRect();
+        const relativeX = e.clientX - barsContainerRect.left;
+        const barWidth = barsContainerRect.width / entries.length;
+        const barIndex = Math.min(
+          Math.floor((relativeX + barWidth / 2) / barWidth),
+          entries.length - 1
+        );
+
+        if (barIndex >= 0 && barIndex < entries.length) {
+          const bar = barsContainer.children[barIndex + 1];
+          if (bar && bar.classList.contains("bar")) {
+            tooltip.style.left = `${e.clientX - barsContainerRect.left}px`;
+            tooltip.textContent = bar.dataset.value;
+          }
+        }
+      };
+
+      // Handle mouse leave
+      barsContainer.addEventListener("mouseleave", () => {
+        tooltipTimeout = setTimeout(() => {
+          tooltip.style.opacity = "0";
+        }, 500);
+      });
+
+      barsContainer.addEventListener("mousemove", updateTooltip);
+    });
+}
+
+function animateNumber(element, start, end, duration = 500) {
+  const startTime = performance.now();
+  const startNumber = parseInt(start);
+  const endNumber = parseInt(end);
+  const difference = endNumber - startNumber;
+
+  function update(currentTime) {
+    const elapsed = currentTime - startTime;
+    const progress = Math.min(elapsed / duration, 1);
+
+    // Easing function for smooth animation
+    const easeOutQuad = 1 - Math.pow(1 - progress, 2);
+    const currentNumber = Math.floor(startNumber + difference * easeOutQuad);
+
+    element.textContent = formatNumber(currentNumber);
+
+    if (progress < 1) {
+      requestAnimationFrame(update);
+    }
+  }
+
+  requestAnimationFrame(update);
+}
+
+function initTopDestinations() {
+  fetch("site-count.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const hostElement = document.querySelector(".host");
+      const sitesCount = document.querySelector("#sites-count");
+
+      // Get top 7 destinations
+      const topFive = Object.entries(data.topDestinationHosts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 7);
+
+      topFive.forEach(([host, count]) => {
+        const item = document.createElement("li");
+        item.className = "host-item";
+        item.innerHTML = host;
+
+        item.addEventListener("mouseenter", () => {
+          animateNumber(
+            sitesCount,
+            sitesCount.textContent.replace(/[^\d]/g, ""),
+            count
+          );
+        });
+
+        item.addEventListener("mouseleave", () => {
+          animateNumber(
+            sitesCount,
+            sitesCount.textContent.replace(/[^\d]/g, ""),
+            data.siteCount
+          );
+        });
+
+        hostElement.appendChild(item);
+      });
+    });
+}
+
+window.addEventListener("load", async () => {
   const sitesCount = await fetchSitesCount();
-  const sitesCountElement = document.getElementById( 'sites-count' );
-  sitesCountElement.textContent = formatNumber( sitesCount );
-} );
+  const sitesCountElement = document.getElementById("sites-count");
+  sitesCountElement.textContent = formatNumber(sitesCount);
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  initRecentlyMoved();
+  initChart();
+  initTopDestinations();
+}); 
