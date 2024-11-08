@@ -299,7 +299,7 @@ p a {
 
 .recently-moved-container,
 .top-destinations {
-    padding: 0 20px 40px;
+    padding: 0 20px 40px 0;
     position: relative;
     z-index: 10;
 }
@@ -399,7 +399,7 @@ p a {
     transform: rotate(-90deg);
     transform-origin: left center;
     position: absolute;
-    left: 0;
+    left: 6px;
     bottom: 20px;
 }
 
@@ -468,6 +468,7 @@ p a {
     }
 
     .chart {
+        position: relative;
         height: 80vh;
     }
 }
