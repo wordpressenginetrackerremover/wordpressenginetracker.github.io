@@ -352,6 +352,10 @@ p a {
 
 .recently-moved-site a {
     color: var(--primary-blue);
+    text-decoration: underline;
+}
+
+.recently-moved-site a:hover {
     text-decoration: none;
 }
 
