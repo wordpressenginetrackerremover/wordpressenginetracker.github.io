@@ -1,6 +1,46 @@
 {
-    "siteCount": 16812,
+    "siteCount": 16837,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sccnv.com",
+            "destination": "Kinsta",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "salis.gr",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "royalbiotek.com",
+            "destination": "IONOS",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "www.bryansheatingandcoolingllc.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "deecpa.com",
+            "destination": "SiteGround",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "www.treesandmoreflorida.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "psbsutah.com",
+            "destination": "SiteGround",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "treesandmoreflorida.com",
+            "destination": "Pressable",
+            "date": "2024-11-08"
+        },
         {
             "domain_name": "root18cf.com",
             "destination": "Digital Ocean",
@@ -460,46 +500,6 @@
             "domain_name": "grasshoppermarket.com",
             "destination": "SiteGround",
             "date": "2024-11-08"
-        },
-        {
-            "domain_name": "tritonfishing.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "capecodhydrangeasociety.org",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "tpconstructioncapecod.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "premiumrideservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "www.revivalabs.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "www.capescope.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "chuckspumps.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "bhinnov.org",
-            "destination": "Pressable",
-            "date": "2024-11-08"
         }
     ],
     "dailyMovedStat": {
@@ -554,11 +554,11 @@
         "2024-11-08": "16798"
     },
     "topDestinationHosts": {
-        "Pressable": 4084,
+        "Pressable": 4087,
         "Bluehost": 3418,
-        "SiteGround": 951,
-        "Digital Ocean": 780,
-        "Kinsta": 758,
+        "SiteGround": 953,
+        "Digital Ocean": 781,
+        "Kinsta": 759,
         "Hostinger": 460,
         "GoDaddy": 225,
         "Elementor Hosting": 140,
@@ -568,7 +568,7 @@
         "InMotion Hosting": 80,
         "WordPress.com": 77,
         "OVH": 56,
-        "IONOS": 50,
+        "IONOS": 51,
         "A2 Hosting": 48,
         "Hetzner Online": 47,
         "Namecheap": 42,
