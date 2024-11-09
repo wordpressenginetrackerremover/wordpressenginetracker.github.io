@@ -1,6 +1,46 @@
 {
-    "siteCount": 16798,
+    "siteCount": 16812,
     "recentlyMoved": [
+        {
+            "domain_name": "root18cf.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "www.ocps.org",
+            "destination": "Kinsta",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "discoveravon.org",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "www.miamiskinandvein.com",
+            "destination": "Kinsta",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "senergyfitness.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "elpaisagrill.com",
+            "destination": "SiteGround",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "saxumre.com",
+            "destination": "BigScoots",
+            "date": "2024-11-08"
+        },
+        {
+            "domain_name": "atsvc.com",
+            "destination": "OVH",
+            "date": "2024-11-08"
+        },
         {
             "domain_name": "newimagesidingllc.com",
             "destination": "SiteGround",
@@ -460,46 +500,6 @@
             "domain_name": "bhinnov.org",
             "destination": "Pressable",
             "date": "2024-11-08"
-        },
-        {
-            "domain_name": "allianceathleticsoly.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "chandlerbayshore.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "berkshirehg.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "becomefitnesswestford.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "beantowntaxi.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "castlehilldentalcare.com.au",
-            "destination": "Hostinger",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "bascogrill.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
-        },
-        {
-            "domain_name": "backtonaturerentals.com",
-            "destination": "Pressable",
-            "date": "2024-11-08"
         }
     ],
     "dailyMovedStat": {
@@ -556,18 +556,18 @@
     "topDestinationHosts": {
         "Pressable": 4084,
         "Bluehost": 3418,
-        "SiteGround": 950,
-        "Digital Ocean": 777,
-        "Kinsta": 756,
+        "SiteGround": 951,
+        "Digital Ocean": 780,
+        "Kinsta": 758,
         "Hostinger": 460,
         "GoDaddy": 225,
         "Elementor Hosting": 140,
         "Wordify": 129,
-        "BigScoots": 122,
+        "BigScoots": 123,
         "Liquid Web": 90,
         "InMotion Hosting": 80,
         "WordPress.com": 77,
-        "OVH": 55,
+        "OVH": 56,
         "IONOS": 50,
         "A2 Hosting": 48,
         "Hetzner Online": 47,
