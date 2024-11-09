@@ -1,6 +1,11 @@
 {
-    "siteCount": 17095,
+    "siteCount": 17096,
     "recentlyMoved": [
+        {
+            "domain_name": "craftsmanship.net",
+            "destination": "Pressable",
+            "date": "2024-11-09"
+        },
         {
             "domain_name": "www.floorsanders.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.kbhvacsolutions.com",
             "destination": "Pressable",
             "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.karlswaterstore.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
         }
     ],
     "dailyMovedStat": {
@@ -554,7 +554,7 @@
         "2024-11-08": "16798"
     },
     "topDestinationHosts": {
-        "Pressable": 4272,
+        "Pressable": 4273,
         "Bluehost": 3419,
         "SiteGround": 960,
         "Digital Ocean": 782,
