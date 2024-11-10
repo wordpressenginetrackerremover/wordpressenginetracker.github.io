@@ -1,6 +1,91 @@
 {
-    "siteCount": 17163,
+    "siteCount": 17181,
     "recentlyMoved": [
+        {
+            "domain_name": "sacredspacesenergy.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "sacredbodylove.org",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "www.delreymd.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "angelsofamsterdamfilm.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "yogawithkaryn.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "theblissmystic.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "relationalfreedom.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "vanyaerickson.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "redeemersanrafael.org",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "www.vitalelectrichvac.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "sheeranpipeline.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "mikeluciadesignbuild.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "susankatzbooks.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "elizabethagouldstories.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "wordplayagency.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "gateway2healing.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "gannonconstructioncompany.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
         {
             "domain_name": "kingswaydentist.ca",
             "destination": "Digital Ocean",
@@ -415,91 +500,6 @@
             "domain_name": "www.rodgersinsuranceagent.com",
             "destination": "Pressable",
             "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.rmcelectricllcnm.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.floridasupersheds.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "rtshvac.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "maloneycontractingllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "rokoconstructionandland.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "floridasupersheds.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "rmcelectricllcnm.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.maloneycontractingllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "sjdowntown.com",
-            "destination": "Hostinger",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "rdb-solutions.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "tangible.co",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "pwscontractingllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "prolandscapestreeservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "nutbutgut.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "kosmoshomeandland.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "prestigeearthworks.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "maxxima-concrete.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
         }
     ],
     "dailyMovedStat": {
@@ -555,13 +555,13 @@
         "2024-11-09": "17121"
     },
     "topDestinationHosts": {
-        "Pressable": 4294,
+        "Pressable": 4310,
         "Bluehost": 3422,
         "SiteGround": 966,
         "Digital Ocean": 788,
         "Kinsta": 766,
         "Hostinger": 468,
-        "GoDaddy": 229,
+        "GoDaddy": 230,
         "Elementor Hosting": 140,
         "Wordify": 130,
         "BigScoots": 124,
