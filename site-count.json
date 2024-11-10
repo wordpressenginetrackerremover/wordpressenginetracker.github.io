@@ -1,6 +1,21 @@
 {
-    "siteCount": 17121,
+    "siteCount": 17125,
     "recentlyMoved": [
+        {
+            "domain_name": "myreminderpal.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "mongatawinery.com",
+            "destination": "SiteGround",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "hypertensionandkidneyspecialist.com",
+            "destination": "Bluehost",
+            "date": "2024-11-09"
+        },
         {
             "domain_name": "jewellerygeneva.com",
             "destination": "Liquid Web",
@@ -485,21 +500,6 @@
             "domain_name": "hayesenterprisesne.com",
             "destination": "Pressable",
             "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.maxxima-concrete.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.massmovers.net",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.mahomeimprovementsllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
         }
     ],
     "dailyMovedStat": {
@@ -556,8 +556,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 4273,
-        "Bluehost": 3419,
-        "SiteGround": 964,
+        "Bluehost": 3420,
+        "SiteGround": 965,
         "Digital Ocean": 786,
         "Kinsta": 766,
         "Hostinger": 467,
@@ -567,7 +567,7 @@
         "BigScoots": 124,
         "Liquid Web": 92,
         "InMotion Hosting": 82,
-        "WordPress.com": 77,
+        "WordPress.com": 78,
         "OVH": 57,
         "IONOS": 51,
         "A2 Hosting": 48,
