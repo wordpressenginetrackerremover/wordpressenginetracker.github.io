@@ -1,6 +1,21 @@
 {
-    "siteCount": 17366,
+    "siteCount": 17369,
     "recentlyMoved": [
+        {
+            "domain_name": "pascaleplumbingandheatingnj.net",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "quickconnectelectricinc.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "premiumtpr.com",
+            "destination": "Pressable",
+            "date": "2024-11-10"
+        },
         {
             "domain_name": "www.sathandymanservices.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.guttershutterct.com",
             "destination": "Pressable",
             "date": "2024-11-10"
-        },
-        {
-            "domain_name": "brindleyconstruction.com",
-            "destination": "Pressable",
-            "date": "2024-11-10"
-        },
-        {
-            "domain_name": "asaphomedoctor.com",
-            "destination": "Pressable",
-            "date": "2024-11-10"
-        },
-        {
-            "domain_name": "www.dnbtreeservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-10"
         }
     ],
     "dailyMovedStat": {
@@ -555,7 +555,7 @@
         "2024-11-09": "17121"
     },
     "topDestinationHosts": {
-        "Pressable": 4475,
+        "Pressable": 4478,
         "Bluehost": 3422,
         "SiteGround": 968,
         "Digital Ocean": 788,
