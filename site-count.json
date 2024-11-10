@@ -1,6 +1,41 @@
 {
-    "siteCount": 17148,
+    "siteCount": 17157,
     "recentlyMoved": [
+        {
+            "domain_name": "drmazzola.com",
+            "destination": "Pressable",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "andoverwego.com",
+            "destination": "Pressable",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "christinepappas.org",
+            "destination": "Pressable",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "childrensfundforfallen.org",
+            "destination": "Pressable",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "theasphaltpro.com",
+            "destination": "SiteGround",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "www.bayareacleancare.com",
+            "destination": "Bluehost",
+            "date": "2024-11-09"
+        },
+        {
+            "domain_name": "bayareacleancare.com",
+            "destination": "Bluehost",
+            "date": "2024-11-09"
+        },
         {
             "domain_name": "arizonagreengold.com",
             "destination": "Pressable",
@@ -465,41 +500,6 @@
             "domain_name": "www.pwscontractingllc.com",
             "destination": "Pressable",
             "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.pryorprovisions.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.prolandscapestreeservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.prestigeearthworks.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.precisionwaters.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "www.pratherpropertyservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "nobrandbridalca.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
-        },
-        {
-            "domain_name": "newfinishtubs.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
         }
     ],
     "dailyMovedStat": {
@@ -555,9 +555,9 @@
         "2024-11-09": "17121"
     },
     "topDestinationHosts": {
-        "Pressable": 4286,
-        "Bluehost": 3420,
-        "SiteGround": 965,
+        "Pressable": 4290,
+        "Bluehost": 3422,
+        "SiteGround": 966,
         "Digital Ocean": 787,
         "Kinsta": 766,
         "Hostinger": 468,
