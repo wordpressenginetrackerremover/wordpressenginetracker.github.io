@@ -1,6 +1,11 @@
 {
-    "siteCount": 17378,
+    "siteCount": 17380,
     "recentlyMoved": [
+        {
+            "domain_name": "draleticiacamarena.com",
+            "destination": "SiteGround",
+            "date": "2024-11-10"
+        },
         {
             "domain_name": "myemergencydental.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "enviroprotestingandconsulting.com",
             "destination": "Pressable",
             "date": "2024-11-10"
-        },
-        {
-            "domain_name": "tradoors.net",
-            "destination": "Pressable",
-            "date": "2024-11-10"
         }
     ],
     "dailyMovedStat": {
@@ -557,7 +557,7 @@
     "topDestinationHosts": {
         "Pressable": 4478,
         "Bluehost": 3422,
-        "SiteGround": 968,
+        "SiteGround": 969,
         "Digital Ocean": 788,
         "Kinsta": 766,
         "Hostinger": 469,
