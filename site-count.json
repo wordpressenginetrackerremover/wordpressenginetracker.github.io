@@ -1,6 +1,11 @@
 {
-    "siteCount": 17125,
+    "siteCount": 17129,
     "recentlyMoved": [
+        {
+            "domain_name": "parksj.org",
+            "destination": "Hostinger",
+            "date": "2024-11-09"
+        },
         {
             "domain_name": "myreminderpal.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "pciudadana.org",
             "destination": "Hostinger",
             "date": "2024-11-09"
-        },
-        {
-            "domain_name": "hayesenterprisesne.com",
-            "destination": "Pressable",
-            "date": "2024-11-09"
         }
     ],
     "dailyMovedStat": {
@@ -560,7 +560,7 @@
         "SiteGround": 965,
         "Digital Ocean": 786,
         "Kinsta": 766,
-        "Hostinger": 467,
+        "Hostinger": 468,
         "GoDaddy": 229,
         "Elementor Hosting": 140,
         "Wordify": 130,
