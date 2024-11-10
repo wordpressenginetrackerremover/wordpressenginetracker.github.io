@@ -49,7 +49,7 @@
         "image": "images/hosts/Bigscoots.png",
         "has_promo": false
     },
-    "LiquidWeb": {
+    "Liquid Web": {
         "href": "https://www.liquidweb.com/",
         "image": "images/hosts/Liquid-Web.png",
         "has_promo": false
@@ -97,6 +97,16 @@
     "GridPane": {
         "href": "https://gridpane.com/",
         "image": "images/hosts/GridPane.png",
+        "has_promo": false
+    },
+    "GoDaddy": {
+        "href": "https://godaddy.com/",
+        "image": "images/hosts/GoDaddy.png",
+        "has_promo": false
+    },
+    "DreamHost": {
+        "href": "https://dreamhost.com/",
+        "image": "images/hosts/DreamHost.png",
         "has_promo": false
     }
 }
