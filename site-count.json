@@ -1,6 +1,11 @@
 {
-    "siteCount": 17373,
+    "siteCount": 17377,
     "recentlyMoved": [
+        {
+            "domain_name": "myemergencydental.com",
+            "destination": "Hostinger",
+            "date": "2024-11-10"
+        },
         {
             "domain_name": "pascaleplumbingandheatingnj.net",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "tradoors.net",
             "destination": "Pressable",
             "date": "2024-11-10"
-        },
-        {
-            "domain_name": "www.guttershutterct.com",
-            "destination": "Pressable",
-            "date": "2024-11-10"
         }
     ],
     "dailyMovedStat": {
@@ -560,7 +560,7 @@
         "SiteGround": 968,
         "Digital Ocean": 788,
         "Kinsta": 766,
-        "Hostinger": 468,
+        "Hostinger": 469,
         "GoDaddy": 232,
         "Elementor Hosting": 140,
         "Wordify": 130,
