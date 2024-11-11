@@ -215,14 +215,21 @@ function initRecentlyMoved() {
       let currentIndex = 0;
 
       function updateTicker() {
+        const imageSrc = hostData[currentIndex]['image'] ?? null;
+        const host = hostData[currentIndex]['host'] ?? 'Unknown host';
+
+        if ( host === 'Unknown host' ) {
+          console.log( 'No data found for host: ', host );
+        }
+
         site.innerHTML = `
             <div class="recently-moved-site">
                 <a href="https://${urls[currentIndex]}" target="_blank">${urls[currentIndex]}</a>
                 <img src="images/arrow-up-right.svg" alt="→" />
             </div>
             <div class="recently-moved-site-destination">
-              <img src=${hostData[currentIndex]['image']} alt=${hostData[currentIndex]['host']} />
-              <p>${hostData[currentIndex]['host']}</p>
+              ${ imageSrc ? '<img src="' + imageSrc + '"alt="' + host + '"/>' : '' }
+              <p>${host}</p>
             </div>
         `;
 
@@ -338,6 +345,12 @@ function initTopDestinations() {
         const hostData = hosts[host];
         const item = document.createElement("li");
         item.className = "host-item";
+
+        if ( ! hostData ) {
+          console.log( 'No data found for host: ', host );
+          return;
+        }
+
         item.innerHTML = `
           <a
             href="${hostData.href}"

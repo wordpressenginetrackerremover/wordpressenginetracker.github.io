@@ -29,11 +29,6 @@
         "image": "images/hosts/Hostinger.png",
         "has_promo": true
     },
-    "GoDaddy": {
-        "href": "https://www.godaddy.com/",
-        "image": "images/hosts/GoDaddy.png",
-        "has_promo": false
-    },
     "Elementor Hosting": {
         "href": "https://elementor.com/",
         "image": "images/hosts/Elementor-Hosting.png",
