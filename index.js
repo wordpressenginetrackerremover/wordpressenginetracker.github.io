@@ -206,8 +206,8 @@ function initRecentlyMoved() {
       const urls = data.recentlyMoved.map(item => item.domain_name);
       const hostData = data.recentlyMoved.map(item => {
         return {
-          'host': item.destination,
-          'image': hosts[item.destination].image
+          'host': item?.destination ?? 'Unknown host',
+          'image': hosts?.[item.destination]?.image ?? null
         }
       });
       const site = document.querySelector(".recently-moved");
