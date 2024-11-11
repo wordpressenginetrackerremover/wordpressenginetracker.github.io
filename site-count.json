@@ -1,6 +1,31 @@
 {
-    "siteCount": 17719,
+    "siteCount": 17738,
     "recentlyMoved": [
+        {
+            "domain_name": "www.outbound.eu",
+            "destination": "Kinsta",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "stageandlighting.ie",
+            "destination": "SiteGround",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "cmh23.com",
+            "destination": "SiteGround",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.myplaceandstory.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "velocityadultfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-11"
+        },
         {
             "domain_name": "www.permateek.com",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "www.hansonchiropracticia.com",
             "destination": "Pressable",
             "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.gwyngrading.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.greerdozerexcavationservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.greenthumblawnandlandscape.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.goldstarplumbingpros.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.glorybuilders.net",
-            "destination": "Pressable",
-            "date": "2024-11-11"
         }
     ],
     "dailyMovedStat": {
@@ -558,9 +558,9 @@
     "topDestinationHosts": {
         "Pressable": 4659,
         "Bluehost": 3422,
-        "SiteGround": 981,
-        "Digital Ocean": 795,
-        "Kinsta": 770,
+        "SiteGround": 983,
+        "Digital Ocean": 797,
+        "Kinsta": 771,
         "Hostinger": 470,
         "GoDaddy": 233,
         "Elementor Hosting": 142,
