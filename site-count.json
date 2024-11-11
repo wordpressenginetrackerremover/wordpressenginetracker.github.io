@@ -1,6 +1,11 @@
 {
-    "siteCount": 17738,
+    "siteCount": 17755,
     "recentlyMoved": [
+        {
+            "domain_name": "dkcleaning.ca",
+            "destination": "Hostinger",
+            "date": "2024-11-11"
+        },
         {
             "domain_name": "www.outbound.eu",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.harrislawnandgroundmaintenance.com",
             "destination": "Pressable",
             "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.hansonchiropracticia.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
         }
     ],
     "dailyMovedStat": {
@@ -561,7 +561,7 @@
         "SiteGround": 983,
         "Digital Ocean": 797,
         "Kinsta": 771,
-        "Hostinger": 470,
+        "Hostinger": 471,
         "GoDaddy": 233,
         "Elementor Hosting": 142,
         "Wordify": 130,
