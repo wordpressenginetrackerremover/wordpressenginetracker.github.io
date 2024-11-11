@@ -215,8 +215,8 @@ function initRecentlyMoved() {
       let currentIndex = 0;
 
       function updateTicker() {
-        const imageSrc = hostData[currentIndex]['image'] ?? null;
-        const host = hostData[currentIndex]['host'] ?? 'Unknown host';
+        const imageSrc = hostData?.[currentIndex]?.['image'] ?? null;
+        const host = hostData?.[currentIndex]?.['host'] ?? 'Unknown host';
 
         if ( host === 'Unknown host' ) {
           console.log( 'No data found for host: ', host );
