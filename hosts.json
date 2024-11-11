@@ -109,7 +109,7 @@
         "image": "images/hosts/DreamHost.png",
         "has_promo": false
     },
-    "HostGator" {
+    "HostGator": {
         "href": "https://hostgator.com",
         "image": "images/hosts/HostGator.png",
         "has_promo": false
