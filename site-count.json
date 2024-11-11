@@ -1,6 +1,91 @@
 {
-    "siteCount": 17794,
+    "siteCount": 17816,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fairviewinteriorsllc.com",
+            "destination": "Pressable",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.eliteexteriorserv.com",
+            "destination": "Pressable",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "kevlarhomesolutions.com",
+            "destination": "SiteGround",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.novasourcepower.com",
+            "destination": "BigScoots",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "rlkportal.ca",
+            "destination": "SiteGround",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "ricetec.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "solarisvail.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "revivalvail.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "thedesignerlaunch.com",
+            "destination": "BigScoots",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.broadshieldsecurity.com",
+            "destination": "Bluehost",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "reinergmbh.com",
+            "destination": "Hetzner Online",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "fairviewinteriorsllc.com",
+            "destination": "Pressable",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.kdmtravel.com",
+            "destination": "SiteGround",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.tpo.se",
+            "destination": "Kinsta",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "tri-copy.com",
+            "destination": "OVH",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "trettioplus.com",
+            "destination": "Kinsta",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "sarasotaatriums.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-11"
+        },
         {
             "domain_name": "www.fittletoncumhaxton.co.uk",
             "destination": "Pressable",
@@ -415,91 +500,6 @@
             "domain_name": "www.kingoflawncarefl.com",
             "destination": "Pressable",
             "date": "2024-11-11"
-        },
-        {
-            "domain_name": "millingtonelectric.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.jemountaininsulation.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.janimurphy.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.sf-arc.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "en.share-natural.com",
-            "destination": "SiteGround",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "lafloorswi.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "premiumdeckandrail.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.premiumdeckandrail.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "kingoflawncarefl.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "dreamitquiltit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "maganaconcrete.net",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "fixitrightplumbingtx.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "waevergreenservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "lvldllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "harrislawnandgroundmaintenance.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.maganaconcrete.net",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "www.lvldllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
         }
     ],
     "dailyMovedStat": {
@@ -556,23 +556,23 @@
         "2024-11-10": "17418"
     },
     "topDestinationHosts": {
-        "Pressable": 4667,
-        "Bluehost": 3422,
-        "SiteGround": 989,
-        "Digital Ocean": 798,
-        "Kinsta": 771,
+        "Pressable": 4670,
+        "Bluehost": 3423,
+        "SiteGround": 992,
+        "Digital Ocean": 800,
+        "Kinsta": 773,
         "Hostinger": 472,
-        "GoDaddy": 233,
+        "GoDaddy": 235,
         "Elementor Hosting": 142,
         "Wordify": 130,
-        "BigScoots": 125,
+        "BigScoots": 127,
         "Liquid Web": 95,
         "InMotion Hosting": 82,
         "WordPress.com": 78,
-        "OVH": 57,
+        "OVH": 58,
         "IONOS": 51,
+        "Hetzner Online": 48,
         "A2 Hosting": 48,
-        "Hetzner Online": 47,
         "Namecheap": 42,
         "DreamHost": 40,
         "Krystal Hosting": 39
