@@ -1,6 +1,16 @@
 {
-    "siteCount": 17418,
+    "siteCount": 17424,
     "recentlyMoved": [
+        {
+            "domain_name": "propertiesbuydesign.com",
+            "destination": "SiteGround",
+            "date": "2024-11-10"
+        },
+        {
+            "domain_name": "www.neurotoxicology.org",
+            "destination": "DreamHost",
+            "date": "2024-11-10"
+        },
         {
             "domain_name": "hanumansatsang.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "www.elitemoldtestandassess.com",
             "destination": "Pressable",
             "date": "2024-11-10"
-        },
-        {
-            "domain_name": "www.eliteaccesscontrols.com",
-            "destination": "Pressable",
-            "date": "2024-11-10"
-        },
-        {
-            "domain_name": "www.edkotaryhomeinspection.com",
-            "destination": "Pressable",
-            "date": "2024-11-10"
         }
     ],
     "dailyMovedStat": {
@@ -558,7 +558,7 @@
     "topDestinationHosts": {
         "Pressable": 4479,
         "Bluehost": 3422,
-        "SiteGround": 972,
+        "SiteGround": 973,
         "Digital Ocean": 790,
         "Kinsta": 766,
         "Hostinger": 469,
@@ -574,7 +574,7 @@
         "A2 Hosting": 48,
         "Hetzner Online": 47,
         "Namecheap": 42,
-        "Krystal Hosting": 39,
-        "DreamHost": 38
+        "DreamHost": 39,
+        "Krystal Hosting": 39
     }
 }
