@@ -1,6 +1,41 @@
 {
-    "siteCount": 17860,
+    "siteCount": 17879,
     "recentlyMoved": [
+        {
+            "domain_name": "www.penncolor.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "malibuheatingandair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "ma-title.com",
+            "destination": "Pressable",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "www.miraclemilederm.com",
+            "destination": "Kinsta",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "patron.dick.show",
+            "destination": "Kinsta",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "jbtradesremodeling.com",
+            "destination": "Pressable",
+            "date": "2024-11-11"
+        },
+        {
+            "domain_name": "ptboulder.com",
+            "destination": "SiteGround",
+            "date": "2024-11-11"
+        },
         {
             "domain_name": "www.nicholaswilton.com",
             "destination": "BigScoots",
@@ -465,41 +500,6 @@
             "domain_name": "subifarmersmarket.com.au",
             "destination": "Pressable",
             "date": "2024-11-11"
-        },
-        {
-            "domain_name": "kroughdiamonds.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "4reas.biz",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "savemooreriver.org",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "sanjosetheaters.org",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "maverickwaterheaters.co",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "mattyoungasphalt.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
-        },
-        {
-            "domain_name": "nextelectricnwa.com",
-            "destination": "Pressable",
-            "date": "2024-11-11"
         }
     ],
     "dailyMovedStat": {
@@ -557,17 +557,17 @@
         "2024-11-11": "17860"
     },
     "topDestinationHosts": {
-        "Pressable": 4685,
+        "Pressable": 4687,
         "Bluehost": 3423,
-        "SiteGround": 996,
-        "Digital Ocean": 801,
-        "Kinsta": 775,
+        "SiteGround": 997,
+        "Digital Ocean": 802,
+        "Kinsta": 777,
         "Hostinger": 473,
         "GoDaddy": 237,
         "Elementor Hosting": 142,
         "Wordify": 130,
         "BigScoots": 129,
-        "Liquid Web": 95,
+        "Liquid Web": 96,
         "InMotion Hosting": 82,
         "WordPress.com": 79,
         "OVH": 58,
