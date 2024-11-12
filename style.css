@@ -83,6 +83,10 @@ p a {
     line-height: 1.1;
 }
 
+.info-section p:first-child {
+    margin-top: 0;
+}
+
 .header__logo-highlight {
     color: var(--highlight);
 }
@@ -508,10 +512,6 @@ p a {
         column-gap: 5rem;
     }
 
-    .header__logo {
-        position: absolute;
-    }
-
     .form-section {
         position: absolute;
         top: var(--body-padding);
@@ -534,5 +534,13 @@ p a {
     .number-of-sites__count {
         padding: 0;
         font-size: calc( 50vw / 2.8 );
+    }
+}
+
+@media (min-height: 700px) {
+    .header {
+        flex-direction: column;
+        height: 100%;
+        width: 50%;
     }
 }
