@@ -1,6 +1,21 @@
 {
-    "siteCount": 18252,
+    "siteCount": 18259,
     "recentlyMoved": [
+        {
+            "domain_name": "www.abilitypartner.se",
+            "destination": "Kinsta",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "craftcountertops.com",
+            "destination": "Hostinger",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "praktijkhetgoedeleven.nl",
+            "destination": "Kinsta",
+            "date": "2024-11-12"
+        },
         {
             "domain_name": "frankvandelft.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "cornerstoneroofingmi.com",
             "destination": "Pressable",
             "date": "2024-11-12"
-        },
-        {
-            "domain_name": "buildingeps.net",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "g2heating.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.enchantedhillsmechanical.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
         }
     ],
     "dailyMovedStat": {
@@ -561,8 +561,8 @@
         "Bluehost": 3425,
         "SiteGround": 1004,
         "Digital Ocean": 812,
-        "Kinsta": 787,
-        "Hostinger": 483,
+        "Kinsta": 789,
+        "Hostinger": 484,
         "GoDaddy": 243,
         "Elementor Hosting": 142,
         "Wordify": 130,
