@@ -1,6 +1,241 @@
 {
-    "siteCount": 18137,
+    "siteCount": 18193,
     "recentlyMoved": [
+        {
+            "domain_name": "www.g2heating.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.friots.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.foxcontractingwi.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.ezlawncarellc.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.exactfitseamlessgutters.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "kilduffconstruction.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "foxcontractingwi.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "pilbarapools.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "hello.kingroseservices.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "hello.kingroseny.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "perthmediation.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "soldpc.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "haroservicesinc.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "haroconcreteandlandscaping.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.brandensplumbingca.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.wmfourseasonspainting.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "jdcconstructioninc.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "japaintingmke.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "ezlawncarellc.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.kilduffconstruction.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "mireven.net.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "mireven.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "mireven.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "lejanobremerbay.net.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "lejanobremerbay.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "lejanobremerbay.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "lejano.net.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "lejano.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "cutitrighttree.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.jdcconstructioninc.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.japaintingmke.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "goldeneaglehvacandplumbing.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "olistanconsulting.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "olistan.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.infinishine.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.iantaylorhomes.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "iloveher.life",
+            "destination": "Kinsta",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "eliteglassanddoor.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "elitecomfortsolutionscle.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.haroservicesinc.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.haroconcreteandlandscaping.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "iantaylorhomes.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.goldeneaglehvacandplumbing.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "www.gluthroofingandexteriors.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "cornerstoneroofingmi.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "buildingeps.net",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "g2heating.com",
+            "destination": "Pressable",
+            "date": "2024-11-12"
+        },
         {
             "domain_name": "www.enchantedhillsmechanical.com",
             "destination": "Pressable",
@@ -265,241 +500,6 @@
             "domain_name": "wltreeserviceny.com",
             "destination": "Pressable",
             "date": "2024-11-12"
-        },
-        {
-            "domain_name": "geauxsmile.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.gponbeaufort.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "windowcoveringstylesca.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "humbleofficialsite.com",
-            "destination": "Hostinger",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.perkinslawnandtree.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "perkinslawnandtree.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.wltreeserviceny.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.windowcoveringstylesca.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.whiteknollheatingcooling.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "paragonconstructioncoin.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "usplumbingca.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "taylorsplumbingsc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "taylormade-landscaping.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.usplumbingca.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.tysonpressurewashing.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "orionbarmovement.com",
-            "destination": "Hostinger",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.triplecrownlandscapingaz.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.treemendoustreeservicellc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.tomcoconstructionms.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.tlgkc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.tkhaulinginc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "shaunaocallaghan.com",
-            "destination": "Hostinger",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "carlylefunerals.com.au",
-            "destination": "SiteGround",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.thegraniteplacellc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.aarsny.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "emergencecreative.com",
-            "destination": "Kinsta",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.aabelectricmi.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.1stclass-customdetailing.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "triplecrownlandscapingaz.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.taylorsplumbingsc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.taylormade-landscaping.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "treemendoustreeservicellc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "impact.claust.com.au",
-            "destination": "Kinsta",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.stslawns.net",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.starkslandmanagement.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "schroederexcavating.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "stslawns.net",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "1stclass-customdetailing.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "tlgkc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.servicemarkappraisalstx.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.schroederexcavating.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.rlbuildinginc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.rbw-excavating.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "tkhaulinginc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.prettypawsnampa.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.prestigedoorsinc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "tidalmarineandco.com.au",
-            "destination": "Kinsta",
-            "date": "2024-11-12"
         }
     ],
     "dailyMovedStat": {
@@ -557,13 +557,13 @@
         "2024-11-11": "17860"
     },
     "topDestinationHosts": {
-        "Pressable": 4809,
+        "Pressable": 4852,
         "Bluehost": 3425,
         "SiteGround": 1004,
-        "Digital Ocean": 808,
-        "Kinsta": 784,
+        "Digital Ocean": 809,
+        "Kinsta": 785,
         "Hostinger": 483,
-        "GoDaddy": 241,
+        "GoDaddy": 243,
         "Elementor Hosting": 142,
         "Wordify": 130,
         "BigScoots": 129,
