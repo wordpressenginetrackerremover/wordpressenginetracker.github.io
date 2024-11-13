@@ -410,7 +410,7 @@ p a {
     }
 
     .chart {
-        height: 100%;
+        height: auto;
     }
 
     .chart-container__date {
