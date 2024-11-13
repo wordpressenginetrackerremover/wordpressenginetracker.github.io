@@ -261,7 +261,7 @@ function initChart() {
       const endingSiteCount = entries[entries.length - 1][1];
 
       const beginningChartNumber = beginningSiteCount;
-      const endingChartNumber = beginningChartNumber - ( ( beginningSiteCount - endingSiteCount ) * 2 );
+      const endingChartNumber = beginningChartNumber - ( ( beginningSiteCount - endingSiteCount ) * 3 );
       const delta = beginningChartNumber - endingChartNumber;
 
       // Create bars
