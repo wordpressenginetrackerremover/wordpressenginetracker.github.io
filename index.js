@@ -246,7 +246,7 @@ function initChart() {
   fetch("site-count.json")
     .then((response) => response.json())
     .then((data) => {
-      const stats = data.dailyMovedStat;
+      const stats = data.totalWpeSitesStat;
       const barsContainer = document.querySelector(".bars-container");
 
       const tooltip = document.createElement("div");
@@ -255,12 +255,19 @@ function initChart() {
 
       let tooltipTimeout;
 
-      const maxValue = Math.max(...Object.values(stats));
       const entries = Object.entries(stats);
+
+      const beginningSiteCount = entries[0][1];
+      const endingSiteCount = entries[entries.length - 1][1];
+
+      const beginningChartNumber = beginningSiteCount;
+      const endingChartNumber = beginningChartNumber - ( ( beginningSiteCount - endingSiteCount ) * 1.5 );
+      const delta = beginningChartNumber - endingChartNumber;
 
       // Create bars
       entries.forEach(([date, value], index) => {
-        const height = (value / maxValue) * 100;
+        const adjustedValue = value - endingChartNumber;
+        const height = (adjustedValue / delta) * 100;
         const bar = document.createElement("div");
         bar.className = "bar";
         bar.style.height = `${height}%`;
