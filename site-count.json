@@ -1,6 +1,241 @@
 {
-    "siteCount": 18369,
+    "siteCount": 18442,
     "recentlyMoved": [
+        {
+            "domain_name": "eastcoastwf.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "connectedbraincounseling.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "therepresentatives.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "foliaire.com",
+            "destination": "Kinsta",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "pierowayfurniture.com",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "speedysinsulation.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "sparklecleaningutah.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "themckeonlaw.com",
+            "destination": "Kinsta",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "joshuatree.org",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "myprodigysalon.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "vneoc4vets.org",
+            "destination": "GoDaddy",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "johnstonforcongress.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "joelbomgar.com",
+            "destination": "GridPane",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "veteranradon.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "birchslawncare.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "resources.calvaryftl.org",
+            "destination": "GridPane",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "chdrywallinc.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "bfp.travel",
+            "destination": "Digital Ocean",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "painted-patina.com",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "ajacsvending.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "www.veteranradon.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "outpacedigitalmarketing.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "unitedveterinarycare.com",
+            "destination": "Kinsta",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "lepierreroofing.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "www.uftflorida.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "greatcoloradoairshow.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "taquerialapalapa.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "www.truegreenirrigation.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "missoulamavericks.com",
+            "destination": "Bluehost",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "cateringbd.com",
+            "destination": "Kinsta",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "uftflorida.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "udallvent.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "www.topelectricalservice.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "gopioneertravel.com",
+            "destination": "Kinsta",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "www.alltek-services.com",
+            "destination": "A2 Hosting",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "queenspark.com",
+            "destination": "Hetzner Online",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "olivettelanes.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "qhsua.org",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "truetouchhomecare.com",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "truegreenirrigation.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "metrocompanies.com",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "www.speedysinsulation.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "streettacosut.com",
+            "destination": "SiteGround",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "iconbuilders.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "gctimesnews.com",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "preventivemaintenancespecialties.com",
+            "destination": "Hostinger",
+            "date": "2024-11-13"
+        },
+        {
+            "domain_name": "topelectricalservice.com",
+            "destination": "Pressable",
+            "date": "2024-11-13"
+        },
         {
             "domain_name": "www.faretemps.com",
             "destination": "Kinsta",
@@ -265,241 +500,6 @@
             "domain_name": "craftcountertops.com",
             "destination": "Hostinger",
             "date": "2024-11-12"
-        },
-        {
-            "domain_name": "praktijkhetgoedeleven.nl",
-            "destination": "Kinsta",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "frankvandelft.com",
-            "destination": "Kinsta",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "ronroozen.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.crystallizationsystems.com",
-            "destination": "Kinsta",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "wacitrus.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "wacitrus.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "myenve.com",
-            "destination": "GridPane",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "evergreenwreath.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "beachhousesmargaretriver.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "beachhousemargaretriver.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "aerboston.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "tuarthillbabyandchildcare.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "innopipe.dk",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.innopipe.dk",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "sunsetholidayvillas.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "scribegroup.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "scribe.net.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "prevellyaccommodation.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "prevellyaccommodation.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.premierconcreteofidaho.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "thundermountainlodge.net",
-            "destination": "Digital Ocean",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.points-south.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "nickscustomtreeservice.net",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "westcapeplumbing.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "newryconstruction.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "theroozenresidence.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "theroozenresidence.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "points-south.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.ommechanical.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "holidayhomesmargaretriver.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.notkinelectric.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.nickscustomtreeservice.net",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.newryconstruction.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "ronroozen.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.motes-landscapeservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.montereybay1.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.midwestpavingsolutions.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.mhsnyc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.menatworkacrepairandinstallationllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.mckeeenviro.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.mattshaulingllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.marvindinovitz.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.westcapeplumbing.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.lawnsofthewestco.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "exactfitseamlessgutters.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.kuhlmanninspection.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "adventurewild.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
         }
     ],
     "dailyMovedStat": {
@@ -558,25 +558,25 @@
         "2024-11-12": "18294"
     },
     "topDestinationHosts": {
-        "Pressable": 4904,
-        "Bluehost": 3425,
-        "SiteGround": 1020,
-        "Digital Ocean": 815,
-        "Kinsta": 802,
-        "Hostinger": 486,
-        "GoDaddy": 246,
+        "Pressable": 4916,
+        "Bluehost": 3426,
+        "SiteGround": 1029,
+        "Digital Ocean": 817,
+        "Kinsta": 807,
+        "Hostinger": 493,
+        "GoDaddy": 250,
         "Elementor Hosting": 142,
         "BigScoots": 131,
         "Wordify": 130,
-        "Liquid Web": 101,
+        "Liquid Web": 103,
         "InMotion Hosting": 82,
-        "WordPress.com": 81,
+        "WordPress.com": 82,
         "OVH": 59,
         "IONOS": 52,
-        "Hetzner Online": 49,
-        "A2 Hosting": 48,
+        "Hetzner Online": 50,
+        "A2 Hosting": 49,
         "Namecheap": 42,
-        "GridPane": 40,
+        "GridPane": 42,
         "DreamHost": 40
     }
 }
