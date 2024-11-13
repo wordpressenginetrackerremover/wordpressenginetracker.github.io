@@ -47,13 +47,15 @@ body {
 }
 
 main {
-    display: flex;
     height: 100vh;
 }
 
 main > section {
-    width: 50%;
     overflow: hidden;
+}
+
+main > section.chart {
+    width: calc( 100% - 2 * var(--body-padding) );
 }
 
 p, label {
@@ -83,115 +85,16 @@ p a {
     line-height: 1.1;
 }
 
-.info-section p:first-child {
-    margin-top: 0;
-}
-
 .header__logo-highlight {
     color: var(--highlight);
 }
 
-.form-section {
-    max-width: 500px;
-    padding: var( --body-padding );
-    padding-top: 0;
-}
-
-.form-section__body {
-    font-weight: 500;
-}
-
-.form-section__link {
-    color: var(--primary-blue);
-}
-
-.form-section__link:hover {
-    color: var(--white);
-}
-
-.form-section__form {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
-.form-section__input-container {
-    position: relative;
-    top: 0;
-    right: 0;
-}
-
-.form-section__form-label {
-    font-size: var(--font-size-small);
-    text-align: center;
-}
-
-.form-section__form-input {
-    font-size: var(--font-size-input);
-    padding: 1.5rem 2rem;
-    border-radius: 4rem;
-    border: 1px solid transparent;
-    width: 100%;
-}
-
-.form-section__form-result {
-    font-size: var(--font-size-small);
-    text-align: center;
-    margin-bottom: 1rem;
-}
-
-.form-section__search-icon {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    right: 1.5rem;
-
-    width: 32px;
-    height: 32px;
-}
-
-.form-section__download {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-.form-section__download-body {
-    flex-basis: 50%;
-    font-size: var(--font-size-small);
-    line-height: 1.4;
-}
-
-.form-section__download-button {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.5rem;
-
-    padding: 0.75rem 1.5rem 0.75rem 1.2rem;
-
-    font-size: var(--font-size-small);
-    border: 1px solid var(--primary-blue);
-    border-radius: 4px;
-    color: var(--white);
-    text-decoration: none;
+.info-section p:first-child {
+    margin-top: 0;
 }
 
 .download-button__content {
     text-wrap: nowrap;
-}
-
-.form-section__download-button:hover {
-    border-color: var(--white);
-}
-
-.form-section__download-button > svg {
-    height: 1.75rem;
-    width: 1.75rem;
-}
-
-.form-section__download-button:hover > svg > path {
-    fill: var(--white);
 }
 
 .footer {
@@ -200,6 +103,11 @@ p a {
     font-size: var(--font-size-small);
     gap: 1rem;
     padding: 4rem 0 0;
+}
+
+.footer img {
+    width: 140px;
+    filter: brightness(0);
 }
 
 .footer__content {
@@ -214,11 +122,6 @@ p a {
 
 .footer__link:hover {
     color: var(--primary-blue);
-}
-
-.footer img {
-    width: 140px;
-    filter: brightness(0);
 }
 
 .number-of-sites {
@@ -237,27 +140,9 @@ p a {
     margin-left: auto;
 }
 
-.form-section__form-result.error {
-    color: var(--error-red);
-}
-
-.form-section__form-result.success {
-    color: var(--success-green);
-}
-
-.form-section__form-input.error {
-    color: var(--white);
-    background-color: var(--error-red);
-    border-color: var(--error-red);
-}
-
-.form-section__form-input.success {
-    color: var(--white);
-    background-color: var(--success-green);
-    border-color: var(--success-green);
-}
-
 .chart {
+    position: relative;
+    height: 80vh;
     background-color: var(--light-blue);
     padding: var(--body-padding);
     display: flex;
@@ -265,18 +150,14 @@ p a {
     justify-content: space-between;
 }
 
-.form-section {
-    position: initial;
-}
-
 .intro,
 .large-count {
-    height: 50%;
     padding: var(--body-padding);
     display: flex;
     align-items: flex-start;
     flex-direction: column;
     justify-content: space-between;
+    height: auto;
 }
 
 .intro {
@@ -363,7 +244,7 @@ p a {
     align-items: flex-start;
     gap: 8px;
     color: var(--primary-blue);
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .recently-moved-site {
@@ -448,7 +329,7 @@ p a {
     font-weight: bold;
     position: absolute;
     left: 18px;
-    bottom: calc( 50vh + 12px );
+    bottom: calc( 40vh + 12px );
 }
 
 .bar {
@@ -469,7 +350,7 @@ p a {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    height: 50vh;
+    height: 40vh;
     width: calc( 100% - 40px );
     position: absolute;
     bottom: 0;
@@ -498,30 +379,22 @@ p a {
     }
 }
 
-@media (max-width: 800px) {
-    main {
-        display: block;
-    }
-
-    main > section {
-        width: 100% !important;
-    }
-
-    main > section.chart {
-        width: calc( 100% - 2 * var(--body-padding) ) !important;
-    }
-
-    .intro, .large-count {
-        height: auto;
-    }
-
-    .chart {
-        position: relative;
-        height: 80vh;
-    }
-}
-
 @media (min-width: 800px) {
+    main {
+        display: flex;
+    }
+
+    main > section,
+    main > section.chart {
+        width: 50%;
+        overflow: hidden;
+    }
+
+    .intro,
+    .large-count {
+        height: 50%;
+    }
+
     :root {
         --body-padding: 2rem;
     }
@@ -531,36 +404,13 @@ p a {
         column-gap: 5rem;
     }
 
-    .form-section {
-        position: absolute;
-        top: var(--body-padding);
-        right: var(--body-padding);
-        width: 500px;
-        padding: 0;
-    }
-
-    .form-section__body {
-        margin-top: 0;
-    }
-
-    .form-section__download {
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-        gap: 2.5rem;
-    }
-
     .number-of-sites__count {
         padding: 0;
         font-size: calc( 50vw / 3 );
     }
 
-    .bars-container {
-        height: 50vh;
-    }
-
-    .chart-container__title {
-        bottom: calc( 50vh + 12px );
+    .chart {
+        height: 100%;
     }
 
     .chart-container__date {
@@ -572,15 +422,23 @@ p a {
     }
 }
 
-@media (min-height: 800px) {
+@media (min-height: 600px) and (min-width: 800px) {
+    .bars-container {
+        height: 50vh;
+    }
+
+    .chart-container__title {
+        bottom: calc( 50vh + 12px );
+    }
+}
+
+@media (min-height: 800px) and (min-width: 800px) {
     .header {
         flex-direction: column;
         height: 100%;
         width: 50%;
     }
-}
 
-@media (min-height: 800px) and (min-width: 800px) {
     .bars-container {
         height: 60vh;
     }
