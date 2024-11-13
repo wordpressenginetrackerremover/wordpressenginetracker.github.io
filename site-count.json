@@ -1,6 +1,51 @@
 {
-    "siteCount": 18306,
+    "siteCount": 18321,
     "recentlyMoved": [
+        {
+            "domain_name": "content.propertynews.com",
+            "destination": "SiteGround",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "think-huge.org",
+            "destination": "SiteGround",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "nemezzanine.com",
+            "destination": "SiteGround",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "clickthrough.cloud",
+            "destination": "Kinsta",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "dicausa.com",
+            "destination": "SiteGround",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "aligndentalgroupsa.com",
+            "destination": "SiteGround",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "crdafrica.org",
+            "destination": "Hostinger",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "presenceproject.org",
+            "destination": "GoDaddy",
+            "date": "2024-11-12"
+        },
+        {
+            "domain_name": "bunburyentertainment.com",
+            "destination": "Kinsta",
+            "date": "2024-11-12"
+        },
         {
             "domain_name": "newenglandgrowrooms.com",
             "destination": "SiteGround",
@@ -455,51 +500,6 @@
             "domain_name": "lejanobremerbay.net.au",
             "destination": "Pressable",
             "date": "2024-11-12"
-        },
-        {
-            "domain_name": "lejanobremerbay.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "lejanobremerbay.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "lejano.net.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "lejano.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "cutitrighttree.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.jdcconstructioninc.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "www.japaintingmke.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "goldeneaglehvacandplumbing.com",
-            "destination": "Pressable",
-            "date": "2024-11-12"
-        },
-        {
-            "domain_name": "olistanconsulting.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-12"
         }
     ],
     "dailyMovedStat": {
@@ -560,11 +560,11 @@
     "topDestinationHosts": {
         "Pressable": 4901,
         "Bluehost": 3425,
-        "SiteGround": 1007,
+        "SiteGround": 1012,
         "Digital Ocean": 814,
-        "Kinsta": 791,
-        "Hostinger": 484,
-        "GoDaddy": 244,
+        "Kinsta": 793,
+        "Hostinger": 485,
+        "GoDaddy": 245,
         "Elementor Hosting": 142,
         "Wordify": 130,
         "BigScoots": 129,
