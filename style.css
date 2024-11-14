@@ -7,16 +7,15 @@
     --highlight: #005BAD;
     --black: #000000;
     --white: #ffffff;
-    --success-green: #008a20;
-    --error-red: #d63638;
-    --wp-custom-contrast-50: #2c3338;
 
     --font-size-large: 24px;
     --font-size-body: 1rem;
-    --font-size-input: 1rem;
     --font-size-small: 0.8rem;
+    --font-size-x-small: 0.6rem;
 
     --body-padding: 0.75rem;
+
+    --chart-height: 40vh;
 }
 
 * {
@@ -329,7 +328,7 @@ p a {
     font-weight: bold;
     position: absolute;
     left: 18px;
-    bottom: calc( 40vh + 12px );
+    bottom: calc( var(--chart-height) + 12px );
 }
 
 .bar {
@@ -350,10 +349,30 @@ p a {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    height: 40vh;
+    height: var(--chart-height);
     width: calc( 100% - 40px );
     position: absolute;
     bottom: 0;
+}
+
+#top-chart-value,
+#bottom-chart-value {
+    display: none;
+
+    position: absolute;
+    transform: rotate( -90deg );
+    left: 0;
+
+    font-size: var(--font-size-x-small);
+    color: var(--primary-blue);
+}
+
+#bottom-chart-value {
+    bottom: 7px;
+}
+
+#top-chart-value {
+    bottom: calc( var(--chart-height) - 1.2rem );
 }
 
 @keyframes fillBar {
@@ -420,30 +439,26 @@ p a {
     .chart-container__today {
         right: 0;
     }
+
+    .chart-container:hover #top-chart-value,
+    .chart-container:hover #bottom-chart-value {
+        display: initial;
+    }
 }
 
 @media (min-height: 600px) and (min-width: 800px) {
-    .bars-container {
-        height: 50vh;
-    }
-
-    .chart-container__title {
-        bottom: calc( 50vh + 12px );
+    :root {
+        --chart-height: 50vh;
     }
 }
 
 @media (min-height: 800px) and (min-width: 800px) {
+    :root {
+        --chart-height: 60vh;
+    }
     .header {
         flex-direction: column;
         height: 100%;
         width: 50%;
-    }
-
-    .bars-container {
-        height: 60vh;
-    }
-
-    .chart-container__title {
-        bottom: calc( 60vh + 12px );
     }
 }
