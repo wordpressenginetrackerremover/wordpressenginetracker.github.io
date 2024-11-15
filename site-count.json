@@ -1,6 +1,96 @@
 {
-    "siteCount": 19319,
+    "siteCount": 19346,
     "recentlyMoved": [
+        {
+            "domain_name": "www.pennedtoday.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.openpagov.org",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "masterpsolutions.com",
+            "destination": "SiteGround",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "masajesmontevideo.com",
+            "destination": "Pressable",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.myhealthyoutcomesaz.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "wemakekatysmile.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.minimallyinvasivevascularcenters.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.masajesmontevideo.com",
+            "destination": "Pressable",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "hassanrahmouni.com",
+            "destination": "Hostinger",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "smilesonrandall.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "dentalads.online",
+            "destination": "Digital Ocean",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "greenwaylakescommons.com",
+            "destination": "Pressable",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "bethchapman.com",
+            "destination": "Hostinger",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "simipsychologicalgroup.com",
+            "destination": "SiteGround",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "danielkripper.com",
+            "destination": "Pressable",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "graceestateplanning.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "custom-hardwood-flooring.com",
+            "destination": "Namecheap",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "onboarding.vairkko.com",
+            "destination": "SiteGround",
+            "date": "2024-11-15"
+        },
         {
             "domain_name": "lakaybuilding.com",
             "destination": "Hostinger",
@@ -410,96 +500,6 @@
             "domain_name": "www.flanneryservices.com",
             "destination": "Pressable",
             "date": "2024-11-14"
-        },
-        {
-            "domain_name": "bslmtn.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "brokenhorsecontractorsut.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "connectionconstructionoc.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "fselectric76.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "frsgeneralservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "asdwaterwork.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "breatheeasymoldremoval.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "webuildmemories.net",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "ariasmultiservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.noxab.se",
-            "destination": "Kinsta",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "coastalconstructionnomi.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.countylinenc.co",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "hickshomeimprovements.net",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.connectionconstructionoc.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "flanneryservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.coastalconstructionnomi.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.myacsinc.net",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.clearviewecstree.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
         }
     ],
     "dailyMovedStat": {
@@ -560,12 +560,12 @@
         "2024-11-14": "18951"
     },
     "topDestinationHosts": {
-        "Pressable": 5266,
+        "Pressable": 5270,
         "Bluehost": 3429,
-        "SiteGround": 1054,
-        "Digital Ocean": 887,
-        "Kinsta": 887,
-        "Hostinger": 513,
+        "SiteGround": 1057,
+        "Kinsta": 895,
+        "Digital Ocean": 888,
+        "Hostinger": 516,
         "GoDaddy": 260,
         "Elementor Hosting": 152,
         "BigScoots": 132,
@@ -576,7 +576,7 @@
         "OVH": 60,
         "IONOS": 53,
         "Hetzner Online": 52,
-        "Namecheap": 49,
+        "Namecheap": 50,
         "A2 Hosting": 49,
         "GridPane": 45,
         "Krystal Hosting": 44
