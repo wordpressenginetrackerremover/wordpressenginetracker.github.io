@@ -507,6 +507,8 @@ p a {
 
 .activity-log {
     background-color: var(--white);
+    overflow-x: scroll;
+    min-height: fit-content;
 }
 
 .activity-log h3 {
@@ -514,33 +516,29 @@ p a {
 }
 
 .activity-log-data {
-    width: 100%;
-    border-collapse: collapse;
+    min-width: 500px;
 }
 
-.activity-log-data th,
-.activity-log-data td {
-    border-bottom: 1px solid var(--border-color);
+.activity-log-data hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
 }
 
-.activity-log-data th {
+.activity-log-data__header p {
     font-size: var(--font-size-x-small);
-    text-align: left;
 }
 
-.activity-log-data th {
-    padding-bottom: 0.6rem;
+.activity-log-data__row {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 1rem 0;
 }
 
-.activity-log-data__domain,
-.activity-log-data__destination {
-    padding: 1.2rem 0;
+.activity-log-data__row * {
+    white-space: nowrap;
 }
 
-.activity-log-data__domain {
-    width: 75%;
-}
-
-.activity-log-data__destination {
-    width: 25%;
+.activity-log-data__header {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
 }

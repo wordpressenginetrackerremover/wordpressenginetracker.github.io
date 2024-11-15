@@ -101,18 +101,22 @@ function initRecentlyMoved() {
       }
 
       function updateActivityLog() {
-        const table = document.querySelector(".activity-log-data tbody");
+        const table = document.querySelector(".activity-log-data .activity-log-data__body");
 
         data.recentlyMoved.slice(0, 8).forEach((data, index) => {
           const { domain_name, destination } = data;
           const imageSrc = hostData?.[index]?.['image'] ?? null;
-          const row = document.createElement("tr");
+          const row = document.createElement("div");
 
+          row.className = "activity-log-data__row";
           row.innerHTML = `
-            <td class="activity-log-data__domain">${getDomainMarkup( domain_name )}</td>
-            <td class="activity-log-data__destination">${getDestinationMarkup( imageSrc, destination )}</td>
+            ${getDomainMarkup( domain_name )}
+            ${getDestinationMarkup( imageSrc, destination )}
           `;
           table.appendChild(row);
+
+          const hr = document.createElement("hr");
+          table.appendChild(hr);
         });
       }
 
