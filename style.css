@@ -533,15 +533,8 @@ p a {
 .activity-log-data__row {
     display: grid;
     grid-template-columns: 3fr 1fr;
+    column-gap: 0.5rem;
     padding: 1rem 0;
-}
-
-.activity-log-data__row .recently-moved-site {
-    justify-self: start;
-}
-
-.activity-log-data__row .recently-moved-site-destination {
-    justify-self: end;
 }
 
 .activity-log-data__row .recently-moved-site-destination p {
