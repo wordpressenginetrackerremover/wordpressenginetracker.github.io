@@ -124,7 +124,12 @@ p a {
     color: var(--primary-blue);
 }
 
-.number-of-sites {
+.footer img {
+    width: 140px;
+    filter: brightness(0);
+}
+
+.left {
     display: flex;
     flex-direction: column;
 }
@@ -145,9 +150,25 @@ p a {
     height: 80vh;
     background-color: var(--light-blue);
     padding: var(--body-padding);
+}
+
+.right {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    position: relative;
+}
+
+.live-data,
+.chart,
+.activity-log,
+.footer {
+    padding: calc( var(--body-padding) * 2 ) var(--body-padding);
+}
+
+.live-data,
+.chart {
+    background-color: var(--light-blue);
 }
 
 .intro,
@@ -179,7 +200,7 @@ p a {
     font-style: normal;
 }
 
-.chart-info {
+.live-data {
     display: grid;
     grid-template-columns: 1fr 2fr;
     width: 100%;
@@ -193,7 +214,8 @@ p a {
 }
 
 .recently-moved-container h3,
-.top-destinations h3 {
+.top-destinations h3,
+.activity-log h3 {
     font-size: var(--font-size-small);
     margin: 0 0 10px;
 }
@@ -283,13 +305,20 @@ p a {
     margin: 0;
 }
 
+.chart {
+    display: flex;
+    flex-direction: column;
+
+}
+
 .chart-container {
     display: flex;
     justify-content: center;
     margin-top: auto;
     padding: 10px 10px 0 10px;
     position: relative;
-    width: calc( 100% - 20px );
+    min-height: 40vh;
+    max-width: 100%;
 }
 
 .tooltip {
@@ -424,6 +453,18 @@ p a {
         column-gap: 5rem;
     }
 
+    .right {
+        position: initial;
+        overflow: scroll;
+    }
+
+    .live-data,
+    .chart,
+    .activity-log,
+    .footer {
+        padding: var(--body-padding);
+    }
+
     .number-of-sites__count {
         padding: 0;
         font-size: calc( 50vw / 3 );
@@ -462,4 +503,44 @@ p a {
         height: 100%;
         width: 50%;
     }
+}
+
+.activity-log {
+    background-color: var(--white);
+}
+
+.activity-log h3 {
+    margin-bottom: 2rem;
+}
+
+.activity-log-data {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.activity-log-data th,
+.activity-log-data td {
+    border-bottom: 1px solid var(--border-color);
+}
+
+.activity-log-data th {
+    font-size: var(--font-size-x-small);
+    text-align: left;
+}
+
+.activity-log-data th {
+    padding-bottom: 0.6rem;
+}
+
+.activity-log-data__domain,
+.activity-log-data__destination {
+    padding: 1.2rem 0;
+}
+
+.activity-log-data__domain {
+    width: 75%;
+}
+
+.activity-log-data__destination {
+    width: 25%;
 }

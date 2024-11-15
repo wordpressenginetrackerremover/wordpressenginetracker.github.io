@@ -82,6 +82,40 @@ function initRecentlyMoved() {
 
       let currentIndex = 0;
 
+      function getDomainMarkup( url ) {
+        return `
+            <div class="recently-moved-site">
+                <a href="https://${url}" target="_blank">${url}</a>
+                <img src="images/arrow-up-right.svg" alt="→" />
+            </div>
+        `;
+      }
+
+      function getDestinationMarkup( imageSrc, host ) {
+        return `
+            <div class="recently-moved-site-destination">
+              ${ imageSrc ? '<img src="' + imageSrc + '"alt="' + host + '"/>' : '' }
+              <p>${host}</p>
+            </div>
+        `;
+      }
+
+      function updateActivityLog() {
+        const table = document.querySelector(".activity-log-data tbody");
+
+        data.recentlyMoved.slice(0, 8).forEach((data, index) => {
+          const { domain_name, destination } = data;
+          const imageSrc = hostData?.[index]?.['image'] ?? null;
+          const row = document.createElement("tr");
+
+          row.innerHTML = `
+            <td class="activity-log-data__domain">${getDomainMarkup( domain_name )}</td>
+            <td class="activity-log-data__destination">${getDestinationMarkup( imageSrc, destination )}</td>
+          `;
+          table.appendChild(row);
+        });
+      }
+
       function updateTicker() {
         const imageSrc = hostData?.[currentIndex]?.['image'] ?? null;
         const host = hostData?.[currentIndex]?.['host'] ?? 'Unknown host';
@@ -91,20 +125,15 @@ function initRecentlyMoved() {
         }
 
         site.innerHTML = `
-            <div class="recently-moved-site">
-                <a href="https://${urls[currentIndex]}" target="_blank">${urls[currentIndex]}</a>
-                <img src="images/arrow-up-right.svg" alt="→" />
-            </div>
-            <div class="recently-moved-site-destination">
-              ${ imageSrc ? '<img src="' + imageSrc + '"alt="' + host + '"/>' : '' }
-              <p>${host}</p>
-            </div>
-        `;
+          ${ getDomainMarkup( urls[currentIndex] ) }
+          ${ getDestinationMarkup( imageSrc, host ) }
+        `
 
         currentIndex = (currentIndex + 1) % urls.length;
         triggerRecentlyMovedAnimation();
       }
 
+      updateActivityLog();
       updateTicker();
       setInterval(updateTicker, 4000);
     });
