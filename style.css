@@ -270,7 +270,6 @@ p a {
 }
 
 .recently-moved-site {
-    height: 24px;
     line-height: 24px;
     white-space: nowrap;
     overflow: hidden;
@@ -278,6 +277,15 @@ p a {
     display: flex;
     align-items: center;
     gap: 4px;
+}
+
+.recently-moved-site a {
+    word-break: break-word;
+}
+
+.recently-moved-site img {
+    position: relative;
+    top: 6px;
 }
 
 .recently-moved-site a {
@@ -507,16 +515,10 @@ p a {
 
 .activity-log {
     background-color: var(--white);
-    overflow-x: scroll;
-    min-height: fit-content;
 }
 
 .activity-log h3 {
     margin-bottom: 2rem;
-}
-
-.activity-log-data {
-    min-width: 500px;
 }
 
 .activity-log-data hr {
@@ -534,7 +536,15 @@ p a {
     padding: 1rem 0;
 }
 
-.activity-log-data__row * {
+.activity-log-data__row .recently-moved-site {
+    justify-self: start;
+}
+
+.activity-log-data__row .recently-moved-site-destination {
+    justify-self: end;
+}
+
+.activity-log-data__row .recently-moved-site-destination p {
     white-space: nowrap;
 }
 

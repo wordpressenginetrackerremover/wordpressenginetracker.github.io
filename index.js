@@ -85,8 +85,10 @@ function initRecentlyMoved() {
       function getDomainMarkup( url ) {
         return `
             <div class="recently-moved-site">
-                <a href="https://${url}" target="_blank">${url}</a>
-                <img src="images/arrow-up-right.svg" alt="→" />
+                <a href="https://${url}" target="_blank">
+                  ${url}
+                  <img src="images/arrow-up-right.svg" alt="→" />
+                </a>
             </div>
         `;
       }
