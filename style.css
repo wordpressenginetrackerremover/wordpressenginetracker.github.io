@@ -270,8 +270,7 @@ p a {
 }
 
 .recently-moved-site {
-    line-height: 24px;
-    white-space: nowrap;
+    line-height: 16px;
     overflow: hidden;
     text-overflow: ellipsis;
     display: flex;
@@ -279,18 +278,17 @@ p a {
     gap: 4px;
 }
 
-.recently-moved-site a {
-    word-break: break-word;
-}
-
 .recently-moved-site img {
     position: relative;
-    top: 6px;
+    top: 2px;
+    width: 16px;
+    height: 16px;
 }
 
 .recently-moved-site a {
     color: var(--primary-blue);
     text-decoration: underline;
+    word-break: break-word;
 }
 
 .recently-moved-site a:hover {
@@ -301,6 +299,7 @@ p a {
     display: flex;
     align-items: center;
     gap: 4px;
+    width: 100px;
 }
 
 .recently-moved-site-destination img {
