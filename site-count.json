@@ -1,6 +1,106 @@
 {
-    "siteCount": 19158,
+    "siteCount": 19197,
     "recentlyMoved": [
+        {
+            "domain_name": "buddiesgrease.com",
+            "destination": "Bluehost",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "complianceplusfire.com",
+            "destination": "Krystal Hosting",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.oklalegal.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "dozzi-co.se",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "annapurna-trek.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "yourmoneywellness.com",
+            "destination": "Namecheap",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "digitaltwinhub.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.maatsecurityjobs.de",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.werkenbijmaat.be",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "alansfactoryoutlet.com",
+            "destination": "WordPress VIP",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "sigra.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.travaillerchezmaat.be",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "cynergypt.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.jettfoundation.org",
+            "destination": "Pressable",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "sekiryu.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "accworldwide.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "suesgrill.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "studyportals.com",
+            "destination": "Kinsta",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "www.spicemountain.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2024-11-15"
+        },
+        {
+            "domain_name": "winworthconstruction.co.uk",
+            "destination": "IONOS",
+            "date": "2024-11-15"
+        },
         {
             "domain_name": "www.fselectric76.com",
             "destination": "Pressable",
@@ -400,106 +500,6 @@
             "domain_name": "www.hickshomeimprovements.net",
             "destination": "Pressable",
             "date": "2024-11-14"
-        },
-        {
-            "domain_name": "training.pcautah.org",
-            "destination": "Digital Ocean",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "gerryspaintbrush.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "geoffrey-schwintcontracting.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.gutterworxtx.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.grizzlymechanicalservicesllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "generikheatingcoolingmn.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "courtneycolliercounseling.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "countylinenc.co",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.greatamericanoutdoorworks.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.gomezconstructionnv.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.geoffrey-schwintcontracting.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "bullockconstruction.llc",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.generikheatingcoolingmn.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.rrappraisalservicesllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.ricmar.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.firstshotconstructionservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.ramirezlawnandlandscapingnc.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.pvcfencesofli.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.exteaglestreellc.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
-        },
-        {
-            "domain_name": "www.esquivelbrothersconcrete.com",
-            "destination": "Pressable",
-            "date": "2024-11-14"
         }
     ],
     "dailyMovedStat": {
@@ -560,25 +560,25 @@
         "2024-11-14": "18951"
     },
     "topDestinationHosts": {
-        "Pressable": 5254,
-        "Bluehost": 3427,
+        "Pressable": 5255,
+        "Bluehost": 3428,
         "SiteGround": 1054,
-        "Digital Ocean": 869,
-        "Kinsta": 863,
+        "Kinsta": 872,
+        "Digital Ocean": 871,
         "Hostinger": 511,
         "GoDaddy": 258,
         "Elementor Hosting": 151,
         "BigScoots": 132,
         "Wordify": 130,
         "Liquid Web": 109,
-        "WordPress.com": 89,
+        "WordPress.com": 90,
         "InMotion Hosting": 82,
         "OVH": 60,
-        "IONOS": 52,
-        "Hetzner Online": 50,
+        "IONOS": 53,
+        "Hetzner Online": 51,
         "A2 Hosting": 49,
-        "Namecheap": 45,
+        "Namecheap": 46,
         "GridPane": 43,
-        "DreamHost": 41
+        "Krystal Hosting": 42
     }
 }
