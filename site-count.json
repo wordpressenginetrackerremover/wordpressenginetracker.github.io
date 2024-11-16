@@ -1,6 +1,96 @@
 {
-    "siteCount": 19802,
+    "siteCount": 19831,
     "recentlyMoved": [
+        {
+            "domain_name": "www.kevindwhitehomes.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "denverjunkremoval.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "smasnecellars.com",
+            "destination": "Pressable",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "decorativewallpanels.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "www.hoodairconditioningandheating.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "shamrockjunkremoval.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "cojunkwranglers.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "cmsdesignresource.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "clutterninjas.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "junkshuttleva.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "riverastaffing.com",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "riosollatinkitchen.com",
+            "destination": "Hostinger",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "jessesutherland.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "repairheatingandcooling.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "chadmorrisdds.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "jackedupjunkremoval.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "cbdailyllc.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "inyourspacehome.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "raspadosjaliscousa.com",
             "destination": "SiteGround",
@@ -410,96 +500,6 @@
             "domain_name": "grayhawkroofing.com",
             "destination": "GoDaddy",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "graceb3.org",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "glamoureyesandmore.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "gcassociation.org",
-            "destination": "IONOS",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "northwindheating.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "garycollinshoh.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "garv.co",
-            "destination": "Hostinger",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "gabcames.org",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "threeforms.org",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "nicksgyrosandseafood.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "frontierheat.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "thethreecousins.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "newlifecr.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "formsandprayers.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "flocksheating.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "angelicshowers.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "yourcomforthvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "fionaodonnell.ie",
-            "destination": "WordPress.com",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "americancowboyroofing.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -561,13 +561,13 @@
         "2024-11-15": "19435"
     },
     "topDestinationHosts": {
-        "Pressable": 5331,
+        "Pressable": 5332,
         "Bluehost": 3431,
-        "SiteGround": 1082,
-        "Kinsta": 960,
-        "Digital Ocean": 957,
-        "Hostinger": 540,
-        "GoDaddy": 269,
+        "SiteGround": 1086,
+        "Kinsta": 969,
+        "Digital Ocean": 962,
+        "Hostinger": 541,
+        "GoDaddy": 270,
         "Elementor Hosting": 157,
         "BigScoots": 135,
         "Wordify": 130,
