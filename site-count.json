@@ -1,6 +1,91 @@
 {
-    "siteCount": 19777,
+    "siteCount": 19802,
     "recentlyMoved": [
+        {
+            "domain_name": "raspadosjaliscousa.com",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "rapidoexpressutah.com",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "inline.contractors",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "infiniteheating.ca",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "indoorcultivations.com",
+            "destination": "Pressable",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "callgtc.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "callairkings.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "propertylenz.io",
+            "destination": "Pressable",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "byejunkca.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "petsdesirepetsitting.com",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "haul911junk.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "blackcatjunkremoval.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "greekjunk.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "goegroup.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "truepets.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "truemeats.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "avantiadvisors.org",
+            "destination": "Hostinger",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "futurefertility.com",
             "destination": "Hostinger",
@@ -415,91 +500,6 @@
             "domain_name": "americancowboyroofing.com",
             "destination": "Pressable",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "alpirelegaltax.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "alpineheatingorofino.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "mrbreezehvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "alldaycomforthvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "allamericangutterstc.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "aliefheatingandairconditioning.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "temperatureprobtr.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "airpatioevents.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "agilitygovcon.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "tariohvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "mimosawalk.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "millerscreekbaptist.org",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "sycamoreroadfurniture.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "absolutehvacut.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "abilenedidyouknow.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "suffolkcountypoolservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "suazocenter.org",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -561,17 +561,17 @@
         "2024-11-15": "19435"
     },
     "topDestinationHosts": {
-        "Pressable": 5329,
+        "Pressable": 5331,
         "Bluehost": 3431,
-        "SiteGround": 1081,
-        "Digital Ocean": 956,
-        "Kinsta": 954,
-        "Hostinger": 538,
+        "SiteGround": 1082,
+        "Kinsta": 960,
+        "Digital Ocean": 957,
+        "Hostinger": 540,
         "GoDaddy": 269,
-        "Elementor Hosting": 156,
+        "Elementor Hosting": 157,
         "BigScoots": 135,
         "Wordify": 130,
-        "Liquid Web": 113,
+        "Liquid Web": 114,
         "WordPress.com": 94,
         "InMotion Hosting": 85,
         "OVH": 61,
