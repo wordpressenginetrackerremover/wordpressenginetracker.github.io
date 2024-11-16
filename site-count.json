@@ -1,6 +1,26 @@
 {
-    "siteCount": 19509,
+    "siteCount": 19513,
     "recentlyMoved": [
+        {
+            "domain_name": "www.seaborough.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "martijnvanrheenen.nl",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "makoto.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "sports.mynorthwest.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "signature.advicemedia.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "www.openpagov.org",
             "destination": "Kinsta",
             "date": "2024-11-15"
-        },
-        {
-            "domain_name": "masterpsolutions.com",
-            "destination": "SiteGround",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "masajesmontevideo.com",
-            "destination": "Pressable",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "www.myhealthyoutcomesaz.com",
-            "destination": "Kinsta",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "wemakekatysmile.com",
-            "destination": "Kinsta",
-            "date": "2024-11-15"
         }
     ],
     "dailyMovedStat": {
@@ -561,10 +561,10 @@
         "2024-11-15": "19435"
     },
     "topDestinationHosts": {
-        "Pressable": 5294,
+        "Pressable": 5295,
         "Bluehost": 3429,
         "SiteGround": 1064,
-        "Kinsta": 915,
+        "Kinsta": 918,
         "Digital Ocean": 899,
         "Hostinger": 533,
         "GoDaddy": 264,
