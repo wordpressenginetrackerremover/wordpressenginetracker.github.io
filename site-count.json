@@ -1,6 +1,91 @@
 {
-    "siteCount": 19548,
+    "siteCount": 19572,
     "recentlyMoved": [
+        {
+            "domain_name": "frog-hvac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "nextlevelpadel.fi",
+            "destination": "Hetzner Online",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "appgrowthsummit.com",
+            "destination": "BigScoots",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "ameccorporation.ca",
+            "destination": "Pressable",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "movalube.fi",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "all-air-solutions.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "alaskanquality.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "temperatureprosa.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "airnowcanfixit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "airmasterheatingandair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "modernintegrativewellness.com",
+            "destination": "Bluehost",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "team.caseproof.com",
+            "destination": "GridPane",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "www.tokayair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "advancehaws.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "www.thomsonac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "stlbackstore.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "stfrancishouse.org",
+            "destination": "Pressable",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "www.salinacomfort.com",
             "destination": "Digital Ocean",
@@ -415,91 +500,6 @@
             "domain_name": "tarashorey.com",
             "destination": "Pressable",
             "date": "2024-11-15"
-        },
-        {
-            "domain_name": "mindfulpreppy.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "midan.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "www.russellbranchdental.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "www.redermmd.com",
-            "destination": "Kinsta",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "marketexpress.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "www.midlandfoundation.org",
-            "destination": "Hostinger",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "bredby42.com",
-            "destination": "SiteGround",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "perryvilleroaddentist.com",
-            "destination": "Kinsta",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "bgrlandscapes.com",
-            "destination": "Pressable",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "dentalartsonessex.com",
-            "destination": "Kinsta",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "goodstuffmoving.com",
-            "destination": "WordPress.com",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "awtinc.com",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "crimsonhilttattoo.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "atlascabinetsllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "titanhomesllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "kiwi.pixelspoke.com",
-            "destination": "Kinsta",
-            "date": "2024-11-15"
-        },
-        {
-            "domain_name": "at-easehomeinspections.com",
-            "destination": "SiteGround",
-            "date": "2024-11-15"
         }
     ],
     "dailyMovedStat": {
@@ -561,25 +561,25 @@
         "2024-11-15": "19435"
     },
     "topDestinationHosts": {
-        "Pressable": 5297,
-        "Bluehost": 3429,
-        "SiteGround": 1064,
-        "Kinsta": 924,
-        "Digital Ocean": 914,
+        "Pressable": 5299,
+        "Bluehost": 3430,
+        "SiteGround": 1065,
+        "Kinsta": 925,
+        "Digital Ocean": 922,
         "Hostinger": 533,
         "GoDaddy": 264,
         "Elementor Hosting": 156,
-        "BigScoots": 133,
+        "BigScoots": 134,
         "Wordify": 130,
         "Liquid Web": 111,
         "WordPress.com": 93,
         "InMotion Hosting": 82,
         "OVH": 61,
         "IONOS": 53,
-        "Hetzner Online": 52,
+        "Hetzner Online": 53,
         "Namecheap": 50,
         "A2 Hosting": 50,
-        "GridPane": 45,
+        "GridPane": 46,
         "Krystal Hosting": 44
     }
 }
