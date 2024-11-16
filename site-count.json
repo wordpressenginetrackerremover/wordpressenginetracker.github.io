@@ -1,6 +1,51 @@
 {
-    "siteCount": 19761,
+    "siteCount": 19777,
     "recentlyMoved": [
+        {
+            "domain_name": "futurefertility.com",
+            "destination": "Hostinger",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "archive.toolsofthemind.org",
+            "destination": "DreamHost",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "architecturalelevatordesign.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "thejunkhoundsfl.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "allbookedupmedia.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "teachinglearningalliance.org",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "acentra.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "structuralenterprises.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
+        {
+            "domain_name": "maurospallets.com",
+            "destination": "SiteGround",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "www.sarahbalaster.com",
             "destination": "Kinsta",
@@ -455,51 +500,6 @@
             "domain_name": "suazocenter.org",
             "destination": "SiteGround",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "mdinternetmarketing.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "maxxgripplumbing.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.rdscheinberg.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "division1roofing.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "slateplumbingco.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.hubgrossesseensante.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.healthypregnancyhub.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "shibaniontech.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "seneca.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -563,9 +563,9 @@
     "topDestinationHosts": {
         "Pressable": 5329,
         "Bluehost": 3431,
-        "SiteGround": 1079,
+        "SiteGround": 1081,
         "Digital Ocean": 956,
-        "Kinsta": 949,
+        "Kinsta": 954,
         "Hostinger": 538,
         "GoDaddy": 269,
         "Elementor Hosting": 156,
