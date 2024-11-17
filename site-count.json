@@ -1,6 +1,11 @@
 {
-    "siteCount": 19920,
+    "siteCount": 19921,
     "recentlyMoved": [
+        {
+            "domain_name": "www.katiebirdbakes.com",
+            "destination": "BigScoots",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "industrialdynamics.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.qbchurch.org",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "mariasogden.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -570,7 +570,7 @@
         "Hostinger": 549,
         "GoDaddy": 274,
         "Elementor Hosting": 157,
-        "BigScoots": 135,
+        "BigScoots": 136,
         "Wordify": 131,
         "Liquid Web": 114,
         "WordPress.com": 94,
