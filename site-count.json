@@ -1,6 +1,16 @@
 {
-    "siteCount": 19881,
+    "siteCount": 19885,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ospreysportfishing.net",
+            "destination": "Pressable",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "www.marycoakleywelch.com",
+            "destination": "Pressable",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "social.colewebdev.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "quinnsafety.com",
             "destination": "Pressable",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.absolutehvacut.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "incredibowl.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -562,7 +562,7 @@
         "2024-11-16": "19838"
     },
     "topDestinationHosts": {
-        "Pressable": 5337,
+        "Pressable": 5339,
         "Bluehost": 3432,
         "SiteGround": 1090,
         "Kinsta": 977,
