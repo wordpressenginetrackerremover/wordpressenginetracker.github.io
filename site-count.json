@@ -1,6 +1,26 @@
 {
-    "siteCount": 19910,
+    "siteCount": 19915,
     "recentlyMoved": [
+        {
+            "domain_name": "theislandcakeboutique.com",
+            "destination": "Hostinger",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "alexeko.ru",
+            "destination": "Hostinger",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "alexeko.com",
+            "destination": "Hostinger",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "www.thechiropracticcentrewilton.co.uk",
+            "destination": "Pressable",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "www.selfbuildgardenoffices.co.uk",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "sparrowsolutionsgroup.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "lowcountrylawyerssc.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "lovop.com",
-            "destination": "Hostinger",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "discoverpalmdesert.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "locallyorange.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -562,12 +562,12 @@
         "2024-11-16": "19838"
     },
     "topDestinationHosts": {
-        "Pressable": 5352,
+        "Pressable": 5353,
         "Bluehost": 3432,
         "SiteGround": 1091,
         "Kinsta": 977,
         "Digital Ocean": 965,
-        "Hostinger": 546,
+        "Hostinger": 549,
         "GoDaddy": 274,
         "Elementor Hosting": 157,
         "BigScoots": 135,
