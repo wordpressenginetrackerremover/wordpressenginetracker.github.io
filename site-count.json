@@ -1,6 +1,11 @@
 {
-    "siteCount": 19849,
+    "siteCount": 19853,
     "recentlyMoved": [
+        {
+            "domain_name": "lauratrotta.com",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "bikeshopgirl.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "blog.coworkify.com",
             "destination": "SiteGround",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "pcpcommunity.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -565,7 +565,7 @@
         "Pressable": 5333,
         "Bluehost": 3431,
         "SiteGround": 1089,
-        "Kinsta": 973,
+        "Kinsta": 974,
         "Digital Ocean": 963,
         "Hostinger": 541,
         "GoDaddy": 271,
