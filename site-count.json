@@ -1,6 +1,21 @@
 {
-    "siteCount": 19915,
+    "siteCount": 19919,
     "recentlyMoved": [
+        {
+            "domain_name": "industrialdynamics.com",
+            "destination": "SiteGround",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "hireupresults.com",
+            "destination": "Kinsta",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "openscied.org",
+            "destination": "Digital Ocean",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "theislandcakeboutique.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "mariasogden.com",
             "destination": "SiteGround",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "springsofgrace.church",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "dolcemaresweets.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "sparrowsolutionsgroup.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -565,8 +565,8 @@
         "Pressable": 5353,
         "Bluehost": 3432,
         "SiteGround": 1091,
-        "Kinsta": 977,
-        "Digital Ocean": 965,
+        "Kinsta": 978,
+        "Digital Ocean": 966,
         "Hostinger": 549,
         "GoDaddy": 274,
         "Elementor Hosting": 157,
