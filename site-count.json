@@ -1,6 +1,11 @@
 {
-    "siteCount": 19908,
+    "siteCount": 19910,
     "recentlyMoved": [
+        {
+            "domain_name": "www.selfbuildgardenoffices.co.uk",
+            "destination": "Pressable",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "shelnuttlawfirm.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "locallyorange.com",
             "destination": "Pressable",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "solarhomespecialist.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -562,7 +562,7 @@
         "2024-11-16": "19838"
     },
     "topDestinationHosts": {
-        "Pressable": 5351,
+        "Pressable": 5352,
         "Bluehost": 3432,
         "SiteGround": 1091,
         "Kinsta": 977,
