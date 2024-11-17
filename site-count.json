@@ -1,6 +1,11 @@
 {
-    "siteCount": 19856,
+    "siteCount": 19859,
     "recentlyMoved": [
+        {
+            "domain_name": "www.tradepartnerssweden.se",
+            "destination": "Kinsta",
+            "date": "2024-11-16"
+        },
         {
             "domain_name": "stephanieohanley.org",
             "destination": "Wordify",
@@ -495,11 +500,6 @@
             "domain_name": "philauxier.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "blog.triberr.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -565,7 +565,7 @@
         "Pressable": 5333,
         "Bluehost": 3431,
         "SiteGround": 1090,
-        "Kinsta": 974,
+        "Kinsta": 975,
         "Digital Ocean": 963,
         "Hostinger": 541,
         "GoDaddy": 271,
