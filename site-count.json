@@ -1,6 +1,21 @@
 {
-    "siteCount": 19947,
+    "siteCount": 19952,
     "recentlyMoved": [
+        {
+            "domain_name": "shortfusemartialarts.com",
+            "destination": "GridPane",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "cricketcoach365.co.uk",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "rrlight.com",
+            "destination": "Bluehost",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "ocspotlights.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "goegroup.com",
             "destination": "Elementor Hosting",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "truepets.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "truemeats.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "avantiadvisors.org",
-            "destination": "Hostinger",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -564,11 +564,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 5355,
-        "Bluehost": 3433,
+        "Bluehost": 3434,
         "SiteGround": 1094,
         "Kinsta": 978,
         "Digital Ocean": 968,
-        "Hostinger": 549,
+        "Hostinger": 550,
         "GoDaddy": 275,
         "Elementor Hosting": 157,
         "BigScoots": 136,
@@ -581,7 +581,7 @@
         "Hetzner Online": 53,
         "Namecheap": 51,
         "A2 Hosting": 50,
-        "GridPane": 48,
+        "GridPane": 49,
         "Krystal Hosting": 44
     }
 }
