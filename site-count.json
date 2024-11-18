@@ -1,6 +1,16 @@
 {
-    "siteCount": 19932,
+    "siteCount": 19936,
     "recentlyMoved": [
+        {
+            "domain_name": "venturi.cc",
+            "destination": "GoDaddy",
+            "date": "2024-11-17"
+        },
+        {
+            "domain_name": "ocrealtyshoots.com",
+            "destination": "Pressable",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "decorahhatchery.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "thejunkhoundsfl.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "allbookedupmedia.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "teachinglearningalliance.org",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -563,13 +563,13 @@
         "2024-11-17": "19924"
     },
     "topDestinationHosts": {
-        "Pressable": 5353,
+        "Pressable": 5354,
         "Bluehost": 3433,
         "SiteGround": 1093,
         "Kinsta": 978,
         "Digital Ocean": 967,
         "Hostinger": 549,
-        "GoDaddy": 274,
+        "GoDaddy": 275,
         "Elementor Hosting": 157,
         "BigScoots": 136,
         "Wordify": 131,
