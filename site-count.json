@@ -1,6 +1,16 @@
 {
-    "siteCount": 19936,
+    "siteCount": 19938,
     "recentlyMoved": [
+        {
+            "domain_name": "shopjaysimone.com",
+            "destination": "SiteGround",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "shipwp.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "venturi.cc",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "archive.toolsofthemind.org",
             "destination": "DreamHost",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "architecturalelevatordesign.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "thejunkhoundsfl.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -565,9 +565,9 @@
     "topDestinationHosts": {
         "Pressable": 5354,
         "Bluehost": 3433,
-        "SiteGround": 1093,
+        "SiteGround": 1094,
         "Kinsta": 978,
-        "Digital Ocean": 967,
+        "Digital Ocean": 968,
         "Hostinger": 549,
         "GoDaddy": 275,
         "Elementor Hosting": 157,
