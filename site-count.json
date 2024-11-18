@@ -1,6 +1,21 @@
 {
-    "siteCount": 19969,
+    "siteCount": 19974,
     "recentlyMoved": [
+        {
+            "domain_name": "theoverlab.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "myperch.io",
+            "destination": "GridPane",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "mrandmrsnomad.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "springhillpressmaps.com",
             "destination": "InMotion Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "inyourspacehome.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "raspadosjaliscousa.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "rapidoexpressutah.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "inline.contractors",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -563,7 +563,7 @@
         "2024-11-17": "19924"
     },
     "topDestinationHosts": {
-        "Pressable": 5355,
+        "Pressable": 5357,
         "Bluehost": 3434,
         "SiteGround": 1094,
         "Kinsta": 982,
@@ -580,8 +580,8 @@
         "IONOS": 54,
         "Hetzner Online": 53,
         "Namecheap": 52,
+        "GridPane": 50,
         "A2 Hosting": 50,
-        "GridPane": 49,
         "Krystal Hosting": 44
     }
 }
