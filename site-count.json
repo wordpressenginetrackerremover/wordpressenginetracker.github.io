@@ -1,6 +1,11 @@
 {
-    "siteCount": 19938,
+    "siteCount": 19941,
     "recentlyMoved": [
+        {
+            "domain_name": "easybodyfitness.com",
+            "destination": "Namecheap",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "shopjaysimone.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "futurefertility.com",
             "destination": "Hostinger",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "archive.toolsofthemind.org",
-            "destination": "DreamHost",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -579,7 +579,7 @@
         "OVH": 61,
         "IONOS": 54,
         "Hetzner Online": 53,
-        "Namecheap": 50,
+        "Namecheap": 51,
         "A2 Hosting": 50,
         "GridPane": 48,
         "Krystal Hosting": 44
