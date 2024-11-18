@@ -1,6 +1,11 @@
 {
-    "siteCount": 19926,
+    "siteCount": 19927,
     "recentlyMoved": [
+        {
+            "domain_name": "providers-international.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-17"
+        },
         {
             "domain_name": "www.bp-g.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "structuralenterprises.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "maurospallets.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -574,7 +574,7 @@
         "BigScoots": 136,
         "Wordify": 131,
         "Liquid Web": 114,
-        "WordPress.com": 94,
+        "WordPress.com": 95,
         "InMotion Hosting": 85,
         "OVH": 61,
         "IONOS": 54,
