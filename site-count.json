@@ -1,6 +1,61 @@
 {
-    "siteCount": 20009,
+    "siteCount": 20028,
     "recentlyMoved": [
+        {
+            "domain_name": "radiancesouthwest.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "winderlea.com",
+            "destination": "SiteGround",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "poppiesandpearlstx.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "peronnaturaliste.org.au",
+            "destination": "Kinsta",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "vineandbranches.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "bestimpressionsnj.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "groovygus.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "gorgeousvintageantiques.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "battsmedia.com",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "transformationpsychotherapy.com",
+            "destination": "Bluehost",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "austin.thlblue.com",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "thlblue.com",
             "destination": "Hostinger",
@@ -445,61 +500,6 @@
             "domain_name": "iute.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "carefortheaging.org",
-            "destination": "GoDaddy",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "trustruss.org",
-            "destination": "Bluehost",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.tradepartnerssweden.se",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "stephanieohanley.org",
-            "destination": "Wordify",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.lngcanada.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "lauratrotta.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "bikeshopgirl.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "gentleforcecounseling.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "mullenplumbing.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "www.tycaton.com",
-            "destination": "SiteGround",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "610west.com",
-            "destination": "Pressable",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -563,12 +563,12 @@
         "2024-11-17": "19924"
     },
     "topDestinationHosts": {
-        "Pressable": 5367,
-        "Bluehost": 3435,
-        "SiteGround": 1097,
-        "Kinsta": 985,
+        "Pressable": 5372,
+        "Bluehost": 3436,
+        "SiteGround": 1098,
+        "Kinsta": 986,
         "Digital Ocean": 971,
-        "Hostinger": 553,
+        "Hostinger": 555,
         "GoDaddy": 275,
         "Elementor Hosting": 157,
         "BigScoots": 136,
