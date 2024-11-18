@@ -1,6 +1,11 @@
 {
-    "siteCount": 19944,
+    "siteCount": 19947,
     "recentlyMoved": [
+        {
+            "domain_name": "ocspotlights.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "easybodyfitness.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "avantiadvisors.org",
             "destination": "Hostinger",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "futurefertility.com",
-            "destination": "Hostinger",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -563,7 +563,7 @@
         "2024-11-17": "19924"
     },
     "topDestinationHosts": {
-        "Pressable": 5354,
+        "Pressable": 5355,
         "Bluehost": 3433,
         "SiteGround": 1094,
         "Kinsta": 978,
