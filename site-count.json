@@ -1,6 +1,16 @@
 {
-    "siteCount": 19953,
+    "siteCount": 19955,
     "recentlyMoved": [
+        {
+            "domain_name": "alphatitleinc.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "alphanational.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "shortfusemartialarts.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "blackcatjunkremoval.com",
             "destination": "Kinsta",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "greekjunk.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "goegroup.com",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -567,7 +567,7 @@
         "Bluehost": 3434,
         "SiteGround": 1094,
         "Kinsta": 978,
-        "Digital Ocean": 968,
+        "Digital Ocean": 970,
         "Hostinger": 550,
         "GoDaddy": 275,
         "Elementor Hosting": 157,
