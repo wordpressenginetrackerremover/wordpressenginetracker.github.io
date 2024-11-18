@@ -1,6 +1,26 @@
 {
-    "siteCount": 20042,
+    "siteCount": 20048,
     "recentlyMoved": [
+        {
+            "domain_name": "masseon.com",
+            "destination": "Bluehost",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "drtravisbatts.com",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "lynnmaclaren.com",
+            "destination": "Kinsta",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "lorrainefrostart.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "seechangebeauty.com.au",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "www.squaremetermedia.co.uk",
             "destination": "Pressable",
             "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.ospreysportfishing.net",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.marycoakleywelch.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "social.colewebdev.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "conwaycollegeaid.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
         }
     ],
     "dailyMovedStat": {
@@ -560,15 +560,16 @@
         "2024-11-14": "18951",
         "2024-11-15": "19435",
         "2024-11-16": "19838",
-        "2024-11-17": "19924"
+        "2024-11-17": "19924",
+        "2024-11-18": "20048"
     },
     "topDestinationHosts": {
         "Pressable": 5372,
-        "Bluehost": 3436,
+        "Bluehost": 3437,
         "SiteGround": 1099,
-        "Kinsta": 991,
+        "Kinsta": 993,
         "Digital Ocean": 972,
-        "Hostinger": 555,
+        "Hostinger": 556,
         "GoDaddy": 275,
         "Elementor Hosting": 157,
         "BigScoots": 136,
