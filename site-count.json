@@ -1,6 +1,26 @@
 {
-    "siteCount": 19974,
+    "siteCount": 19978,
     "recentlyMoved": [
+        {
+            "domain_name": "poolservicefairfax.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "webcreatorsacademy.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "wasabiwell.com",
+            "destination": "DreamHost",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "ocwebmedia.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "theoverlab.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "repairheatingandcooling.com",
             "destination": "Digital Ocean",
             "date": "2024-11-16"
-        },
-        {
-            "domain_name": "chadmorrisdds.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "jackedupjunkremoval.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "cbdailyllc.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-16"
-        },
-        {
-            "domain_name": "inyourspacehome.com",
-            "destination": "Kinsta",
-            "date": "2024-11-16"
         }
     ],
     "dailyMovedStat": {
@@ -563,7 +563,7 @@
         "2024-11-17": "19924"
     },
     "topDestinationHosts": {
-        "Pressable": 5357,
+        "Pressable": 5359,
         "Bluehost": 3434,
         "SiteGround": 1094,
         "Kinsta": 982,
@@ -582,6 +582,6 @@
         "Namecheap": 52,
         "GridPane": 50,
         "A2 Hosting": 50,
-        "Krystal Hosting": 44
+        "DreamHost": 44
     }
 }
