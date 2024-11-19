@@ -1,6 +1,11 @@
 {
-    "siteCount": 20214,
+    "siteCount": 20216,
     "recentlyMoved": [
+        {
+            "domain_name": "danmarshallart.com",
+            "destination": "SiteGround",
+            "date": "2024-11-19"
+        },
         {
             "domain_name": "www.glamorgan-hvac.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "thehlb.com",
             "destination": "Pressable",
             "date": "2024-11-18"
-        },
-        {
-            "domain_name": "thegreasyspoonhtx.com",
-            "destination": "Hostinger",
-            "date": "2024-11-18"
         }
     ],
     "dailyMovedStat": {
@@ -566,7 +566,7 @@
     "topDestinationHosts": {
         "Pressable": 5398,
         "Bluehost": 3439,
-        "SiteGround": 1106,
+        "SiteGround": 1107,
         "Digital Ocean": 1011,
         "Kinsta": 1001,
         "Hostinger": 563,
