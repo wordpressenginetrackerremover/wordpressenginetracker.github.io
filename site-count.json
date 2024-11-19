@@ -1,6 +1,46 @@
 {
-    "siteCount": 20130,
+    "siteCount": 20141,
     "recentlyMoved": [
+        {
+            "domain_name": "gallery.thegardenroomguide.co.uk",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "thrivingstudents.com",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "newstudents.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.tlihvacpro.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "addhero.com",
+            "destination": "Kinsta",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.tempcontrolservice.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.sydneydancecompany.com",
+            "destination": "GridPane",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.spotonpestcontrol.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
         {
             "domain_name": "www.peakedpies.com",
             "destination": "Hostinger",
@@ -460,46 +500,6 @@
             "domain_name": "ocwebmedia.com",
             "destination": "Pressable",
             "date": "2024-11-18"
-        },
-        {
-            "domain_name": "theoverlab.com",
-            "destination": "Pressable",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "myperch.io",
-            "destination": "GridPane",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "mrandmrsnomad.com",
-            "destination": "Pressable",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "springhillpressmaps.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "springhillpress.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "dehavillandgin.com",
-            "destination": "Hostinger",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "chalfanttitle.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "iutesafe.mk",
-            "destination": "Kinsta",
-            "date": "2024-11-18"
         }
     ],
     "dailyMovedStat": {
@@ -564,11 +564,11 @@
         "2024-11-18": "20048"
     },
     "topDestinationHosts": {
-        "Pressable": 5378,
+        "Pressable": 5379,
         "Bluehost": 3437,
         "SiteGround": 1103,
-        "Kinsta": 997,
-        "Digital Ocean": 996,
+        "Digital Ocean": 999,
+        "Kinsta": 998,
         "Hostinger": 562,
         "GoDaddy": 276,
         "Elementor Hosting": 157,
@@ -581,7 +581,7 @@
         "IONOS": 54,
         "Namecheap": 54,
         "Hetzner Online": 54,
-        "GridPane": 50,
+        "GridPane": 51,
         "A2 Hosting": 50,
         "DreamHost": 44
     }
