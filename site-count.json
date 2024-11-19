@@ -1,6 +1,31 @@
 {
-    "siteCount": 20048,
+    "siteCount": 20057,
     "recentlyMoved": [
+        {
+            "domain_name": "nobulliesallowed.org",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "thepottersmarket.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "thehlb.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "thegreasyspoonhtx.com",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "eqyss.com",
+            "destination": "Pressable",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "masseon.com",
             "destination": "Bluehost",
@@ -475,31 +500,6 @@
             "domain_name": "nausetscreenprinting.com",
             "destination": "Pressable",
             "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.theholdeninn.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.tardiflaw.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "sunsetleisurecc.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.strictlyhydrangeas.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.squaremetermedia.co.uk",
-            "destination": "Pressable",
-            "date": "2024-11-17"
         }
     ],
     "dailyMovedStat": {
@@ -564,12 +564,12 @@
         "2024-11-18": "20048"
     },
     "topDestinationHosts": {
-        "Pressable": 5372,
+        "Pressable": 5375,
         "Bluehost": 3437,
         "SiteGround": 1099,
         "Kinsta": 993,
         "Digital Ocean": 972,
-        "Hostinger": 556,
+        "Hostinger": 557,
         "GoDaddy": 275,
         "Elementor Hosting": 157,
         "BigScoots": 136,
