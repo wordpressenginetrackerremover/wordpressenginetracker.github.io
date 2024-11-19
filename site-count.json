@@ -1,6 +1,46 @@
 {
-    "siteCount": 20057,
+    "siteCount": 20067,
     "recentlyMoved": [
+        {
+            "domain_name": "bunnandsons.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "houstongrubpark.com",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "wellvegan.com",
+            "destination": "BigScoots",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "pecanvalleytulsa.com",
+            "destination": "SiteGround",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "pathwayssouthwest.org.au",
+            "destination": "Kinsta",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "pandacandy.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "bdm3dstudio.com",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "give.nobulliesallowed.org",
+            "destination": "Hostinger",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "nobulliesallowed.org",
             "destination": "Hostinger",
@@ -460,46 +500,6 @@
             "domain_name": "cafealfresco.com",
             "destination": "GoDaddy",
             "date": "2024-11-17"
-        },
-        {
-            "domain_name": "horticulturaldna.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "vintagetradersbrewster.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "grilltanksplus.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "outermostlandsurvey.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "ostmanbusinessstrategy.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "onthetrailebikerentals.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "fruitmonsterofficial.com",
-            "destination": "Hostinger",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "nausetscreenprinting.com",
-            "destination": "Pressable",
-            "date": "2024-11-17"
         }
     ],
     "dailyMovedStat": {
@@ -566,13 +566,13 @@
     "topDestinationHosts": {
         "Pressable": 5375,
         "Bluehost": 3437,
-        "SiteGround": 1099,
-        "Kinsta": 993,
+        "SiteGround": 1100,
+        "Kinsta": 995,
         "Digital Ocean": 972,
-        "Hostinger": 557,
-        "GoDaddy": 275,
+        "Hostinger": 561,
+        "GoDaddy": 276,
         "Elementor Hosting": 157,
-        "BigScoots": 136,
+        "BigScoots": 137,
         "Wordify": 131,
         "Liquid Web": 114,
         "WordPress.com": 95,
