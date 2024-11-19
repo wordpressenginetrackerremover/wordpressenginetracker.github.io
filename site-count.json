@@ -1,6 +1,46 @@
 {
-    "siteCount": 20085,
+    "siteCount": 20101,
     "recentlyMoved": [
+        {
+            "domain_name": "ampereelectricnv.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "www.wefixitazair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "www.waconiacomfort.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "www.volpeservice.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "www.vibeshuntsville.com",
+            "destination": "Namecheap",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "www.texasqualityplumbing.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "supremeheatingandcooling412.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
+        {
+            "domain_name": "www.sunnysideac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-18"
+        },
         {
             "domain_name": "www.samsontraining.co.uk",
             "destination": "SiteGround",
@@ -460,46 +500,6 @@
             "domain_name": "decorahhatchery.com",
             "destination": "SiteGround",
             "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.h2xengineering.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "providers-international.com",
-            "destination": "WordPress.com",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.bp-g.com",
-            "destination": "DreamHost",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "farnorthsider.com",
-            "destination": "Bluehost",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "www.katiebirdbakes.com",
-            "destination": "BigScoots",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "industrialdynamics.com",
-            "destination": "SiteGround",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "hireupresults.com",
-            "destination": "Kinsta",
-            "date": "2024-11-17"
-        },
-        {
-            "domain_name": "openscied.org",
-            "destination": "Digital Ocean",
-            "date": "2024-11-17"
         }
     ],
     "dailyMovedStat": {
@@ -568,7 +568,7 @@
         "Bluehost": 3437,
         "SiteGround": 1103,
         "Kinsta": 996,
-        "Digital Ocean": 977,
+        "Digital Ocean": 984,
         "Hostinger": 561,
         "GoDaddy": 276,
         "Elementor Hosting": 157,
@@ -579,7 +579,7 @@
         "InMotion Hosting": 88,
         "OVH": 61,
         "IONOS": 54,
-        "Namecheap": 53,
+        "Namecheap": 54,
         "Hetzner Online": 53,
         "GridPane": 50,
         "A2 Hosting": 50,
