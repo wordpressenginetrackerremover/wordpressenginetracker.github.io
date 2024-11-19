@@ -1,6 +1,26 @@
 {
-    "siteCount": 20174,
+    "siteCount": 20186,
     "recentlyMoved": [
+        {
+            "domain_name": "gerontology.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "genetic-counseling.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "armourleasing.com",
+            "destination": "SiteGround",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "analitiq.ai",
+            "destination": "WordPress.com",
+            "date": "2024-11-19"
+        },
         {
             "domain_name": "americanprinciplesproject.org",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "transformationpsychotherapy.com",
             "destination": "Bluehost",
             "date": "2024-11-18"
-        },
-        {
-            "domain_name": "austin.thlblue.com",
-            "destination": "Hostinger",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "thlblue.com",
-            "destination": "Hostinger",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "www.walshfamilywine.com",
-            "destination": "SiteGround",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "acrpools.com",
-            "destination": "Pressable",
-            "date": "2024-11-18"
         }
     ],
     "dailyMovedStat": {
@@ -564,9 +564,9 @@
         "2024-11-18": "20048"
     },
     "topDestinationHosts": {
-        "Pressable": 5390,
+        "Pressable": 5392,
         "Bluehost": 3438,
-        "SiteGround": 1104,
+        "SiteGround": 1105,
         "Digital Ocean": 1004,
         "Kinsta": 1001,
         "Hostinger": 562,
@@ -575,7 +575,7 @@
         "BigScoots": 137,
         "Wordify": 131,
         "Liquid Web": 114,
-        "WordPress.com": 96,
+        "WordPress.com": 97,
         "InMotion Hosting": 88,
         "OVH": 61,
         "IONOS": 54,
