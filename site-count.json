@@ -1,6 +1,31 @@
 {
-    "siteCount": 20122,
+    "siteCount": 20130,
     "recentlyMoved": [
+        {
+            "domain_name": "www.peakedpies.com",
+            "destination": "Hostinger",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.partlander.com",
+            "destination": "Kinsta",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.morrismechanical.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "www.marxmechanical.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "directairandheat.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
         {
             "domain_name": "www.greenmobility.com",
             "destination": "Hetzner Online",
@@ -475,31 +500,6 @@
             "domain_name": "iutesafe.mk",
             "destination": "Kinsta",
             "date": "2024-11-18"
-        },
-        {
-            "domain_name": "iutecredit.org",
-            "destination": "Kinsta",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "iutecredit.ba",
-            "destination": "Kinsta",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "iute.al",
-            "destination": "Kinsta",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "carolinarentalhomes.com",
-            "destination": "Namecheap",
-            "date": "2024-11-18"
-        },
-        {
-            "domain_name": "alphatitleinc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-18"
         }
     ],
     "dailyMovedStat": {
@@ -567,9 +567,9 @@
         "Pressable": 5378,
         "Bluehost": 3437,
         "SiteGround": 1103,
-        "Kinsta": 996,
-        "Digital Ocean": 993,
-        "Hostinger": 561,
+        "Kinsta": 997,
+        "Digital Ocean": 996,
+        "Hostinger": 562,
         "GoDaddy": 276,
         "Elementor Hosting": 157,
         "BigScoots": 137,
