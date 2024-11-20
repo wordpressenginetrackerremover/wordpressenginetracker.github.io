@@ -1,34 +1,3 @@
-const totalWpeSitesStat = {
-  "2024-10-15": 863954,
-  "2024-10-16": 863474,
-  "2024-10-17": 862484,
-  "2024-10-18": 863779,
-  "2024-10-19": 860681,
-  "2024-10-20": 860368,
-  "2024-10-21": 858980,
-  "2024-10-22": 858028,
-  "2024-10-23": 856971,
-  "2024-10-24": 855897,
-  "2024-10-25": 854615,
-  "2024-10-26": 854024,
-  "2024-10-27": 854062,
-  "2024-10-28": 853069,
-  "2024-10-29": 851628,
-  "2024-10-30": 848972,
-  "2024-10-31": 848942,
-  "2024-11-01": 847599,
-  "2024-11-02": 847936,
-  "2024-11-03": 846514,
-  "2024-11-04": 846618,
-  "2024-11-05": 845606,
-  "2024-11-06": 844831,
-  "2024-11-07": 843178,
-  "2024-11-08": 842062,
-  "2024-11-09": 841024,
-  "2024-11-10": 840378,
-  "2024-11-11": 838873
-};
-
 const fetchSitesData = async () => {
     const response = await fetch( 'domains.csv' );
 
@@ -145,7 +114,7 @@ function initChart() {
   fetch("site-count.json")
     .then((response) => response.json())
     .then((data) => {
-      const stats = totalWpeSitesStat;
+      const stats = data.dailyTotalStat;
       const barsContainer = document.querySelector(".bars-container");
       const topChartValue = document.getElementById("top-chart-value");
       const bottomChartValue = document.getElementById("bottom-chart-value");
