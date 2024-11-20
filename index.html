@@ -53,67 +53,30 @@
                 </span>
                 <p id="sites-count" class="number-of-sites__count source-serif-4-text"></p>
             </div>
-            <!-- <div class="form-section">
-                <p class="form-section__body">
-                    This is the number of websites that have left WP Engine and 
-                    <a class="form-section__link" href="https://wordpress.org/hosting/">found a new home</a> 
-                    since Sep&nbsp;21,&nbsp;2024.
-                </p>
-
-                <form id="search-form" class="form-section__form" action="" method="get">
-                    <label
-                        class="form-section__form-label"
-                        for="domain"
-                    >
-                        Search below to see if a site is still hosted by WP&nbsp;Engine
-                    </label>
-
-                    <div class="form-section__input-container">
-                        <input
-                            class="form-section__form-input"
-                            type="search"
-                            id="domain"
-                            name="domain"
-                            placeholder="example.com"
-                        />
-    
-                        <span class="form-section__search-icon">
-                            <img id="search-icon" src="images/search.svg" />
-                        </span>
-                    </div>
-
-                    <span id="form-result" class="form-section__form-result">
-                        Enter a domain name
-                    </span>
-                </form> -->
-
-                <!-- <div class="form-section__download">
-                    <p class="form-section__download-body">Download a CSV of all sites ready for a new&nbsp;home</p>
-                    <a href="/domains.csv" class="form-section__download-button">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
-                            <path d="M24 15.0667L22.6666 13.6L17.3333 18.9333V4H15.3333V19.0667L9.33331 13.6L7.99998 15.0667L16.2666 22.8L24 15.0667ZM24.6666 20V24.6667H7.33331V20H5.33331V26.6667H26.6666V20H24.6666Z" fill="#0075df"/>
-                        </svg>
-                        <span class="download-button__content">Download</span>
-                    </a>
-                </div> -->
         </section>
 
         <section class="chart">
-            <div class="recently-moved-container">
-                <h3>Recently Moved</h3>
-                <div class="recently-moved-wrap">
-                    <div class="recently-moved source-serif-4-text"> <img src="images/arrow-right.svg" /></div>
+            <div class="chart-info">
+                <div class="top-destinations">
+                    <h3>Top Destinations</h3>
+                    <div class="host-list">
+                        <ul class="host"></ul>
+                    </div>
                 </div>
-            </div>
-            <div class="top-destinations">
-                <h3>Top Destinations</h3>
-                <div class="host-list">
-                    <ul class="host"></ul>
+                <div class="recently-moved-container">
+                    <h3>Recently Moved</h3>
+                    <div class="recently-moved-wrap">
+                        <div class="recently-moved source-serif-4-text"> <img src="images/arrow-right.svg" /></div>
+                    </div>
                 </div>
             </div>
             <div class="chart-container">
-                <span class="chart-container__date">20 SEP, 2024</span>
+                <span class="chart-container__title">Total WPE sites</span>
+                <span class="chart-container__date">21 SEP, 2024</span>
                 <div class="bars-container"></div>
+                <span class="chart-container__today">TODAY</span>
+                <span id="bottom-chart-value"></span>
+                <span id="top-chart-value"></span>
             </div>
             <footer class="footer">
                 <span class="footer__content">An <img src="images/a8c-logo.svg" /> thingamajig</span>

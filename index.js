@@ -25,7 +25,7 @@ const fetchSitesCount = async () => {
   return siteCount;
 }
 
-const formatNumber = ( number ) => {
+const formatNumber = ( number, shouldHaveDecimals = true ) => {
   if ( ! number ) {
     return '';
   }
@@ -39,144 +39,12 @@ const formatNumber = ( number ) => {
   const numberString = Math.floor( roundedNumber / 1000 ).toLocaleString();
   const decimalString = Math.floor( ( roundedNumber % 1000 ) / 100 );
 
-  return `${ numberString }.${ decimalString}K`;
+  if ( shouldHaveDecimals ) {
+    return `${ numberString }.${ decimalString}K`;
+  }
+
+  return `${ numberString }K`;
 }
-
-// const isValidURL = ( str ) => {
-//   try {
-//     new URL( str );
-//     return true;
-//   } catch ( _ ) {
-//     return false;
-//   }
-// }
-
-// const prepareDomain = ( input ) => {
-//   if ( isValidURL( input ) ) {
-//     input = new URL( input ).hostname;
-//   }
-
-//   // Remove unwanted characters (keeping only letters, numbers, hyphens, and dots)
-//   const sanitized = input.replace( /[^a-zA-Z0-9.-]/g, '' );
-
-//   return sanitized;
-// }
-
-// const isValidDomain = ( domain ) => {
-//   const domainRegex = /^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,63}$/;
-//   return domainRegex.test(domain);
-// }
-
-// const updateFormResult = ( type = 'empty' ) => {
-//   const formResultElement = document.getElementById( 'form-result' );
-//   const inputElement = document.querySelector( 'input#domain' );
-
-//   inputElement.classList.remove( 'error' );
-//   inputElement.classList.remove( 'success' );
-//   formResultElement.classList.remove( 'error' );
-//   formResultElement.classList.remove( 'success' );
-
-//   if ( type === 'not-valid' ) {
-//     formResultElement.innerHTML = "Not a valid domain";
-//     inputElement.classList.add( 'error' );
-//     formResultElement.classList.add( 'error' );
-//     return;
-//   }
-
-//   if ( type === 'filled-out' ) {
-//     formResultElement.innerHTML= "Press enter to search";
-//     return;
-//   }
-
-//   if ( type === 'still-hosted' ) {
-//     formResultElement.innerHTML = "Still hosted by WP Engine";
-//     inputElement.classList.add( 'error' );
-//     formResultElement.classList.add( 'error' );
-//     return;
-//   }
-
-//   if ( type === 'not-hosted' ) {
-//     formResultElement.innerHTML = "Not hosted by WP Engine";
-//     inputElement.classList.add( 'success' );
-//     formResultElement.classList.add( 'success' );
-//     return;
-//   }
-
-//   formResultElement.innerHTML = "Please enter a domain";
-// }
-
-// const handleSearchForm = async () => {
-//   const allDomains = new Set();
-//   const searchForm = document.querySelector( 'form#search-form' );
-//   const inputElement = document.querySelector( 'input#domain' );
-//   const searchIcon = document.getElementById( 'search-icon' );
-
-//     const setDownloadSizeEstimate = mb => {
-//         document.querySelector( '.download-button__content' ).textContent = mb ? `Download (${ mb }MB)` : 'Download';
-//     }
-
-//     const wpeSites = [
-//       /\.wpengine\.com$/,
-//       /\.wpenginepowered\.com$/,
-//       /\.flywheelsites\.com$/,
-//       /\.flywheelstaging\.com$/,
-//       /^wpenginepowered\.com$/,
-//       /^flywheel\.io$/
-//     ];
-
-//     try {
-//       const { text, rows } = await fetchSitesData();
-  
-//       setDownloadSizeEstimate( calculateFileSize( text ) );    
-
-//       rows.map( row => row.trim() )
-//         .filter( row => row )
-//         .forEach( domain => allDomains.add( domain ) );
-  
-//       console.log( `Loaded CSV with ${allDomains.size} domains` );
-//     } catch (error) {
-//       console.error( 'Error loading CSV: ', error );
-//     }
-    
-//     const isHostedOnWPE = domain => {
-//       const lowerDomain = domain.toLowerCase();
-//       return allDomains.has( lowerDomain ) || wpeSites.some( regex => regex.test( lowerDomain ) );
-//     }
-
-//     inputElement.addEventListener( 'input', event => {
-//         const domain = prepareDomain( event.target.value );
-
-//       if ( ! domain ) {
-//         updateFormResult( 'empty' );
-//         searchIcon.style.display = 'initial';
-//         return;
-//       }
-
-//       updateFormResult( 'filled-out' );
-//       searchIcon.style.display = 'none';
-//     } );
-
-//     searchForm.addEventListener( 'submit', event => {
-//       event.preventDefault();
-//       const domain = prepareDomain( event.target.elements['domain'].value );
-
-//       if ( domain ) {
-//         if ( ! isValidDomain( domain ) ) {
-//           updateFormResult( 'not-valid' );
-//         } else if ( isHostedOnWPE( domain ) ) {
-//           updateFormResult( 'still-hosted' );
-//         } else {
-//           updateFormResult( 'not-hosted' );
-//         }
-//       }
-
-//       return domain && isHostedOnWPE( domain );
-//     } );
-// }
-
-// document.addEventListener( 'DOMContentLoaded', async () => {
-//     handleSearchForm();
-// } );
 
 function triggerRecentlyMovedAnimation() {
   const site = document.querySelector(".recently-moved");
@@ -246,8 +114,10 @@ function initChart() {
   fetch("site-count.json")
     .then((response) => response.json())
     .then((data) => {
-      const stats = data.dailyMovedStat;
+      const stats = data.dailyTotalStat;
       const barsContainer = document.querySelector(".bars-container");
+      const topChartValue = document.getElementById("top-chart-value");
+      const bottomChartValue = document.getElementById("bottom-chart-value");
 
       const tooltip = document.createElement("div");
       tooltip.className = "tooltip";
@@ -255,12 +125,22 @@ function initChart() {
 
       let tooltipTimeout;
 
-      const maxValue = Math.max(...Object.values(stats));
       const entries = Object.entries(stats);
+
+      const beginningSiteCount = entries[0][1];
+      const endingSiteCount = entries[entries.length - 1][1];
+
+      const beginningChartNumber = beginningSiteCount;
+      const endingChartNumber = beginningChartNumber - ( ( beginningSiteCount - endingSiteCount ) * 3 );
+      const delta = beginningChartNumber - endingChartNumber;
+
+      topChartValue.textContent = formatNumber(beginningChartNumber, false);
+      bottomChartValue.textContent = formatNumber(endingChartNumber, false);
 
       // Create bars
       entries.forEach(([date, value], index) => {
-        const height = (value / maxValue) * 100;
+        const adjustedValue = value - endingChartNumber;
+        const height = (adjustedValue / delta) * 100;
         const bar = document.createElement("div");
         bar.className = "bar";
         bar.style.height = `${height}%`;
