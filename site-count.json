@@ -1,6 +1,26 @@
 {
-    "siteCount": 20969,
+    "siteCount": 20977,
     "recentlyMoved": [
+        {
+            "domain_name": "montgomeryneuro.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-20 23:07:40"
+        },
+        {
+            "domain_name": "unbridledpediatrictherapy.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20 22:57:53"
+        },
+        {
+            "domain_name": "www.timleonardcompany.com",
+            "destination": "Pressable",
+            "date": "2024-11-20 22:45:31"
+        },
+        {
+            "domain_name": "thorndykeestate.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-20 22:38:32"
+        },
         {
             "domain_name": "www.simplifiedelectricalsolutionsga.com",
             "destination": "Pressable",
@@ -27,6 +47,11 @@
             "date": "2024-11-20 22:30:14"
         },
         {
+            "domain_name": "drrebeccacohen.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-20 22:22:47"
+        },
+        {
             "domain_name": "www.sharpebrothers.com",
             "destination": "Pressable",
             "date": "2024-11-20 22:20:25"
@@ -35,6 +60,16 @@
             "domain_name": "www.rdaarchitects.net",
             "destination": "Pressable",
             "date": "2024-11-20 22:15:19"
+        },
+        {
+            "domain_name": "www.westernrest.com",
+            "destination": "Pressable",
+            "date": "2024-11-20 22:11:54"
+        },
+        {
+            "domain_name": "www.westerncarolinahomeexteriors.com",
+            "destination": "Pressable",
+            "date": "2024-11-20 22:11:54"
         },
         {
             "domain_name": "www.newbritepw.com",
@@ -442,11 +477,6 @@
             "date": "2024-11-20 17:48:28"
         },
         {
-            "domain_name": "cliffroselodge.com",
-            "destination": "SiteGround",
-            "date": "2024-11-20 17:47:19"
-        },
-        {
             "domain_name": "www.roofingcompanyamarillo.com",
             "destination": "Pressable",
             "date": "2024-11-20 17:45:25"
@@ -470,36 +500,6 @@
             "domain_name": "www.sjomann.no",
             "destination": "Digital Ocean",
             "date": "2024-11-20 17:40:34"
-        },
-        {
-            "domain_name": "landing.localpropeller.com",
-            "destination": "SiteGround",
-            "date": "2024-11-20 17:40:16"
-        },
-        {
-            "domain_name": "club.whitewalnutestate.com",
-            "destination": "SiteGround",
-            "date": "2024-11-20 17:35:40"
-        },
-        {
-            "domain_name": "launchpointcreative.org",
-            "destination": "Bluehost",
-            "date": "2024-11-20 17:28:22"
-        },
-        {
-            "domain_name": "www.oakdalekidsdentist.com",
-            "destination": "Kinsta",
-            "date": "2024-11-20 17:19:31"
-        },
-        {
-            "domain_name": "www.pagepaintingllc.com",
-            "destination": "Pressable",
-            "date": "2024-11-20 17:18:49"
-        },
-        {
-            "domain_name": "cleanenergybc.org",
-            "destination": "SiteGround",
-            "date": "2024-11-20 17:13:30"
         }
     ],
     "dailyMovedStat": {
@@ -562,17 +562,18 @@
         "2024-11-16": "19838",
         "2024-11-17": "19924",
         "2024-11-18": "20048",
-        "2024-11-19": "20351"
+        "2024-11-19": "20351",
+        "2024-11-20": "20977"
     },
     "topDestinationHosts": {
-        "Pressable": 5599,
+        "Pressable": 5603,
         "Bluehost": 3447,
         "SiteGround": 1154,
-        "Digital Ocean": 1123,
-        "Kinsta": 1075,
+        "Digital Ocean": 1124,
+        "Kinsta": 1076,
         "Hostinger": 598,
-        "GoDaddy": 290,
-        "Elementor Hosting": 164,
+        "GoDaddy": 291,
+        "Elementor Hosting": 165,
         "BigScoots": 149,
         "Wordify": 132,
         "Liquid Web": 119,
@@ -646,6 +647,7 @@
         "2024-11-16": "716381",
         "2024-11-17": "716544",
         "2024-11-18": "715924",
-        "2024-11-19": "715530"
+        "2024-11-19": "715530",
+        "2024-11-20": "714747"
     }
 }
