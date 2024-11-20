@@ -1,6 +1,71 @@
 {
-    "siteCount": 20355,
+    "siteCount": 20379,
     "recentlyMoved": [
+        {
+            "domain_name": "gridtechpdr.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "pillar-insurance.com",
+            "destination": "Kinsta",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "ap4.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "photobooth2you.com",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "gmproperty.services",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "wilmingtonkofc.com",
+            "destination": "Hostinger",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "wescanfiles.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "foundryministries.com",
+            "destination": "Hostinger",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "affordableairnow.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "fm100.com",
+            "destination": "Kinsta",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "flymehomedecor.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "now100fm.com",
+            "destination": "Kinsta",
+            "date": "2024-11-19"
+        },
+        {
+            "domain_name": "novaexteriorcleaning.com",
+            "destination": "Pressable",
+            "date": "2024-11-19"
+        },
         {
             "domain_name": "ywcabham.org",
             "destination": "Elementor Hosting",
@@ -435,71 +500,6 @@
             "domain_name": "www.qualityairct.com",
             "destination": "Pressable",
             "date": "2024-11-19"
-        },
-        {
-            "domain_name": "danmarshallart.com",
-            "destination": "SiteGround",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "www.glamorgan-hvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "www.dtheatingandcooling.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "clmgroup.com",
-            "destination": "Krystal Hosting",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "clmfiretesting.com",
-            "destination": "Krystal Hosting",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "clmfireproofing.com",
-            "destination": "Krystal Hosting",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "cherryblossomplumbing.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "www.airforceheating.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "provost.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "builtbest.co",
-            "destination": "BigScoots",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "pontypriddymca.co.uk",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "bookdirtbusters.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "hdf.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
         }
     ],
     "dailyMovedStat": {
@@ -565,18 +565,18 @@
         "2024-11-19": "20351"
     },
     "topDestinationHosts": {
-        "Pressable": 5430,
+        "Pressable": 5432,
         "Bluehost": 3440,
         "SiteGround": 1115,
-        "Digital Ocean": 1037,
-        "Kinsta": 1005,
-        "Hostinger": 565,
+        "Digital Ocean": 1041,
+        "Kinsta": 1008,
+        "Hostinger": 567,
         "GoDaddy": 279,
-        "Elementor Hosting": 158,
+        "Elementor Hosting": 159,
         "BigScoots": 142,
         "Wordify": 131,
-        "Liquid Web": 116,
-        "WordPress.com": 98,
+        "Liquid Web": 117,
+        "WordPress.com": 99,
         "InMotion Hosting": 88,
         "OVH": 63,
         "IONOS": 54,
