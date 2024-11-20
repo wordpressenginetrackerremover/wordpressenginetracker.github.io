@@ -166,7 +166,7 @@ function initChart() {
           const bar = barsContainer.children[barIndex + 1];
           if (bar && bar.classList.contains("bar")) {
             tooltip.style.left = `${e.clientX - barsContainerRect.left}px`;
-            tooltip.textContent = bar.dataset.value;
+            tooltip.textContent = formatNumber( bar.dataset.value );
           }
         }
       };
