@@ -1,6 +1,71 @@
 {
-    "siteCount": 20568,
+    "siteCount": 20588,
     "recentlyMoved": [
+        {
+            "domain_name": "jepscolorado.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.hotorcoldair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "rmpc.info",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.diamondshinecleaning4u.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "relamb.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.deoglobalcorp.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.deepsouthroofingcompany.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.customviewne.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.core24-7.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "bdm3d.com",
+            "destination": "Hostinger",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.cleanmyfloorsnow.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.cleancutstreecare.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "healthybuffalo.org",
+            "destination": "BigScoots",
+            "date": "2024-11-20"
+        },
         {
             "domain_name": "plumberthornbury.com.au",
             "destination": "Pressable",
@@ -435,71 +500,6 @@
             "domain_name": "lasertag2you.com",
             "destination": "Pressable",
             "date": "2024-11-19"
-        },
-        {
-            "domain_name": "clarksonfirm.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "cherry-hollow.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "kitchensdirectmass.com",
-            "destination": "Hostinger",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "sjrctexas.org",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "charlessocarides.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "kin.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "cgs.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "www.ljlinenservice.com",
-            "destination": "Hostinger",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "cfipain.com",
-            "destination": "SiteGround",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "sigtaued.com",
-            "destination": "Kinsta",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "sierralogandtimber.com",
-            "destination": "Namecheap",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "shriekingtree.com",
-            "destination": "Hostinger",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "katrinacoxrd.com",
-            "destination": "BigScoots",
-            "date": "2024-11-19"
         }
     ],
     "dailyMovedStat": {
@@ -565,15 +565,15 @@
         "2024-11-19": "20351"
     },
     "topDestinationHosts": {
-        "Pressable": 5486,
+        "Pressable": 5493,
         "Bluehost": 3443,
         "SiteGround": 1124,
-        "Digital Ocean": 1056,
+        "Digital Ocean": 1060,
         "Kinsta": 1034,
-        "Hostinger": 580,
+        "Hostinger": 581,
         "GoDaddy": 283,
         "Elementor Hosting": 161,
-        "BigScoots": 143,
+        "BigScoots": 144,
         "Wordify": 131,
         "Liquid Web": 117,
         "WordPress.com": 99,
