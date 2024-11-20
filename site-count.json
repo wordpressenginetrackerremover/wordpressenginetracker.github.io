@@ -1,6 +1,16 @@
 {
-    "siteCount": 20920,
+    "siteCount": 20926,
     "recentlyMoved": [
+        {
+            "domain_name": "amosipl.org",
+            "destination": "Hostinger",
+            "date": "2024-11-20 19:56:07"
+        },
+        {
+            "domain_name": "farinakc.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20 19:53:15"
+        },
         {
             "domain_name": "urise.uncg.edu",
             "destination": "Pressable",
@@ -377,11 +387,6 @@
             "date": "2024-11-20 17:01:21"
         },
         {
-            "domain_name": "beaconaccounting.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-20 17:00:49"
-        },
-        {
             "domain_name": "benjamindds.com",
             "destination": "Digital Ocean",
             "date": "2024-11-20 17:00:40"
@@ -482,11 +487,6 @@
             "date": "2024-11-20 16:32:23"
         },
         {
-            "domain_name": "bcgcopacking.com",
-            "destination": "BigScoots",
-            "date": "2024-11-20 16:28:22"
-        },
-        {
             "domain_name": "www.eaglesmiles.com",
             "destination": "Kinsta",
             "date": "2024-11-20 16:23:54"
@@ -568,9 +568,9 @@
         "Pressable": 5570,
         "Bluehost": 3446,
         "SiteGround": 1151,
-        "Digital Ocean": 1121,
+        "Digital Ocean": 1122,
         "Kinsta": 1073,
-        "Hostinger": 597,
+        "Hostinger": 598,
         "GoDaddy": 290,
         "Elementor Hosting": 164,
         "BigScoots": 148,
