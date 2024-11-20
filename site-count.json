@@ -1,6 +1,81 @@
 {
-    "siteCount": 20547,
+    "siteCount": 20568,
     "recentlyMoved": [
+        {
+            "domain_name": "plumberthornbury.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "plumberfitzroy.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "plumberbrunswick.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "pickleballgetaways.com",
+            "destination": "SiteGround",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "gohorizontalfallstours.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.adventureworks.com",
+            "destination": "SiteGround",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.absolutecomfortpdx.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.abreptileremoval.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "gathergrills.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "ospreyagridrone.com",
+            "destination": "Kinsta",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "airbornecolorado.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "westernportsandandsoil.com.au",
+            "destination": "GridPane",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "wegotchasnacks.com",
+            "destination": "SiteGround",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "onwardcontent.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.ironstoneroofing.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
         {
             "domain_name": "myhlaw.com",
             "destination": "Pressable",
@@ -425,81 +500,6 @@
             "domain_name": "katrinacoxrd.com",
             "destination": "BigScoots",
             "date": "2024-11-19"
-        },
-        {
-            "domain_name": "katieandelman.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "cattailcreekcreatives.com",
-            "destination": "Kinsta",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "shaneschimney.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "casabgroup.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "carlsprague.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "jonathanstein.org",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "cap.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "campusenterprises.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "johnnyonthespothvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "jerichopoolsetx.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "bryanbusinessreport.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "brooksheatingandair.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "www.georgiabreastcare.com",
-            "destination": "Kinsta",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "royalprinters.com",
-            "destination": "Bluehost",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "roachlaw.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
         }
     ],
     "dailyMovedStat": {
@@ -565,13 +565,13 @@
         "2024-11-19": "20351"
     },
     "topDestinationHosts": {
-        "Pressable": 5479,
+        "Pressable": 5486,
         "Bluehost": 3443,
-        "SiteGround": 1121,
-        "Digital Ocean": 1054,
-        "Kinsta": 1033,
+        "SiteGround": 1124,
+        "Digital Ocean": 1056,
+        "Kinsta": 1034,
         "Hostinger": 580,
-        "GoDaddy": 282,
+        "GoDaddy": 283,
         "Elementor Hosting": 161,
         "BigScoots": 143,
         "Wordify": 131,
@@ -582,7 +582,7 @@
         "Namecheap": 56,
         "IONOS": 54,
         "Hetzner Online": 54,
-        "GridPane": 51,
+        "GridPane": 52,
         "A2 Hosting": 50,
         "Krystal Hosting": 48
     }
