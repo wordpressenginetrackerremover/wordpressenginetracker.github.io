@@ -1,6 +1,51 @@
 {
-    "siteCount": 20611,
+    "siteCount": 20625,
     "recentlyMoved": [
+        {
+            "domain_name": "www.astonaccountants.com.au",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.andersonroofrepairs.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.alliedservicesardmore.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.airconditioning-experts.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.absoluteaircv.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "www.abebuildingservices.com",
+            "destination": "Pressable",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "frymax.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "welcome.supersummerarkansas.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-20"
+        },
+        {
+            "domain_name": "welcome.praiseworksarkansas.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-20"
+        },
         {
             "domain_name": "expertplumbing.com.au",
             "destination": "Pressable",
@@ -455,51 +500,6 @@
             "domain_name": "www.graceappleton.com",
             "destination": "Pressable",
             "date": "2024-11-19"
-        },
-        {
-            "domain_name": "997now.com",
-            "destination": "Kinsta",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "1035thearrow.com",
-            "destination": "Kinsta",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "unwedsailor.net",
-            "destination": "Hostinger",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "evesoldinger.com",
-            "destination": "Hostinger",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "mountainsidegals.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "xplicitaudio.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "theunionbuildingtulsa.com",
-            "destination": "SiteGround",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "thetricityeyes.com",
-            "destination": "Pressable",
-            "date": "2024-11-19"
-        },
-        {
-            "domain_name": "thespecificchico.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-11-19"
         }
     ],
     "dailyMovedStat": {
@@ -565,14 +565,14 @@
         "2024-11-19": "20351"
     },
     "topDestinationHosts": {
-        "Pressable": 5501,
+        "Pressable": 5503,
         "Bluehost": 3443,
         "SiteGround": 1124,
-        "Digital Ocean": 1067,
+        "Digital Ocean": 1070,
         "Kinsta": 1035,
         "Hostinger": 582,
         "GoDaddy": 283,
-        "Elementor Hosting": 161,
+        "Elementor Hosting": 163,
         "BigScoots": 144,
         "Wordify": 131,
         "Liquid Web": 117,
@@ -584,6 +584,6 @@
         "Hetzner Online": 54,
         "GridPane": 52,
         "A2 Hosting": 50,
-        "Krystal Hosting": 48
+        "Krystal Hosting": 49
     }
 }
