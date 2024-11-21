@@ -1,6 +1,176 @@
 {
-    "siteCount": 21096,
+    "siteCount": 21176,
     "recentlyMoved": [
+        {
+            "domain_name": "setxind.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:35:24"
+        },
+        {
+            "domain_name": "joebizjak.com",
+            "destination": "Bluehost",
+            "date": "2024-11-21 05:26:16"
+        },
+        {
+            "domain_name": "www.keithkeyhvac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:23:38"
+        },
+        {
+            "domain_name": "www.kbmmechanical.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:23:38"
+        },
+        {
+            "domain_name": "international-technologies.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 05:11:58"
+        },
+        {
+            "domain_name": "www.jormerhvac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:11:34"
+        },
+        {
+            "domain_name": "katherinemarsh.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 05:07:10"
+        },
+        {
+            "domain_name": "www.enahvac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:07:05"
+        },
+        {
+            "domain_name": "www.elitedochealthandbeauty.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 05:07:05"
+        },
+        {
+            "domain_name": "www.ilovelibertyac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:06:28"
+        },
+        {
+            "domain_name": "breiholz.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 05:02:54"
+        },
+        {
+            "domain_name": "breakawayministries.net",
+            "destination": "Hostinger",
+            "date": "2024-11-21 05:02:54"
+        },
+        {
+            "domain_name": "www.functionalmedicinecenter.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:01:35"
+        },
+        {
+            "domain_name": "www.friarsair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 05:01:17"
+        },
+        {
+            "domain_name": "www.compoconstruction.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 04:59:52"
+        },
+        {
+            "domain_name": "www.leonelcalara.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-21 04:59:23"
+        },
+        {
+            "domain_name": "www.lemoinerefrigeration.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:59:23"
+        },
+        {
+            "domain_name": "www.goldroofingnw.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:58:17"
+        },
+        {
+            "domain_name": "www.gold-standard-electric.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:58:17"
+        },
+        {
+            "domain_name": "www.coolingmethods.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:58:12"
+        },
+        {
+            "domain_name": "kaimaicaravanandcabin.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:57:53"
+        },
+        {
+            "domain_name": "residencebyjulianos.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 04:57:44"
+        },
+        {
+            "domain_name": "www.essentialairhvac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:53:57"
+        },
+        {
+            "domain_name": "www.deansheatingandac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:53:53"
+        },
+        {
+            "domain_name": "carefirsthcs.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 04:53:45"
+        },
+        {
+            "domain_name": "karendulaneysmith.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 04:53:20"
+        },
+        {
+            "domain_name": "www.cliettrefrigeration.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:53:18"
+        },
+        {
+            "domain_name": "capitalwealthplanning.com",
+            "destination": "Bluehost",
+            "date": "2024-11-21 04:52:54"
+        },
+        {
+            "domain_name": "www.insidecasino.co.za",
+            "destination": "Kinsta",
+            "date": "2024-11-21 04:52:52"
+        },
+        {
+            "domain_name": "www.jerrysheatingandairconditioning.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:51:53"
+        },
+        {
+            "domain_name": "www.chambersbayheatingandcooling.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:49:03"
+        },
+        {
+            "domain_name": "www.eastshoreelectric.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:45:43"
+        },
+        {
+            "domain_name": "www.eaplumbingservices.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:45:43"
+        },
+        {
+            "domain_name": "www.dvohvac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:45:43"
+        },
         {
             "domain_name": "aspirerumson.com",
             "destination": "Digital Ocean",
@@ -12,6 +182,66 @@
             "date": "2024-11-21 04:45:36"
         },
         {
+            "domain_name": "www.cambridgeleather.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:45:35"
+        },
+        {
+            "domain_name": "www.callklm.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:45:35"
+        },
+        {
+            "domain_name": "www.callclimateheroes.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:45:35"
+        },
+        {
+            "domain_name": "www.bwheatcool.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:45:35"
+        },
+        {
+            "domain_name": "pros360.net",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:42:25"
+        },
+        {
+            "domain_name": "www.captiveresources.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:41:29"
+        },
+        {
+            "domain_name": "www.coxclimatecontrol.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:40:23"
+        },
+        {
+            "domain_name": "borismatthews.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 04:40:16"
+        },
+        {
+            "domain_name": "www.danisienergy.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:39:49"
+        },
+        {
+            "domain_name": "www.hydroproleakdetection.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:39:44"
+        },
+        {
+            "domain_name": "www.hvaccsllc.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:39:44"
+        },
+        {
+            "domain_name": "www.huffmanshayeblaw.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:39:44"
+        },
+        {
             "domain_name": "www.arctichvacsystems.com",
             "destination": "Digital Ocean",
             "date": "2024-11-21 04:38:20"
@@ -20,6 +250,16 @@
             "domain_name": "www.aapaintingct.com",
             "destination": "Pressable",
             "date": "2024-11-21 04:34:40"
+        },
+        {
+            "domain_name": "www.graysonfarmstexas.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:33:25"
+        },
+        {
+            "domain_name": "www.hamptonsquality.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:33:05"
         },
         {
             "domain_name": "www.ajlopezroofingandremodel.com",
@@ -52,14 +292,44 @@
             "date": "2024-11-21 04:31:24"
         },
         {
+            "domain_name": "hnic.ashnr.org",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:23:47"
+        },
+        {
             "domain_name": "www.beyondroofs.com",
             "destination": "Pressable",
             "date": "2024-11-21 04:21:30"
         },
         {
+            "domain_name": "www.dmelectricpros.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 04:19:59"
+        },
+        {
             "domain_name": "www.americanairandmold.com",
             "destination": "Pressable",
             "date": "2024-11-21 04:14:36"
+        },
+        {
+            "domain_name": "rafedelkhabar.com",
+            "destination": "Bluehost",
+            "date": "2024-11-21 04:13:54"
+        },
+        {
+            "domain_name": "www.dependablebuildingservices.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 04:13:07"
+        },
+        {
+            "domain_name": "pursueducation.com",
+            "destination": "OVH",
+            "date": "2024-11-21 04:03:31"
+        },
+        {
+            "domain_name": "purpleheartfoundation.org",
+            "destination": "SiteGround",
+            "date": "2024-11-21 04:03:31"
         },
         {
             "domain_name": "www.allpointsplumbing.net",
@@ -207,21 +477,6 @@
             "date": "2024-11-21 02:04:18"
         },
         {
-            "domain_name": "www.mm-residentialcleaning.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 02:02:32"
-        },
-        {
-            "domain_name": "www.luminouspearlspa.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:54:07"
-        },
-        {
-            "domain_name": "www.jmcontracting2024.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:52:28"
-        },
-        {
             "domain_name": "www.reisenlawn.com",
             "destination": "Pressable",
             "date": "2024-11-21 01:48:04"
@@ -242,264 +497,9 @@
             "date": "2024-11-21 01:40:59"
         },
         {
-            "domain_name": "www.kukuisolarhi.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 01:39:04"
-        },
-        {
-            "domain_name": "www.ksmgates.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:39:04"
-        },
-        {
             "domain_name": "www.platinumpoolsil.com",
             "destination": "Pressable",
             "date": "2024-11-21 01:38:41"
-        },
-        {
-            "domain_name": "www.menjivarcpas.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:36:10"
-        },
-        {
-            "domain_name": "rosenstengel.com.au",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:34:44"
-        },
-        {
-            "domain_name": "seniorliferesources.org",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:33:21"
-        },
-        {
-            "domain_name": "sheriffs.claremont.org",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:33:13"
-        },
-        {
-            "domain_name": "www.myholisticsolutions.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 01:30:23"
-        },
-        {
-            "domain_name": "salonspaw.com",
-            "destination": "Hostinger",
-            "date": "2024-11-21 01:28:55"
-        },
-        {
-            "domain_name": "seaofpearlsdentistry.com",
-            "destination": "Hostinger",
-            "date": "2024-11-21 01:28:38"
-        },
-        {
-            "domain_name": "cday.claremont.org",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:27:58"
-        },
-        {
-            "domain_name": "www.hqsteelstructures.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:27:49"
-        },
-        {
-            "domain_name": "salvatori.claremont.org",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:20:02"
-        },
-        {
-            "domain_name": "www.diamondsteelroofing.net",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:15:59"
-        },
-        {
-            "domain_name": "www.homeland-electric.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:14:20"
-        },
-        {
-            "domain_name": "www.leesaccountingservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:14:09"
-        },
-        {
-            "domain_name": "www.lnpplumbing.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:13:51"
-        },
-        {
-            "domain_name": "www.cutmytrees.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:06:33"
-        },
-        {
-            "domain_name": "www.gensetpros.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:02:44"
-        },
-        {
-            "domain_name": "www.cmaoutdoorservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:01:01"
-        },
-        {
-            "domain_name": "www.davebrownpestcontrol.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 01:00:15"
-        },
-        {
-            "domain_name": "www.hawkconstruction.net",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:56:43"
-        },
-        {
-            "domain_name": "www.haubner-construction.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:56:43"
-        },
-        {
-            "domain_name": "www.hendersonhomeinspectionny.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:56:34"
-        },
-        {
-            "domain_name": "www.fantasyfarmsaddlebreds.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:54:50"
-        },
-        {
-            "domain_name": "www.greatvaluegutter.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:53:19"
-        },
-        {
-            "domain_name": "sarphielaw.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-21 00:48:29"
-        },
-        {
-            "domain_name": "www.doneforless.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:48:19"
-        },
-        {
-            "domain_name": "www.ccconstructionservice.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:42:38"
-        },
-        {
-            "domain_name": "www.cardinalridgelandscape.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:36:14"
-        },
-        {
-            "domain_name": "www.cracksseal.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:34:12"
-        },
-        {
-            "domain_name": "www.cpr-oh.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:34:12"
-        },
-        {
-            "domain_name": "www.estesgs.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:32:17"
-        },
-        {
-            "domain_name": "www.casanovaroofing.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:27:05"
-        },
-        {
-            "domain_name": "www.chenaconstruction.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:25:38"
-        },
-        {
-            "domain_name": "www.charlienansteel.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:25:38"
-        },
-        {
-            "domain_name": "www.deanofclean.biz",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:20:36"
-        },
-        {
-            "domain_name": "www.allapplianceparts.net",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:13:51"
-        },
-        {
-            "domain_name": "www.artisticdr.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:13:29"
-        },
-        {
-            "domain_name": "www.bennettwoods.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 00:09:39"
-        },
-        {
-            "domain_name": "wanngardi.com.au",
-            "destination": "Kinsta",
-            "date": "2024-11-21 00:05:55"
-        },
-        {
-            "domain_name": "gala.claremont.org",
-            "destination": "Pressable",
-            "date": "2024-11-20 23:54:24"
-        },
-        {
-            "domain_name": "abigailmundell.com",
-            "destination": "Bluehost",
-            "date": "2024-11-20 23:51:28"
-        },
-        {
-            "domain_name": "palletizers.com",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-20 23:42:35"
-        },
-        {
-            "domain_name": "www.1sourcemoving.com",
-            "destination": "Pressable",
-            "date": "2024-11-20 23:41:21"
-        },
-        {
-            "domain_name": "vapemarley.com",
-            "destination": "Hostinger",
-            "date": "2024-11-20 23:28:24"
-        },
-        {
-            "domain_name": "montgomeryneuro.com",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-20 23:07:40"
-        },
-        {
-            "domain_name": "unbridledpediatrictherapy.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-20 22:57:53"
-        },
-        {
-            "domain_name": "thorndykeestate.com.au",
-            "destination": "Kinsta",
-            "date": "2024-11-20 22:38:32"
-        },
-        {
-            "domain_name": "drrebeccacohen.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-20 22:22:47"
-        },
-        {
-            "domain_name": "www.westernrest.com",
-            "destination": "Pressable",
-            "date": "2024-11-20 22:11:54"
-        },
-        {
-            "domain_name": "www.westerncarolinahomeexteriors.com",
-            "destination": "Pressable",
-            "date": "2024-11-20 22:11:54"
         }
     ],
     "dailyMovedStat": {
@@ -566,12 +566,12 @@
         "2024-11-20": "20977"
     },
     "topDestinationHosts": {
-        "Pressable": 5670,
-        "Bluehost": 3448,
-        "SiteGround": 1158,
-        "Digital Ocean": 1133,
-        "Kinsta": 1080,
-        "Hostinger": 601,
+        "Pressable": 5680,
+        "Bluehost": 3451,
+        "SiteGround": 1164,
+        "Digital Ocean": 1162,
+        "Kinsta": 1082,
+        "Hostinger": 602,
         "GoDaddy": 291,
         "Elementor Hosting": 167,
         "BigScoots": 149,
@@ -579,7 +579,7 @@
         "Liquid Web": 120,
         "WordPress.com": 99,
         "InMotion Hosting": 89,
-        "OVH": 63,
+        "OVH": 64,
         "Namecheap": 57,
         "IONOS": 54,
         "GridPane": 54,
