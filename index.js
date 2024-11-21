@@ -76,8 +76,11 @@ function getTimeSinceMoved(date) {
   const diffMinutes = Math.floor(diffMs / (1000 * 60));
   const diffHours = Math.floor(diffMinutes / 60);
 
+  const pluralMinutes = diffMinutes > 1 ? 's' : '';
+  const pluralHours = diffHours > 1 ? 's' : '';
+
   if ( diffHours > 0 ) {
-    return `${diffHours}hr, ${diffMinutes % 60}mins ago`;
+    return `${diffHours}hr${pluralHours}, ${diffMinutes % 60}min${pluralMinutes} ago`;
   }
 
   return `${diffMinutes}mins ago`;
