@@ -1,6 +1,46 @@
 {
-    "siteCount": 21598,
+    "siteCount": 21615,
     "recentlyMoved": [
+        {
+            "domain_name": "www.healthhaxor.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-21 19:15:00"
+        },
+        {
+            "domain_name": "netcentriccampaigns.org",
+            "destination": "Pressable",
+            "date": "2024-11-21 19:07:22"
+        },
+        {
+            "domain_name": "e3itservices.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 18:54:23"
+        },
+        {
+            "domain_name": "tlclandscapemanagement.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 18:33:58"
+        },
+        {
+            "domain_name": "dontletgo.ca",
+            "destination": "SiteGround",
+            "date": "2024-11-21 18:31:06"
+        },
+        {
+            "domain_name": "monorailnews.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 18:24:38"
+        },
+        {
+            "domain_name": "ekerobikepark.se",
+            "destination": "Kinsta",
+            "date": "2024-11-21 18:24:21"
+        },
+        {
+            "domain_name": "dentistnewport.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 18:21:45"
+        },
         {
             "domain_name": "cozyhomesphotography.com",
             "destination": "Bluehost",
@@ -10,6 +50,21 @@
             "domain_name": "lgendo.com",
             "destination": "Kinsta",
             "date": "2024-11-21 18:20:41"
+        },
+        {
+            "domain_name": "thequantifygroup.com",
+            "destination": "Hostinger",
+            "date": "2024-11-21 18:10:54"
+        },
+        {
+            "domain_name": "meridianacupuncture.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 18:10:51"
+        },
+        {
+            "domain_name": "wyosportsranch.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 18:10:07"
         },
         {
             "domain_name": "cwhw.uncg.edu",
@@ -25,6 +80,11 @@
             "domain_name": "longhornappliancerepairs.com",
             "destination": "SiteGround",
             "date": "2024-11-21 18:07:00"
+        },
+        {
+            "domain_name": "mediastudies.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-21 18:06:12"
         },
         {
             "domain_name": "tcmwerkshop.com",
@@ -417,16 +477,6 @@
             "date": "2024-11-21 13:59:57"
         },
         {
-            "domain_name": "stevensiderisdds.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 13:59:24"
-        },
-        {
-            "domain_name": "learningtech.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-21 13:57:18"
-        },
-        {
             "domain_name": "crossfitarx.com",
             "destination": "Digital Ocean",
             "date": "2024-11-21 13:57:06"
@@ -437,24 +487,9 @@
             "date": "2024-11-21 13:57:06"
         },
         {
-            "domain_name": "www.pssnj.com",
-            "destination": "Kinsta",
-            "date": "2024-11-21 13:46:43"
-        },
-        {
             "domain_name": "cyfcp.uncg.edu",
             "destination": "Pressable",
             "date": "2024-11-21 13:44:21"
-        },
-        {
-            "domain_name": "www.resilientenvironmental.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 13:44:08"
-        },
-        {
-            "domain_name": "creativetax.io",
-            "destination": "Pressable",
-            "date": "2024-11-21 13:43:32"
         },
         {
             "domain_name": "www.signkingnc.com",
@@ -462,44 +497,9 @@
             "date": "2024-11-21 13:43:28"
         },
         {
-            "domain_name": "studiohartshorn.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 13:40:46"
-        },
-        {
             "domain_name": "www.rtrco.us",
             "destination": "Pressable",
             "date": "2024-11-21 13:36:57"
-        },
-        {
-            "domain_name": "www.rosaritowinefest.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 13:36:57"
-        },
-        {
-            "domain_name": "clery.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-21 13:23:34"
-        },
-        {
-            "domain_name": "www.heathfuneralchapel.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 13:11:55"
-        },
-        {
-            "domain_name": "saintlouisdentalstudio.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 13:11:15"
-        },
-        {
-            "domain_name": "www.konigdds.com",
-            "destination": "Kinsta",
-            "date": "2024-11-21 13:09:19"
-        },
-        {
-            "domain_name": "bringingoutthebest.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-21 12:34:27"
         }
     ],
     "dailyMovedStat": {
@@ -566,17 +566,17 @@
         "2024-11-20": "20977"
     },
     "topDestinationHosts": {
-        "Pressable": 5749,
+        "Pressable": 5753,
         "Bluehost": 3456,
-        "Digital Ocean": 1209,
-        "SiteGround": 1200,
-        "Kinsta": 1130,
-        "Hostinger": 622,
+        "Digital Ocean": 1211,
+        "SiteGround": 1202,
+        "Kinsta": 1132,
+        "Hostinger": 623,
         "GoDaddy": 297,
         "Elementor Hosting": 170,
         "BigScoots": 155,
         "Wordify": 134,
-        "Liquid Web": 122,
+        "Liquid Web": 123,
         "WordPress.com": 102,
         "InMotion Hosting": 89,
         "OVH": 66,
