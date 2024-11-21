@@ -8,6 +8,7 @@
     --chart-value-blue: #72B3EF;
     --black: #000000;
     --white: #ffffff;
+    --border-color: #bbbbbb;
 
     --font-size-large: 24px;
     --font-size-body: 1rem;
@@ -17,6 +18,7 @@
     --body-padding: 0.75rem;
 
     --chart-height: 40vh;
+    --chart-offset: calc( var(--body-padding ) * 2 );
 }
 
 * {
@@ -52,10 +54,6 @@ main {
 
 main > section {
     overflow: hidden;
-}
-
-main > section.chart {
-    width: calc( 100% - 2 * var(--body-padding) );
 }
 
 p, label {
@@ -145,18 +143,15 @@ p a {
     margin-left: auto;
 }
 
-.chart {
-    position: relative;
-    height: 80vh;
-    background-color: var(--light-blue);
-    padding: var(--body-padding);
-}
-
 .right {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    position: relative;
+}
+
+.chart {
+    display: flex;
+    flex-direction: column;
 }
 
 .live-data,
@@ -254,7 +249,7 @@ p a {
 }
 
 .recently-moved-wrap {
-    height: 54px; /* Height of one item */
+    height: 80px; /* Height of one item */
     overflow: hidden;
     position: relative;
 }
@@ -312,20 +307,15 @@ p a {
     margin: 0;
 }
 
-.chart {
-    display: flex;
-    flex-direction: column;
-
-}
-
 .chart-container {
     display: flex;
     justify-content: center;
     margin-top: auto;
     padding: 10px 10px 0 10px;
     position: relative;
-    min-height: 40vh;
+    min-height: var(--chart-height);
     max-width: 100%;
+    background-color: var(--light-blue);
 }
 
 .tooltip {
@@ -349,14 +339,14 @@ p a {
 }
 
 .chart-container__date {
-    left: 4px;
-    bottom: -7px;
+    left: 13px;
+    bottom: calc( var(--chart-offset) - 8px );
     transform-origin: left center;
 }
 
 .chart-container__today {
-    right: 4px;
-    bottom: 33px;
+    right: 13px;
+    bottom: calc( var(--chart-offset) + 35px );
     transform-origin: right center;
 }
 
@@ -365,7 +355,7 @@ p a {
     font-weight: bold;
     position: absolute;
     left: 18px;
-    bottom: calc( var(--chart-height) + 12px );
+    bottom: calc( var(--chart-height) + var(--chart-offset ) + 12px );
 }
 
 .bar {
@@ -387,129 +377,9 @@ p a {
     align-items: flex-end;
     justify-content: space-between;
     height: var(--chart-height);
-    width: calc( 100% - 40px );
+    width: calc( 100% - var(--body-padding) * 4 );
     position: absolute;
-    bottom: 0;
-}
-
-#top-chart-value,
-#bottom-chart-value {
-    display: none;
-
-    position: absolute;
-    transform: rotate( -90deg );
-    left: 0;
-
-    font-size: var(--font-size-x-small);
-    color: var(--chart-value-blue);
-}
-
-#bottom-chart-value {
-    bottom: 7px;
-}
-
-#top-chart-value {
-    bottom: calc( var(--chart-height) - 1.2rem );
-}
-
-@keyframes fillBar {
-    from {
-        transform: scaleY(0);
-    }
-    to {
-        transform: scaleY(1);
-    }
-}
-
-.host {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-}
-
-
-@media (min-width: 610px) {
-    .footer {
-        flex-direction: row;
-        justify-content: space-between;
-    }
-}
-
-@media (min-width: 800px) {
-    main {
-        display: flex;
-    }
-
-    main > section,
-    main > section.chart {
-        width: 50%;
-        overflow: hidden;
-    }
-
-    .intro,
-    .large-count {
-        height: 50%;
-    }
-
-    :root {
-        --body-padding: 2rem;
-    }
-
-    .header {
-        flex-direction: row;
-        column-gap: 5rem;
-    }
-
-    .right {
-        position: initial;
-        overflow: scroll;
-    }
-
-    .live-data,
-    .chart,
-    .activity-log,
-    .footer {
-        padding: var(--body-padding);
-    }
-
-    .number-of-sites__count {
-        padding: 0;
-        font-size: calc( 50vw / 3 );
-    }
-
-    .chart {
-        height: auto;
-    }
-
-    .chart-container__date {
-        left: 0;
-    }
-
-    .chart-container__today {
-        right: 0;
-    }
-
-    .chart-container:hover #top-chart-value,
-    .chart-container:hover #bottom-chart-value {
-        display: initial;
-    }
-}
-
-@media (min-height: 600px) and (min-width: 800px) {
-    :root {
-        --chart-height: 50vh;
-    }
-}
-
-@media (min-height: 800px) and (min-width: 800px) {
-    :root {
-        --chart-height: 60vh;
-    }
-    .header {
-        flex-direction: column;
-        height: 100%;
-        width: 50%;
-    }
+    bottom: var(--chart-offset);
 }
 
 .activity-log {
@@ -543,4 +413,132 @@ p a {
 .activity-log-data__header {
     display: grid;
     grid-template-columns: 3fr 1fr;
+}
+
+#top-chart-value,
+#bottom-chart-value {
+    display: none;
+
+    position: absolute;
+    transform: rotate( -90deg );
+    left: 14px;
+
+    font-size: var(--font-size-x-small);
+    color: var(--chart-value-blue);
+}
+
+#bottom-chart-value {
+    bottom: calc( var(--chart-offset ) + 7px );
+}
+
+#top-chart-value {
+    bottom: calc( var(--chart-height) + var(--chart-offset) - 1.2rem );
+}
+
+@keyframes fillBar {
+    from {
+        transform: scaleY(0);
+    }
+    to {
+        transform: scaleY(1);
+    }
+}
+
+.host {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+@media (min-width: 610px) {
+    .footer {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 800px) {
+    :root {
+        --chart-offset: var(--body-padding);
+    }
+
+    main {
+        display: flex;
+    }
+
+    main > section,
+    main > section.chart {
+        width: 50%;
+        overflow: hidden;
+    }
+
+    .intro,
+    .large-count {
+        height: 50%;
+    }
+
+    :root {
+        --body-padding: 2rem;
+    }
+
+    .header {
+        flex-direction: row;
+        column-gap: 5rem;
+    }
+
+    .right {
+        position: initial;
+        overflow-y: scroll;
+    }
+
+    .live-data,
+    .chart,
+    .activity-log,
+    .footer {
+        padding: var(--body-padding);
+    }
+
+    .number-of-sites__count {
+        padding: 0;
+        font-size: calc( 50vw / 3 );
+    }
+
+    .chart {
+        height: auto;
+    }
+
+    .chart-container__date {
+        left: 14px;
+    }
+
+    .chart-container__today {
+        right: 14px;
+    }
+
+    .chart-container:hover #top-chart-value,
+    .chart-container:hover #bottom-chart-value {
+        display: initial;
+    }
+
+    .bars-container {
+        width: calc( 100% - var(--body-padding) * 2 );
+    }
+}
+
+@media (min-height: 600px) and (min-width: 800px) {
+    :root {
+        --chart-height: 50vh;
+    }
+}
+
+@media (min-height: 800px) and (min-width: 800px) {
+    :root {
+        --chart-height: 60vh;
+    }
+    .header {
+        flex-direction: column;
+        height: 100%;
+        width: 50%;
+    }
 }
