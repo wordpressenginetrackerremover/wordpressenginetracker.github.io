@@ -1,10 +1,205 @@
 {
-    "siteCount": 21270,
+    "siteCount": 21336,
     "recentlyMoved": [
+        {
+            "domain_name": "ashnr.org",
+            "destination": "Pressable",
+            "date": "2024-11-21 08:41:44"
+        },
+        {
+            "domain_name": "gingersorensen.com",
+            "destination": "Hostinger",
+            "date": "2024-11-21 08:31:29"
+        },
+        {
+            "domain_name": "www.precisiongradingexcavating.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 08:24:34"
+        },
+        {
+            "domain_name": "www.beaconeyecenter.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 08:18:33"
+        },
+        {
+            "domain_name": "wolfwatch.uk",
+            "destination": "Hostinger",
+            "date": "2024-11-21 08:17:30"
+        },
+        {
+            "domain_name": "wmu.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-21 08:17:30"
+        },
+        {
+            "domain_name": "anthropogender.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 08:15:17"
+        },
+        {
+            "domain_name": "greenhorizonft.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 08:12:59"
+        },
+        {
+            "domain_name": "peopleoverpetro.org",
+            "destination": "Pressable",
+            "date": "2024-11-21 08:12:17"
+        },
+        {
+            "domain_name": "foundationdigital.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 08:11:55"
+        },
+        {
+            "domain_name": "greatplainsnursery.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 08:04:38"
+        },
+        {
+            "domain_name": "grassandgoodness.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 08:04:38"
+        },
+        {
+            "domain_name": "www.distancehealer.net",
+            "destination": "Pressable",
+            "date": "2024-11-21 08:03:17"
+        },
+        {
+            "domain_name": "visibelle.com.au",
+            "destination": "SiteGround",
+            "date": "2024-11-21 08:02:11"
+        },
+        {
+            "domain_name": "whpartnership.org.uk",
+            "destination": "Krystal Hosting",
+            "date": "2024-11-21 07:58:58"
+        },
+        {
+            "domain_name": "onwardfleet.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-21 07:58:39"
+        },
+        {
+            "domain_name": "a-one.com.au",
+            "destination": "Hostinger",
+            "date": "2024-11-21 07:57:30"
+        },
+        {
+            "domain_name": "phshouston.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 07:54:54"
+        },
+        {
+            "domain_name": "o24u.co",
+            "destination": "WordPress.com",
+            "date": "2024-11-21 07:52:59"
+        },
+        {
+            "domain_name": "fanz.com",
+            "destination": "Hostinger",
+            "date": "2024-11-21 07:52:03"
+        },
+        {
+            "domain_name": "adireaudio.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 07:49:46"
+        },
+        {
+            "domain_name": "abacusrail.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 07:48:15"
+        },
+        {
+            "domain_name": "ofdas.co.uk",
+            "destination": "SiteGround",
+            "date": "2024-11-21 07:48:04"
+        },
+        {
+            "domain_name": "www.airsurge.net",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 07:47:14"
+        },
+        {
+            "domain_name": "arrowheadspeakers.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 07:46:32"
+        },
+        {
+            "domain_name": "arrowheadconsulting.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 07:46:32"
+        },
+        {
+            "domain_name": "arktoledo.com",
+            "destination": "Bluehost",
+            "date": "2024-11-21 07:46:32"
+        },
+        {
+            "domain_name": "northerntouchcrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 07:43:37"
+        },
+        {
+            "domain_name": "gecema.com",
+            "destination": "Hostinger",
+            "date": "2024-11-21 07:36:44"
+        },
+        {
+            "domain_name": "gdpgroupre.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 07:36:44"
+        },
+        {
+            "domain_name": "vg.law",
+            "destination": "Hostinger",
+            "date": "2024-11-21 07:32:39"
+        },
+        {
+            "domain_name": "www.nickortizlaw.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 07:31:10"
+        },
+        {
+            "domain_name": "form.fastwayfreight.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 07:29:53"
+        },
         {
             "domain_name": "nhia.org",
             "destination": "Digital Ocean",
             "date": "2024-11-21 07:22:38"
+        },
+        {
+            "domain_name": "fixmold.com",
+            "destination": "Hostinger",
+            "date": "2024-11-21 07:21:43"
+        },
+        {
+            "domain_name": "vinmoto.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 07:21:24"
+        },
+        {
+            "domain_name": "absoluteeldercare.com",
+            "destination": "SiteGround",
+            "date": "2024-11-21 07:19:21"
+        },
+        {
+            "domain_name": "aerosealcorp.com",
+            "destination": "A2 Hosting",
+            "date": "2024-11-21 07:17:58"
+        },
+        {
+            "domain_name": "firehouseservicecompany.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 07:17:37"
+        },
+        {
+            "domain_name": "fc2femalecondom.com",
+            "destination": "Pressable",
+            "date": "2024-11-21 07:12:48"
         },
         {
             "domain_name": "triyoga.co.uk",
@@ -257,11 +452,6 @@
             "date": "2024-11-21 05:37:06"
         },
         {
-            "domain_name": "setxind.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:35:24"
-        },
-        {
             "domain_name": "speedeemart.com",
             "destination": "SiteGround",
             "date": "2024-11-21 05:34:19"
@@ -280,21 +470,6 @@
             "domain_name": "www.mainstreethvac.com",
             "destination": "Digital Ocean",
             "date": "2024-11-21 05:31:11"
-        },
-        {
-            "domain_name": "joebizjak.com",
-            "destination": "Bluehost",
-            "date": "2024-11-21 05:26:16"
-        },
-        {
-            "domain_name": "www.keithkeyhvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:23:38"
-        },
-        {
-            "domain_name": "www.kbmmechanical.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:23:38"
         },
         {
             "domain_name": "www.phoenixny.com",
@@ -322,184 +497,9 @@
             "date": "2024-11-21 05:12:39"
         },
         {
-            "domain_name": "international-technologies.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 05:11:58"
-        },
-        {
-            "domain_name": "www.jormerhvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:11:34"
-        },
-        {
             "domain_name": "katherinemarsh.com",
             "destination": "SiteGround",
             "date": "2024-11-21 05:07:10"
-        },
-        {
-            "domain_name": "www.enahvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:07:05"
-        },
-        {
-            "domain_name": "www.elitedochealthandbeauty.com",
-            "destination": "Kinsta",
-            "date": "2024-11-21 05:07:05"
-        },
-        {
-            "domain_name": "www.ilovelibertyac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:06:28"
-        },
-        {
-            "domain_name": "breiholz.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 05:02:54"
-        },
-        {
-            "domain_name": "breakawayministries.net",
-            "destination": "Hostinger",
-            "date": "2024-11-21 05:02:54"
-        },
-        {
-            "domain_name": "www.functionalmedicinecenter.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:01:35"
-        },
-        {
-            "domain_name": "www.friarsair.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:01:17"
-        },
-        {
-            "domain_name": "www.leonelcalara.com",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-21 04:59:23"
-        },
-        {
-            "domain_name": "www.lemoinerefrigeration.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:59:23"
-        },
-        {
-            "domain_name": "www.goldroofingnw.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:58:17"
-        },
-        {
-            "domain_name": "www.gold-standard-electric.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:58:17"
-        },
-        {
-            "domain_name": "kaimaicaravanandcabin.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:57:53"
-        },
-        {
-            "domain_name": "residencebyjulianos.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 04:57:44"
-        },
-        {
-            "domain_name": "www.essentialairhvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:53:57"
-        },
-        {
-            "domain_name": "www.deansheatingandac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:53:53"
-        },
-        {
-            "domain_name": "carefirsthcs.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 04:53:45"
-        },
-        {
-            "domain_name": "karendulaneysmith.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 04:53:20"
-        },
-        {
-            "domain_name": "capitalwealthplanning.com",
-            "destination": "Bluehost",
-            "date": "2024-11-21 04:52:54"
-        },
-        {
-            "domain_name": "www.insidecasino.co.za",
-            "destination": "Kinsta",
-            "date": "2024-11-21 04:52:52"
-        },
-        {
-            "domain_name": "www.jerrysheatingandairconditioning.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:51:53"
-        },
-        {
-            "domain_name": "www.eastshoreelectric.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:45:43"
-        },
-        {
-            "domain_name": "www.eaplumbingservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:45:43"
-        },
-        {
-            "domain_name": "www.dvohvac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:45:43"
-        },
-        {
-            "domain_name": "www.coxclimatecontrol.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:40:23"
-        },
-        {
-            "domain_name": "borismatthews.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 04:40:16"
-        },
-        {
-            "domain_name": "www.danisienergy.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:39:49"
-        },
-        {
-            "domain_name": "www.hydroproleakdetection.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:39:44"
-        },
-        {
-            "domain_name": "www.hvaccsllc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:39:44"
-        },
-        {
-            "domain_name": "www.huffmanshayeblaw.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:39:44"
-        },
-        {
-            "domain_name": "www.graysonfarmstexas.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:33:25"
-        },
-        {
-            "domain_name": "www.hamptonsquality.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:33:05"
-        },
-        {
-            "domain_name": "www.dmelectricpros.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 04:19:59"
-        },
-        {
-            "domain_name": "www.dependablebuildingservices.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 04:13:07"
         }
     ],
     "dailyMovedStat": {
@@ -566,26 +566,26 @@
         "2024-11-20": "20977"
     },
     "topDestinationHosts": {
-        "Pressable": 5689,
-        "Bluehost": 3453,
-        "Digital Ocean": 1182,
-        "SiteGround": 1178,
-        "Kinsta": 1092,
-        "Hostinger": 606,
-        "GoDaddy": 291,
-        "Elementor Hosting": 168,
+        "Pressable": 5695,
+        "Bluehost": 3454,
+        "Digital Ocean": 1188,
+        "SiteGround": 1186,
+        "Kinsta": 1097,
+        "Hostinger": 613,
+        "GoDaddy": 292,
+        "Elementor Hosting": 169,
         "BigScoots": 149,
         "Wordify": 133,
         "Liquid Web": 121,
-        "WordPress.com": 99,
+        "WordPress.com": 100,
         "InMotion Hosting": 89,
         "OVH": 64,
         "Namecheap": 57,
         "IONOS": 54,
         "GridPane": 54,
         "Hetzner Online": 54,
-        "A2 Hosting": 50,
-        "Krystal Hosting": 49
+        "A2 Hosting": 51,
+        "Krystal Hosting": 50
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
