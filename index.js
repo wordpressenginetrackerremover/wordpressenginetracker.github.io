@@ -64,18 +64,23 @@ function triggerRecentlyMovedAnimation() {
   site.animate(keyframes, options);
 }
 
-function getTimeSinceMoved( date ) {
-  const now = ( new Date() ).getTime();
-  const time = new Date( date ).getTime();
-  const offsetDate = new Date(now - time);
-  const offsetMinutes = offsetDate.getMinutes();
-  const offsetHours   = offsetDate.getHours();
+function getTimeSinceMoved(date) {
+  // Parse the input date
+  const inputDate = new Date(date + 'Z');
+  const now = new Date();
 
-  if ( offsetHours > 0 ) {
-    return `${offsetHours}hrs ago`;
+  // Calculate the difference in milliseconds
+  const diffMs = now - inputDate;
+
+  // Convert milliseconds to seconds and hours
+  const diffMinutes = Math.floor(diffMs / (1000 * 60));
+  const diffHours = Math.floor(diffMinutes / 60);
+
+  if ( diffHours > 0 ) {
+    return `${diffHours}hr, ${diffMinutes % 60}mins ago`;
   }
 
-  return `${offsetMinutes}min ago`;
+  return `${diffMinutes}mins ago`;
 }
 
 function initRecentlyMoved() {
@@ -90,7 +95,7 @@ function initRecentlyMoved() {
         return {
           'host': item?.destination ?? 'Unknown host',
           'image': hosts?.[item.destination]?.image ?? null,
-          'time': item?.date ? getTimeSinceMoved( item?.date ) : 'Just now'
+          'time': item?.date ?? 'Just now'
         }
       });
       const site = document.querySelector(".recently-moved");
@@ -131,11 +136,12 @@ function initRecentlyMoved() {
             const { domain_name, destination } = data;
             const imageSrc = hostData?.[index]?.['image'] ?? null;
             const time = hostData?.[index]?.['time'] ?? 'Just now';
+            const timeString = time !== 'Just now' ? getTimeSinceMoved( time ) : time;
             const row = document.createElement("div");
 
             row.className = "activity-log-data__row";
             row.innerHTML = `
-              ${getDomainMarkup( domain_name, time )}
+              ${getDomainMarkup( domain_name, timeString )}
               ${getDestinationMarkup( imageSrc, destination )}
             `;
             table.appendChild(row);
