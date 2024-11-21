@@ -1,6 +1,66 @@
 {
-    "siteCount": 21382,
+    "siteCount": 21407,
     "recentlyMoved": [
+        {
+            "domain_name": "athletewellness.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-21 12:31:27"
+        },
+        {
+            "domain_name": "www.arcticairsandiego.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 12:14:32"
+        },
+        {
+            "domain_name": "altipianimedical.it",
+            "destination": "SiteGround",
+            "date": "2024-11-21 12:14:05"
+        },
+        {
+            "domain_name": "perpetualfitnesscle.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 12:12:34"
+        },
+        {
+            "domain_name": "perfectpanespdx.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-21 12:12:34"
+        },
+        {
+            "domain_name": "osrr.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-21 12:10:14"
+        },
+        {
+            "domain_name": "assessment.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-21 11:59:06"
+        },
+        {
+            "domain_name": "vikingathletics.net",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 11:45:51"
+        },
+        {
+            "domain_name": "glickmankovago.com",
+            "destination": "Kinsta",
+            "date": "2024-11-21 11:43:11"
+        },
+        {
+            "domain_name": "akupunktur-buvarp.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-21 11:27:48"
+        },
+        {
+            "domain_name": "whitespaceyoga.co.uk",
+            "destination": "Kinsta",
+            "date": "2024-11-21 11:25:44"
+        },
+        {
+            "domain_name": "fix.uncg.edu",
+            "destination": "Pressable",
+            "date": "2024-11-21 11:18:11"
+        },
         {
             "domain_name": "exskeptic.org",
             "destination": "Kinsta",
@@ -377,16 +437,6 @@
             "date": "2024-11-21 06:42:01"
         },
         {
-            "domain_name": "www.trevericellars.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 06:41:21"
-        },
-        {
-            "domain_name": "medexpertbilling.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 06:35:01"
-        },
-        {
             "domain_name": "esneftpathology.nhs.uk",
             "destination": "Digital Ocean",
             "date": "2024-11-21 06:34:55"
@@ -402,19 +452,9 @@
             "date": "2024-11-21 06:31:07"
         },
         {
-            "domain_name": "defense.firemon.cloud",
-            "destination": "Kinsta",
-            "date": "2024-11-21 06:29:16"
-        },
-        {
             "domain_name": "theslocumfirm.com",
             "destination": "Liquid Web",
             "date": "2024-11-21 06:26:29"
-        },
-        {
-            "domain_name": "www.txairassurance.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 06:25:18"
         },
         {
             "domain_name": "truckclaws.com",
@@ -452,31 +492,6 @@
             "date": "2024-11-21 06:14:33"
         },
         {
-            "domain_name": "www.totalairsystems.net",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 06:14:09"
-        },
-        {
-            "domain_name": "mgshouston.com",
-            "destination": "Hostinger",
-            "date": "2024-11-21 06:10:31"
-        },
-        {
-            "domain_name": "www.texairhvacinc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 06:05:06"
-        },
-        {
-            "domain_name": "www.tetraairconditioning.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 06:05:06"
-        },
-        {
-            "domain_name": "www.tetonpinesfinancial.com",
-            "destination": "Kinsta",
-            "date": "2024-11-21 06:05:06"
-        },
-        {
             "domain_name": "douglasandersonlaw.com",
             "destination": "Pressable",
             "date": "2024-11-21 06:04:23"
@@ -485,21 +500,6 @@
             "domain_name": "theventhpc.com",
             "destination": "Digital Ocean",
             "date": "2024-11-21 06:00:32"
-        },
-        {
-            "domain_name": "www.teamimpact.org",
-            "destination": "Pressable",
-            "date": "2024-11-21 05:58:27"
-        },
-        {
-            "domain_name": "www.thefloresbros.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 05:54:03"
-        },
-        {
-            "domain_name": "dealhub.io",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 05:48:02"
         }
     ],
     "dailyMovedStat": {
@@ -566,18 +566,18 @@
         "2024-11-20": "20977"
     },
     "topDestinationHosts": {
-        "Pressable": 5697,
+        "Pressable": 5699,
         "Bluehost": 3454,
-        "Digital Ocean": 1195,
-        "SiteGround": 1189,
-        "Kinsta": 1106,
+        "Digital Ocean": 1199,
+        "SiteGround": 1190,
+        "Kinsta": 1108,
         "Hostinger": 617,
         "GoDaddy": 292,
         "Elementor Hosting": 170,
         "BigScoots": 149,
         "Wordify": 133,
         "Liquid Web": 121,
-        "WordPress.com": 100,
+        "WordPress.com": 101,
         "InMotion Hosting": 89,
         "OVH": 65,
         "Namecheap": 57,
