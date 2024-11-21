@@ -269,8 +269,14 @@ p a {
     overflow: hidden;
     text-overflow: ellipsis;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
     gap: 4px;
+}
+
+.recently-moved-site p {
+    font-size: var(--font-size-x-small );
+    margin: 0;
 }
 
 .recently-moved-site img {
