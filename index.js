@@ -64,6 +64,28 @@ function triggerRecentlyMovedAnimation() {
   site.animate(keyframes, options);
 }
 
+function getTimeSinceMoved(date) {
+  // Parse the input date
+  const inputDate = new Date(date + 'Z');
+  const now = new Date();
+
+  // Calculate the difference in milliseconds
+  const diffMs = now - inputDate;
+
+  // Convert milliseconds to seconds and hours
+  const diffMinutes = Math.floor(diffMs / (1000 * 60));
+  const diffHours = Math.floor(diffMinutes / 60);
+
+  const pluralMinutes = diffMinutes > 1 ? 's' : '';
+  const pluralHours = diffHours > 1 ? 's' : '';
+
+  if ( diffHours > 0 ) {
+    return `${diffHours}hr${pluralHours}, ${diffMinutes % 60}min${pluralMinutes} ago`;
+  }
+
+  return `${diffMinutes}mins ago`;
+}
+
 function initRecentlyMoved() {
   fetch("site-count.json")
     .then((response) => response.json())
@@ -75,12 +97,63 @@ function initRecentlyMoved() {
       const hostData = data.recentlyMoved.map(item => {
         return {
           'host': item?.destination ?? 'Unknown host',
-          'image': hosts?.[item.destination]?.image ?? null
+          'image': hosts?.[item.destination]?.image ?? null,
+          'time': item?.date ?? 'Just now'
         }
       });
       const site = document.querySelector(".recently-moved");
 
       let currentIndex = 0;
+
+      function getDomainMarkup( url, time ) {
+        return `
+            <div class="recently-moved-site">
+                <a href="https://${url}" target="_blank">
+                  ${url}
+                  <img src="images/arrow-up-right.svg" alt="→" />
+                </a>
+                ${ time ? 
+                `<p class-"recently-moved-site__timestamp">
+                  ${time}
+                </p>`
+                : '' }
+            </div>
+        `;
+      }
+
+      function getDestinationMarkup( imageSrc, host ) {
+        return `
+            <div class="recently-moved-site-destination">
+              ${ imageSrc ? '<img src="' + imageSrc + '"alt="' + host + '"/>' : '' }
+              <p>${host}</p>
+            </div>
+        `;
+      }
+
+      function updateActivityLog() {
+        const table = document.querySelector(".activity-log-data .activity-log-data__body");
+
+        data.recentlyMoved
+          .slice(0, 8)
+          .forEach((data, index) => {
+            const { domain_name, destination } = data;
+            const imageSrc = hostData?.[index]?.['image'] ?? null;
+            const time = hostData?.[index]?.['time'] ?? 'Just now';
+            const timeString = time !== 'Just now' ? getTimeSinceMoved( time ) : time;
+            const row = document.createElement("div");
+
+            row.className = "activity-log-data__row";
+            row.innerHTML = `
+              ${getDomainMarkup( domain_name, timeString )}
+              ${getDestinationMarkup( imageSrc, destination )}
+            `;
+            table.appendChild(row);
+
+            const hr = document.createElement("hr");
+            table.appendChild(hr);
+          }
+        );
+      }
 
       function updateTicker() {
         const imageSrc = hostData?.[currentIndex]?.['image'] ?? null;
@@ -91,20 +164,15 @@ function initRecentlyMoved() {
         }
 
         site.innerHTML = `
-            <div class="recently-moved-site">
-                <a href="https://${urls[currentIndex]}" target="_blank">${urls[currentIndex]}</a>
-                <img src="images/arrow-up-right.svg" alt="→" />
-            </div>
-            <div class="recently-moved-site-destination">
-              ${ imageSrc ? '<img src="' + imageSrc + '"alt="' + host + '"/>' : '' }
-              <p>${host}</p>
-            </div>
-        `;
+          ${ getDomainMarkup( urls[currentIndex] ) }
+          ${ getDestinationMarkup( imageSrc, host ) }
+        `
 
         currentIndex = (currentIndex + 1) % urls.length;
         triggerRecentlyMovedAnimation();
       }
 
+      updateActivityLog();
       updateTicker();
       setInterval(updateTicker, 4000);
     });

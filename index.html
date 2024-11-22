@@ -33,7 +33,7 @@
     <body>
         <script src="index.js?6" defer></script>
         <main>
-        <section class="number-of-sites">
+        <section class="left">
             <div class="intro">
                 <header class="header">
                     <h1 class="header__logo">WP<br />Engine<br /><span class="header__logo-highlight">Tracker</span></h1>
@@ -55,8 +55,8 @@
             </div>
         </section>
 
-        <section class="chart">
-            <div class="chart-info">
+        <section class="right">
+            <div class="live-data">
                 <div class="top-destinations">
                     <h3>Top Destinations</h3>
                     <div class="host-list">
@@ -78,6 +78,19 @@
                 <span id="bottom-chart-value"></span>
                 <span id="top-chart-value"></span>
             </div>
+
+            <div class="activity-log">
+                <h3>Activity Log Today</h3>
+                <div class="activity-log-data">
+                    <div class="activity-log-data__header">
+                        <p>Site</p>
+                        <p>Destination</p>
+                    </div>
+                    <hr />
+                    <div class="activity-log-data__body"></div>
+                </div>
+            </div>
+
             <footer class="footer">
                 <span class="footer__content">An <img src="images/a8c-logo.svg" /> thingamajig</span>
                 <a class="footer__link" href="https://github.com/wordpressenginetracker/wordpressenginetracker.com">
