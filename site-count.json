@@ -1,6 +1,51 @@
 {
-    "siteCount": 21939,
+    "siteCount": 21953,
     "recentlyMoved": [
+        {
+            "domain_name": "wolfdenathletics.fit",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 08:20:49"
+        },
+        {
+            "domain_name": "www.allstarelectricalheatingcooling.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 08:16:34"
+        },
+        {
+            "domain_name": "www.airxgoinggreen.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 08:11:30"
+        },
+        {
+            "domain_name": "www.airdandb.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 08:11:30"
+        },
+        {
+            "domain_name": "www.avatexservicecompany.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 08:10:40"
+        },
+        {
+            "domain_name": "www.anytimecomfort.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 08:01:40"
+        },
+        {
+            "domain_name": "www.amcturner.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 07:59:27"
+        },
+        {
+            "domain_name": "achievewellnessandfitness.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 07:54:43"
+        },
+        {
+            "domain_name": "321-wellness.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 07:19:33"
+        },
         {
             "domain_name": "evanrphotography.com",
             "destination": "BigScoots",
@@ -452,54 +497,9 @@
             "date": "2024-11-22 01:50:46"
         },
         {
-            "domain_name": "www.myhurricaneshutter.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:44:51"
-        },
-        {
             "domain_name": "www.rockymtnpest.com",
             "destination": "Pressable",
             "date": "2024-11-22 01:36:28"
-        },
-        {
-            "domain_name": "www.mobileweldingmasters.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:36:27"
-        },
-        {
-            "domain_name": "www.mrvserviceair.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-22 01:30:23"
-        },
-        {
-            "domain_name": "www.raynestormco.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:29:36"
-        },
-        {
-            "domain_name": "www.mastercrafthomeinspections.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:28:35"
-        },
-        {
-            "domain_name": "www.masseyroofingllc.co",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:28:35"
-        },
-        {
-            "domain_name": "www.pipecon.net",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:28:07"
-        },
-        {
-            "domain_name": "www.longislandcartingcorp.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:19:22"
-        },
-        {
-            "domain_name": "lacyphillips.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 01:18:06"
         }
     ],
     "dailyMovedStat": {
@@ -569,7 +569,7 @@
     "topDestinationHosts": {
         "Pressable": 5859,
         "Bluehost": 3458,
-        "Digital Ocean": 1238,
+        "Digital Ocean": 1247,
         "SiteGround": 1211,
         "Kinsta": 1159,
         "Hostinger": 630,
