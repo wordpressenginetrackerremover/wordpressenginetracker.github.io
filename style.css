@@ -276,7 +276,7 @@ p a {
 }
 
 .recently-moved-site p {
-    font-size: var(--font-size-x-small );
+    font-size: var(--font-size-small );
     margin: 0;
 }
 
@@ -403,7 +403,7 @@ p a {
 }
 
 .activity-log-data__header p {
-    font-size: var(--font-size-x-small);
+    font-size: var(--font-size-small);
 }
 
 .activity-log-data__row {
