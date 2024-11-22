@@ -11,6 +11,7 @@
     --border-color: #bbbbbb;
 
     --font-size-large: 24px;
+    --font-size-medium: 20px;
     --font-size-body: 1rem;
     --font-size-small: 0.8rem;
     --font-size-x-small: 0.6rem;
@@ -34,7 +35,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 html {
     font-family: 'Inter', sans-serif;
-    background-color: var(--white);
+    background-color: var(--light-blue);
     color: var(--black);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -389,7 +390,7 @@ p a {
 }
 
 .activity-log {
-    background-color: var(--white);
+    background-color: var(--light-blue);
 }
 
 .activity-log h3 {
@@ -503,6 +504,10 @@ p a {
     .activity-log,
     .footer {
         padding: var(--body-padding);
+    }
+
+    .recently-moved-site a {
+        font-size: var(--font-size-medium);
     }
 
     .number-of-sites__count {
