@@ -1,6 +1,71 @@
 {
-    "siteCount": 21797,
+    "siteCount": 21822,
     "recentlyMoved": [
+        {
+            "domain_name": "www.securityscreensdfw.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 02:27:39"
+        },
+        {
+            "domain_name": "www.spencerfloors.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 02:16:38"
+        },
+        {
+            "domain_name": "dartmouthheritagemuseum.ns.ca",
+            "destination": "Hostinger",
+            "date": "2024-11-22 01:56:50"
+        },
+        {
+            "domain_name": "textyourex.com",
+            "destination": "Hostinger",
+            "date": "2024-11-22 01:50:46"
+        },
+        {
+            "domain_name": "www.myhurricaneshutter.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:44:51"
+        },
+        {
+            "domain_name": "celebrationstheflorist.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:38:31"
+        },
+        {
+            "domain_name": "www.rockymtnpest.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:36:28"
+        },
+        {
+            "domain_name": "www.mobileweldingmasters.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:36:27"
+        },
+        {
+            "domain_name": "www.mrvserviceair.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-22 01:30:23"
+        },
+        {
+            "domain_name": "www.raynestormco.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:29:36"
+        },
+        {
+            "domain_name": "www.mastercrafthomeinspections.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:28:35"
+        },
+        {
+            "domain_name": "www.masseyroofingllc.co",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:28:35"
+        },
+        {
+            "domain_name": "www.pipecon.net",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:28:07"
+        },
         {
             "domain_name": "www.homeprofortwayne.com",
             "destination": "Pressable",
@@ -15,6 +80,16 @@
             "domain_name": "www.fluidplumbingllc.com",
             "destination": "Pressable",
             "date": "2024-11-22 01:20:28"
+        },
+        {
+            "domain_name": "www.longislandcartingcorp.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:19:22"
+        },
+        {
+            "domain_name": "lacyphillips.com",
+            "destination": "Pressable",
+            "date": "2024-11-22 01:18:06"
         },
         {
             "domain_name": "www.dumpsters4u.org",
@@ -425,81 +500,6 @@
             "domain_name": "www.landmarkdentalgroup.com",
             "destination": "GoDaddy",
             "date": "2024-11-21 19:52:14"
-        },
-        {
-            "domain_name": "studioscaler.com",
-            "destination": "Kinsta",
-            "date": "2024-11-21 19:52:14"
-        },
-        {
-            "domain_name": "movemetoottawa.com",
-            "destination": "Bluehost",
-            "date": "2024-11-21 19:52:14"
-        },
-        {
-            "domain_name": "www.numbersusa.com",
-            "destination": "WordPress VIP",
-            "date": "2024-11-21 19:52:14"
-        },
-        {
-            "domain_name": "foxboxmoves.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 19:31:40"
-        },
-        {
-            "domain_name": "albanyin.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-21 19:29:23"
-        },
-        {
-            "domain_name": "www.healthhaxor.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-21 19:15:00"
-        },
-        {
-            "domain_name": "netcentriccampaigns.org",
-            "destination": "Pressable",
-            "date": "2024-11-21 19:07:22"
-        },
-        {
-            "domain_name": "e3itservices.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-21 18:54:23"
-        },
-        {
-            "domain_name": "tlclandscapemanagement.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 18:33:58"
-        },
-        {
-            "domain_name": "dontletgo.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-21 18:31:06"
-        },
-        {
-            "domain_name": "monorailnews.com",
-            "destination": "Pressable",
-            "date": "2024-11-21 18:24:38"
-        },
-        {
-            "domain_name": "ekerobikepark.se",
-            "destination": "Kinsta",
-            "date": "2024-11-21 18:24:21"
-        },
-        {
-            "domain_name": "thequantifygroup.com",
-            "destination": "Hostinger",
-            "date": "2024-11-21 18:10:54"
-        },
-        {
-            "domain_name": "meridianacupuncture.com",
-            "destination": "Kinsta",
-            "date": "2024-11-21 18:10:51"
-        },
-        {
-            "domain_name": "wyosportsranch.com",
-            "destination": "SiteGround",
-            "date": "2024-11-21 18:10:07"
         }
     ],
     "dailyMovedStat": {
@@ -567,12 +567,12 @@
         "2024-11-21": "21733"
     },
     "topDestinationHosts": {
-        "Pressable": 5796,
+        "Pressable": 5813,
         "Bluehost": 3458,
-        "Digital Ocean": 1215,
+        "Digital Ocean": 1216,
         "SiteGround": 1209,
         "Kinsta": 1147,
-        "Hostinger": 628,
+        "Hostinger": 630,
         "GoDaddy": 302,
         "Elementor Hosting": 172,
         "BigScoots": 155,
