@@ -1,6 +1,56 @@
 {
-    "siteCount": 22369,
+    "siteCount": 22383,
     "recentlyMoved": [
+        {
+            "domain_name": "www.justrightac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 01:43:01"
+        },
+        {
+            "domain_name": "canceriantemplate.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 01:22:44"
+        },
+        {
+            "domain_name": "capricorntemplate.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 01:12:22"
+        },
+        {
+            "domain_name": "www.lexanysheatingandac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 01:11:46"
+        },
+        {
+            "domain_name": "castlewindows.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 01:05:47"
+        },
+        {
+            "domain_name": "www.legacyelectricmo.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 01:01:22"
+        },
+        {
+            "domain_name": "www.lazarineac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 01:01:22"
+        },
+        {
+            "domain_name": "www.hollandairandheat.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 00:58:42"
+        },
+        {
+            "domain_name": "www.hgfence.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 00:58:42"
+        },
+        {
+            "domain_name": "indexmedicolegal.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 00:37:09"
+        },
         {
             "domain_name": "www.1pestsolution.com",
             "destination": "Pressable",
@@ -450,56 +500,6 @@
             "domain_name": "usahome-roof.com",
             "destination": "SiteGround",
             "date": "2024-11-22 15:09:57"
-        },
-        {
-            "domain_name": "emg.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-22 15:09:12"
-        },
-        {
-            "domain_name": "morethanthanks.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-22 14:59:37"
-        },
-        {
-            "domain_name": "topvendco.com",
-            "destination": "SiteGround",
-            "date": "2024-11-22 14:51:14"
-        },
-        {
-            "domain_name": "trailblazetalent.com",
-            "destination": "Kinsta",
-            "date": "2024-11-22 14:47:37"
-        },
-        {
-            "domain_name": "dothepoint.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 14:42:49"
-        },
-        {
-            "domain_name": "dos.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-22 14:42:49"
-        },
-        {
-            "domain_name": "drydeck.biz",
-            "destination": "Digital Ocean",
-            "date": "2024-11-22 14:35:25"
-        },
-        {
-            "domain_name": "mptv.watch",
-            "destination": "SiteGround",
-            "date": "2024-11-22 14:25:24"
-        },
-        {
-            "domain_name": "mobileguests.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-22 14:16:16"
-        },
-        {
-            "domain_name": "draraslanova.com",
-            "destination": "Kinsta",
-            "date": "2024-11-22 14:00:00"
         }
     ],
     "dailyMovedStat": {
@@ -568,9 +568,9 @@
         "2024-11-22": "22351"
     },
     "topDestinationHosts": {
-        "Pressable": 5906,
+        "Pressable": 5908,
         "Bluehost": 3460,
-        "Digital Ocean": 1299,
+        "Digital Ocean": 1303,
         "SiteGround": 1232,
         "Kinsta": 1181,
         "Hostinger": 649,
