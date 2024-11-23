@@ -1,6 +1,11 @@
 {
-    "siteCount": 22395,
+    "siteCount": 22396,
     "recentlyMoved": [
+        {
+            "domain_name": "neweramedicalaesthetics.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-23 02:35:03"
+        },
         {
             "domain_name": "www.theoriginalcapefearrooter.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2024-11-22 15:45:23"
         },
         {
-            "domain_name": "adamsasphaltplantservices.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 15:40:44"
-        },
-        {
             "domain_name": "frcdsn.org",
             "destination": "SiteGround",
             "date": "2024-11-22 15:34:41"
@@ -574,7 +574,7 @@
         "SiteGround": 1232,
         "Kinsta": 1181,
         "Hostinger": 649,
-        "GoDaddy": 305,
+        "GoDaddy": 306,
         "Elementor Hosting": 175,
         "BigScoots": 171,
         "Wordify": 134,
