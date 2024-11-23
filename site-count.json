@@ -1,6 +1,61 @@
 {
-    "siteCount": 22396,
+    "siteCount": 22410,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blinefencing.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 04:41:50"
+        },
+        {
+            "domain_name": "www.billpurchaseconstructionllc.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 04:37:07"
+        },
+        {
+            "domain_name": "atlaschiropracticwaco.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 04:23:09"
+        },
+        {
+            "domain_name": "www.ataktrucking.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 04:20:14"
+        },
+        {
+            "domain_name": "goglobalevents.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 04:19:42"
+        },
+        {
+            "domain_name": "ohspaatthepreserve.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 03:58:14"
+        },
+        {
+            "domain_name": "ohiostrength.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 03:58:14"
+        },
+        {
+            "domain_name": "aimhigh.org",
+            "destination": "BigScoots",
+            "date": "2024-11-23 03:52:09"
+        },
+        {
+            "domain_name": "aginstallers.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 03:46:12"
+        },
+        {
+            "domain_name": "ageonpurpose.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 03:46:12"
+        },
+        {
+            "domain_name": "gmhassoc.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 03:40:39"
+        },
         {
             "domain_name": "neweramedicalaesthetics.com",
             "destination": "GoDaddy",
@@ -417,19 +472,9 @@
             "date": "2024-11-22 16:40:40"
         },
         {
-            "domain_name": "www.jhshoemaker.com",
-            "destination": "Kinsta",
-            "date": "2024-11-22 16:37:14"
-        },
-        {
             "domain_name": "precisionbackground.com",
             "destination": "BigScoots",
             "date": "2024-11-22 16:23:34"
-        },
-        {
-            "domain_name": "galaxyvetservices.com",
-            "destination": "SiteGround",
-            "date": "2024-11-22 16:21:37"
         },
         {
             "domain_name": "policy.uncg.edu",
@@ -455,51 +500,6 @@
             "domain_name": "www.soft-lite.com",
             "destination": "Pressable",
             "date": "2024-11-22 16:07:45"
-        },
-        {
-            "domain_name": "payroll.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-22 16:04:55"
-        },
-        {
-            "domain_name": "orionmetalexchange.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-22 15:57:59"
-        },
-        {
-            "domain_name": "www.insuranceofthealbemarle.com",
-            "destination": "WordPress.com",
-            "date": "2024-11-22 15:57:16"
-        },
-        {
-            "domain_name": "www.ims-pos.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 15:57:16"
-        },
-        {
-            "domain_name": "arc-gateway.org",
-            "destination": "Pressable",
-            "date": "2024-11-22 15:50:53"
-        },
-        {
-            "domain_name": "www.silveusfinancial.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-22 15:48:09"
-        },
-        {
-            "domain_name": "webassets.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-22 15:46:00"
-        },
-        {
-            "domain_name": "westcoastathleticsoc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-22 15:45:23"
-        },
-        {
-            "domain_name": "frcdsn.org",
-            "destination": "SiteGround",
-            "date": "2024-11-22 15:34:41"
         }
     ],
     "dailyMovedStat": {
@@ -568,15 +568,15 @@
         "2024-11-22": "22351"
     },
     "topDestinationHosts": {
-        "Pressable": 5912,
+        "Pressable": 5913,
         "Bluehost": 3460,
-        "Digital Ocean": 1307,
+        "Digital Ocean": 1310,
         "SiteGround": 1232,
-        "Kinsta": 1181,
+        "Kinsta": 1184,
         "Hostinger": 649,
         "GoDaddy": 306,
         "Elementor Hosting": 175,
-        "BigScoots": 171,
+        "BigScoots": 172,
         "Wordify": 134,
         "Liquid Web": 127,
         "WordPress.com": 105,
