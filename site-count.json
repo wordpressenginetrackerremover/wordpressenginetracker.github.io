@@ -1,15 +1,105 @@
 {
-    "siteCount": 22622,
+    "siteCount": 22656,
     "recentlyMoved": [
+        {
+            "domain_name": "bogatzheating.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 17:23:04"
+        },
+        {
+            "domain_name": "innerspacesdesign.com",
+            "destination": "Bluehost",
+            "date": "2024-11-23 17:14:01"
+        },
+        {
+            "domain_name": "www.houstonpsychologyconsultants.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 17:12:11"
+        },
+        {
+            "domain_name": "impaktgym.com",
+            "destination": "SiteGround",
+            "date": "2024-11-23 17:07:57"
+        },
+        {
+            "domain_name": "www.hillsdental.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 17:07:20"
+        },
+        {
+            "domain_name": "bonneville.info",
+            "destination": "Kinsta",
+            "date": "2024-11-23 16:55:11"
+        },
+        {
+            "domain_name": "bcahdurant.com",
+            "destination": "GridPane",
+            "date": "2024-11-23 16:54:11"
+        },
+        {
+            "domain_name": "riverdalefuncentre.com",
+            "destination": "SiteGround",
+            "date": "2024-11-23 16:49:27"
+        },
+        {
+            "domain_name": "beaversanimal.com",
+            "destination": "GridPane",
+            "date": "2024-11-23 16:37:01"
+        },
+        {
+            "domain_name": "www.entnj.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 16:35:42"
+        },
         {
             "domain_name": "www.pacewindows.com",
             "destination": "Pressable",
             "date": "2024-11-23 16:35:42"
         },
         {
+            "domain_name": "www.frenchsmiles.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 16:35:23"
+        },
+        {
+            "domain_name": "www.freelsorthodontics.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 16:35:23"
+        },
+        {
+            "domain_name": "www.bloooz.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 16:26:13"
+        },
+        {
+            "domain_name": "aucgroup.net",
+            "destination": "SiteGround",
+            "date": "2024-11-23 16:20:29"
+        },
+        {
             "domain_name": "goldmangrouprealestate.com",
             "destination": "Hostinger",
             "date": "2024-11-23 16:20:12"
+        },
+        {
+            "domain_name": "bayareacares.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 16:13:03"
+        },
+        {
+            "domain_name": "bavarianveterinary.com",
+            "destination": "GridPane",
+            "date": "2024-11-23 16:13:03"
+        },
+        {
+            "domain_name": "help.deepsouthtoday.org",
+            "destination": "Kinsta",
+            "date": "2024-11-23 16:11:26"
+        },
+        {
+            "domain_name": "athensanimalmedicalclinic.com",
+            "destination": "GridPane",
+            "date": "2024-11-23 15:56:41"
         },
         {
             "domain_name": "annistonvetclinic.com",
@@ -377,16 +467,6 @@
             "date": "2024-11-23 10:10:09"
         },
         {
-            "domain_name": "www.proqualityacandheating.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 10:10:00"
-        },
-        {
-            "domain_name": "www.prestigeaire.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 10:10:00"
-        },
-        {
             "domain_name": "tasherstudio.com",
             "destination": "Pressable",
             "date": "2024-11-23 10:06:08"
@@ -407,29 +487,9 @@
             "date": "2024-11-23 09:56:51"
         },
         {
-            "domain_name": "crossfitreincarnation.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:52:33"
-        },
-        {
-            "domain_name": "www.santanacrepair.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:46:05"
-        },
-        {
-            "domain_name": "www.saintorthodontics.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 09:46:05"
-        },
-        {
             "domain_name": "www.tomsheatandair.com",
             "destination": "Digital Ocean",
             "date": "2024-11-23 09:44:48"
-        },
-        {
-            "domain_name": "www.magnoliaairllc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:43:44"
         },
         {
             "domain_name": "www.strategicacceleration.com",
@@ -440,66 +500,6 @@
             "domain_name": "www.snohomishvalley.com",
             "destination": "Digital Ocean",
             "date": "2024-11-23 09:34:05"
-        },
-        {
-            "domain_name": "www.mediaevent.no",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-23 09:33:01"
-        },
-        {
-            "domain_name": "www.patriotdocksanddecks.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:31:02"
-        },
-        {
-            "domain_name": "stichfx.com",
-            "destination": "SiteGround",
-            "date": "2024-11-23 09:16:24"
-        },
-        {
-            "domain_name": "www.nw-powerair.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:14:48"
-        },
-        {
-            "domain_name": "completeeducationsolutions.uk",
-            "destination": "Hostinger",
-            "date": "2024-11-23 09:14:25"
-        },
-        {
-            "domain_name": "bridgestoneinvest.com",
-            "destination": "Namecheap",
-            "date": "2024-11-23 09:13:49"
-        },
-        {
-            "domain_name": "www.justchrys.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 09:10:40"
-        },
-        {
-            "domain_name": "www.mydryerventcleaning.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:06:23"
-        },
-        {
-            "domain_name": "www.mmheatandcool.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 09:05:34"
-        },
-        {
-            "domain_name": "scrippsortho.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 09:03:56"
-        },
-        {
-            "domain_name": "www.maxcomfortac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 08:53:50"
-        },
-        {
-            "domain_name": "heavensbestwarrenton.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 08:11:10"
         }
     ],
     "dailyMovedStat": {
@@ -568,11 +568,11 @@
         "2024-11-22": "22351"
     },
     "topDestinationHosts": {
-        "Pressable": 5926,
-        "Bluehost": 3461,
-        "Digital Ocean": 1376,
-        "SiteGround": 1241,
-        "Kinsta": 1204,
+        "Pressable": 5927,
+        "Bluehost": 3462,
+        "Digital Ocean": 1377,
+        "SiteGround": 1244,
+        "Kinsta": 1212,
         "Hostinger": 655,
         "GoDaddy": 310,
         "Elementor Hosting": 177,
@@ -582,7 +582,7 @@
         "WordPress.com": 106,
         "InMotion Hosting": 89,
         "OVH": 68,
-        "GridPane": 61,
+        "GridPane": 65,
         "Namecheap": 60,
         "Hetzner Online": 56,
         "IONOS": 56,
