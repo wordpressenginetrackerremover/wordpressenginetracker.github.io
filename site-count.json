@@ -1,6 +1,31 @@
 {
-    "siteCount": 22410,
+    "siteCount": 22419,
     "recentlyMoved": [
+        {
+            "domain_name": "www.inlandquality.us",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 05:33:33"
+        },
+        {
+            "domain_name": "www.lanaibright.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 04:55:58"
+        },
+        {
+            "domain_name": "www.cozartlawoffice.com",
+            "destination": "Pressable",
+            "date": "2024-11-23 04:48:35"
+        },
+        {
+            "domain_name": "scribble2script.com",
+            "destination": "Kinsta",
+            "date": "2024-11-23 04:48:16"
+        },
+        {
+            "domain_name": "www.hstas.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 04:47:37"
+        },
         {
             "domain_name": "www.blinefencing.com",
             "destination": "Pressable",
@@ -10,6 +35,16 @@
             "domain_name": "www.billpurchaseconstructionllc.com",
             "destination": "Pressable",
             "date": "2024-11-23 04:37:07"
+        },
+        {
+            "domain_name": "www.greendogac.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 04:32:28"
+        },
+        {
+            "domain_name": "www.greaterairandheating.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-23 04:32:28"
         },
         {
             "domain_name": "atlaschiropracticwaco.com",
@@ -452,19 +487,9 @@
             "date": "2024-11-22 16:48:59"
         },
         {
-            "domain_name": "augustinian.org",
-            "destination": "Pressable",
-            "date": "2024-11-22 16:47:36"
-        },
-        {
             "domain_name": "sabaplastics.com",
             "destination": "BigScoots",
             "date": "2024-11-22 16:45:38"
-        },
-        {
-            "domain_name": "avlf.org",
-            "destination": "Digital Ocean",
-            "date": "2024-11-22 16:43:24"
         },
         {
             "domain_name": "borealismedspa.com",
@@ -472,34 +497,9 @@
             "date": "2024-11-22 16:40:40"
         },
         {
-            "domain_name": "precisionbackground.com",
-            "destination": "BigScoots",
-            "date": "2024-11-22 16:23:34"
-        },
-        {
-            "domain_name": "policy.uncg.edu",
-            "destination": "Pressable",
-            "date": "2024-11-22 16:16:57"
-        },
-        {
-            "domain_name": "progressivepatriotic.com",
-            "destination": "Kinsta",
-            "date": "2024-11-22 16:14:28"
-        },
-        {
             "domain_name": "www.corporealvisionsinc.com",
             "destination": "GoDaddy",
             "date": "2024-11-22 16:11:10"
-        },
-        {
-            "domain_name": "portal.campuspeak.com",
-            "destination": "BigScoots",
-            "date": "2024-11-22 16:09:05"
-        },
-        {
-            "domain_name": "www.soft-lite.com",
-            "destination": "Pressable",
-            "date": "2024-11-22 16:07:45"
         }
     ],
     "dailyMovedStat": {
@@ -568,11 +568,11 @@
         "2024-11-22": "22351"
     },
     "topDestinationHosts": {
-        "Pressable": 5913,
+        "Pressable": 5916,
         "Bluehost": 3460,
-        "Digital Ocean": 1310,
+        "Digital Ocean": 1315,
         "SiteGround": 1232,
-        "Kinsta": 1184,
+        "Kinsta": 1186,
         "Hostinger": 649,
         "GoDaddy": 306,
         "Elementor Hosting": 175,
