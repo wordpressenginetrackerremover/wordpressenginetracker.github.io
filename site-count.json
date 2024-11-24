@@ -1,6 +1,11 @@
 {
-    "siteCount": 22822,
+    "siteCount": 22825,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lifenews.com",
+            "destination": "SiteGround",
+            "date": "2024-11-24 09:42:58"
+        },
         {
             "domain_name": "wayfinderfit.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "annistonvetclinic.com",
             "destination": "GridPane",
             "date": "2024-11-23 15:55:43"
-        },
-        {
-            "domain_name": "aimdigitalagency.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 15:43:54"
         },
         {
             "domain_name": "fundacioninocencia.org",
