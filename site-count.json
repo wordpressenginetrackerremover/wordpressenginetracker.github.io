@@ -1,6 +1,11 @@
 {
-    "siteCount": 22842,
+    "siteCount": 22845,
     "recentlyMoved": [
+        {
+            "domain_name": "chriscrowdergolfacademy.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-24 13:31:17"
+        },
         {
             "domain_name": "bysheilla.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "bavarianveterinary.com",
             "destination": "GridPane",
             "date": "2024-11-23 16:13:03"
-        },
-        {
-            "domain_name": "help.deepsouthtoday.org",
-            "destination": "Kinsta",
-            "date": "2024-11-23 16:11:26"
         }
     ],
     "dailyMovedStat": {
@@ -580,7 +580,7 @@
         "BigScoots": 177,
         "Wordify": 135,
         "Liquid Web": 130,
-        "WordPress.com": 106,
+        "WordPress.com": 107,
         "InMotion Hosting": 90,
         "GridPane": 73,
         "OVH": 68,
