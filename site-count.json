@@ -1,6 +1,16 @@
 {
-    "siteCount": 22804,
+    "siteCount": 22808,
     "recentlyMoved": [
+        {
+            "domain_name": "studio5.ksl.com",
+            "destination": "Kinsta",
+            "date": "2024-11-24 02:08:40"
+        },
+        {
+            "domain_name": "lehightonstfrancisah.com",
+            "destination": "GridPane",
+            "date": "2024-11-24 01:47:04"
+        },
         {
             "domain_name": "preserverealtyri.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "napethereforyou.ca",
             "destination": "SiteGround",
             "date": "2024-11-23 14:57:16"
-        },
-        {
-            "domain_name": "mexicodentalimplants.com",
-            "destination": "Pressable",
-            "date": "2024-11-23 14:50:14"
-        },
-        {
-            "domain_name": "top3lawfirms.com",
-            "destination": "SiteGround",
-            "date": "2024-11-23 14:30:37"
         }
     ],
     "dailyMovedStat": {
@@ -573,7 +573,7 @@
         "Bluehost": 3463,
         "Digital Ocean": 1388,
         "SiteGround": 1250,
-        "Kinsta": 1236,
+        "Kinsta": 1237,
         "Hostinger": 663,
         "GoDaddy": 313,
         "Elementor Hosting": 177,
@@ -582,7 +582,7 @@
         "Liquid Web": 130,
         "WordPress.com": 106,
         "InMotion Hosting": 89,
-        "GridPane": 72,
+        "GridPane": 73,
         "OVH": 68,
         "Namecheap": 60,
         "Hetzner Online": 56,
