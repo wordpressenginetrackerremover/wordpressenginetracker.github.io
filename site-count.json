@@ -1,10 +1,25 @@
 {
-    "siteCount": 22825,
+    "siteCount": 22831,
     "recentlyMoved": [
+        {
+            "domain_name": "cjna-ycna.org",
+            "destination": "Hostinger",
+            "date": "2024-11-24 10:02:35"
+        },
         {
             "domain_name": "www.lifenews.com",
             "destination": "SiteGround",
             "date": "2024-11-24 09:42:58"
+        },
+        {
+            "domain_name": "surgicalscience.com",
+            "destination": "Kinsta",
+            "date": "2024-11-24 09:40:28"
+        },
+        {
+            "domain_name": "dbseer.com",
+            "destination": "BigScoots",
+            "date": "2024-11-24 09:40:11"
         },
         {
             "domain_name": "wayfinderfit.com",
@@ -467,11 +482,6 @@
             "date": "2024-11-23 16:20:29"
         },
         {
-            "domain_name": "goldmangrouprealestate.com",
-            "destination": "Hostinger",
-            "date": "2024-11-23 16:20:12"
-        },
-        {
             "domain_name": "bayareacares.com",
             "destination": "Kinsta",
             "date": "2024-11-23 16:13:03"
@@ -490,16 +500,6 @@
             "domain_name": "athensanimalmedicalclinic.com",
             "destination": "GridPane",
             "date": "2024-11-23 15:56:41"
-        },
-        {
-            "domain_name": "annistonvetclinic.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 15:55:43"
-        },
-        {
-            "domain_name": "fundacioninocencia.org",
-            "destination": "GoDaddy",
-            "date": "2024-11-23 15:38:35"
         }
     ],
     "dailyMovedStat": {
@@ -572,12 +572,12 @@
         "Pressable": 5930,
         "Bluehost": 3463,
         "Digital Ocean": 1390,
-        "SiteGround": 1250,
-        "Kinsta": 1238,
-        "Hostinger": 664,
+        "SiteGround": 1251,
+        "Kinsta": 1239,
+        "Hostinger": 665,
         "GoDaddy": 313,
         "Elementor Hosting": 177,
-        "BigScoots": 176,
+        "BigScoots": 177,
         "Wordify": 135,
         "Liquid Web": 130,
         "WordPress.com": 106,
