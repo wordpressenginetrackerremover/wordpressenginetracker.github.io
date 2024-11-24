@@ -1,6 +1,21 @@
 {
-    "siteCount": 22846,
+    "siteCount": 22856,
     "recentlyMoved": [
+        {
+            "domain_name": "planetair.ca",
+            "destination": "Hostinger",
+            "date": "2024-11-24 16:29:09"
+        },
+        {
+            "domain_name": "aquabus.co.uk",
+            "destination": "Kinsta",
+            "date": "2024-11-24 16:17:20"
+        },
+        {
+            "domain_name": "weroof.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-24 15:39:31"
+        },
         {
             "domain_name": "chriscrowdergolfacademy.com",
             "destination": "WordPress.com",
@@ -462,11 +477,6 @@
             "date": "2024-11-23 16:55:11"
         },
         {
-            "domain_name": "bcahdurant.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 16:54:11"
-        },
-        {
             "domain_name": "riverdalefuncentre.com",
             "destination": "SiteGround",
             "date": "2024-11-23 16:49:27"
@@ -490,16 +500,6 @@
             "domain_name": "www.freelsorthodontics.com",
             "destination": "Kinsta",
             "date": "2024-11-23 16:35:23"
-        },
-        {
-            "domain_name": "bayareacares.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 16:13:03"
-        },
-        {
-            "domain_name": "bavarianveterinary.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 16:13:03"
         }
     ],
     "dailyMovedStat": {
@@ -573,9 +573,9 @@
         "Bluehost": 3463,
         "Digital Ocean": 1391,
         "SiteGround": 1252,
-        "Kinsta": 1239,
-        "Hostinger": 666,
-        "GoDaddy": 314,
+        "Kinsta": 1240,
+        "Hostinger": 667,
+        "GoDaddy": 315,
         "Elementor Hosting": 177,
         "BigScoots": 177,
         "Wordify": 135,
