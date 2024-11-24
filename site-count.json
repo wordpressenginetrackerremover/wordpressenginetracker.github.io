@@ -1,6 +1,16 @@
 {
-    "siteCount": 22884,
+    "siteCount": 22888,
     "recentlyMoved": [
+        {
+            "domain_name": "marioaguilar.com",
+            "destination": "Hostinger",
+            "date": "2024-11-24 22:37:10"
+        },
+        {
+            "domain_name": "www.racheldultzmd.com",
+            "destination": "Kinsta",
+            "date": "2024-11-24 22:11:43"
+        },
         {
             "domain_name": "berryboats.co.uk",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.houstonpsychologyconsultants.com",
             "destination": "Kinsta",
             "date": "2024-11-23 17:12:11"
-        },
-        {
-            "domain_name": "www.hillsdental.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 17:07:20"
-        },
-        {
-            "domain_name": "www.frenchsmiles.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 16:35:23"
         }
     ],
     "dailyMovedStat": {
@@ -573,8 +573,8 @@
         "Bluehost": 3463,
         "Digital Ocean": 1393,
         "SiteGround": 1253,
-        "Kinsta": 1243,
-        "Hostinger": 668,
+        "Kinsta": 1244,
+        "Hostinger": 669,
         "GoDaddy": 315,
         "Elementor Hosting": 177,
         "BigScoots": 177,
