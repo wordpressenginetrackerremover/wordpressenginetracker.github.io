@@ -1,6 +1,11 @@
 {
-    "siteCount": 22888,
+    "siteCount": 22890,
     "recentlyMoved": [
+        {
+            "domain_name": "engagedelaney.com",
+            "destination": "SiteGround",
+            "date": "2024-11-24 23:09:42"
+        },
         {
             "domain_name": "marioaguilar.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.mohssurgery.org",
             "destination": "Kinsta",
             "date": "2024-11-23 17:31:09"
-        },
-        {
-            "domain_name": "www.houstonpsychologyconsultants.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 17:12:11"
         }
     ],
     "dailyMovedStat": {
@@ -566,13 +566,14 @@
         "2024-11-20": "20977",
         "2024-11-21": "21733",
         "2024-11-22": "22351",
-        "2024-11-23": "22794"
+        "2024-11-23": "22794",
+        "2024-11-24": "22890"
     },
     "topDestinationHosts": {
         "Pressable": 5931,
         "Bluehost": 3463,
         "Digital Ocean": 1393,
-        "SiteGround": 1253,
+        "SiteGround": 1254,
         "Kinsta": 1244,
         "Hostinger": 669,
         "GoDaddy": 315,
@@ -654,6 +655,7 @@
         "2024-11-20": "714747",
         "2024-11-21": "712869",
         "2024-11-22": "712189",
-        "2024-11-23": "711241"
+        "2024-11-23": "711241",
+        "2024-11-24": "707360"
     }
 }
