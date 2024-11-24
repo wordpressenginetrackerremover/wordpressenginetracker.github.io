@@ -1,6 +1,16 @@
 {
-    "siteCount": 22808,
+    "siteCount": 22811,
     "recentlyMoved": [
+        {
+            "domain_name": "manageme.ca",
+            "destination": "Hostinger",
+            "date": "2024-11-24 02:52:45"
+        },
+        {
+            "domain_name": "www.slfdentistry.com",
+            "destination": "Kinsta",
+            "date": "2024-11-24 02:25:33"
+        },
         {
             "domain_name": "studio5.ksl.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "weightclinicatfpgreeley.com",
             "destination": "Kinsta",
             "date": "2024-11-23 15:37:33"
-        },
-        {
-            "domain_name": "nebraskawarriors.com",
-            "destination": "WordPress.com",
-            "date": "2024-11-23 15:04:03"
-        },
-        {
-            "domain_name": "napethereforyou.ca",
-            "destination": "SiteGround",
-            "date": "2024-11-23 14:57:16"
         }
     ],
     "dailyMovedStat": {
@@ -573,8 +573,8 @@
         "Bluehost": 3463,
         "Digital Ocean": 1388,
         "SiteGround": 1250,
-        "Kinsta": 1237,
-        "Hostinger": 663,
+        "Kinsta": 1238,
+        "Hostinger": 664,
         "GoDaddy": 313,
         "Elementor Hosting": 177,
         "BigScoots": 176,
