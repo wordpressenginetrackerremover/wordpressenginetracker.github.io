@@ -1,6 +1,11 @@
 {
-    "siteCount": 22883,
+    "siteCount": 22884,
     "recentlyMoved": [
+        {
+            "domain_name": "berryboats.co.uk",
+            "destination": "Kinsta",
+            "date": "2024-11-24 20:42:49"
+        },
         {
             "domain_name": "www.unlockedmission.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.frenchsmiles.com",
             "destination": "Kinsta",
             "date": "2024-11-23 16:35:23"
-        },
-        {
-            "domain_name": "www.freelsorthodontics.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 16:35:23"
         }
     ],
     "dailyMovedStat": {
@@ -573,7 +573,7 @@
         "Bluehost": 3463,
         "Digital Ocean": 1393,
         "SiteGround": 1253,
-        "Kinsta": 1242,
+        "Kinsta": 1243,
         "Hostinger": 668,
         "GoDaddy": 315,
         "Elementor Hosting": 177,
