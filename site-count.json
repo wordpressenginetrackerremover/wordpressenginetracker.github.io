@@ -1,6 +1,11 @@
 {
-    "siteCount": 22921,
+    "siteCount": 22925,
     "recentlyMoved": [
+        {
+            "domain_name": "pinstriperecruitment.com.au",
+            "destination": "SiteGround",
+            "date": "2024-11-25 08:00:54"
+        },
         {
             "domain_name": "thesitecoach.com.au",
             "destination": "SiteGround",
@@ -487,11 +492,6 @@
             "date": "2024-11-23 17:58:08"
         },
         {
-            "domain_name": "crossfit611.com",
-            "destination": "A2 Hosting",
-            "date": "2024-11-23 17:55:13"
-        },
-        {
             "domain_name": "www.stonegateparkdentistry.com",
             "destination": "Kinsta",
             "date": "2024-11-23 17:54:55"
@@ -573,7 +573,7 @@
         "Pressable": 5932,
         "Bluehost": 3463,
         "Digital Ocean": 1397,
-        "SiteGround": 1257,
+        "SiteGround": 1258,
         "Kinsta": 1244,
         "Hostinger": 670,
         "GoDaddy": 316,
