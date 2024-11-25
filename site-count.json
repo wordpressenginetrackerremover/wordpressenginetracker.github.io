@@ -1,6 +1,11 @@
 {
-    "siteCount": 22908,
+    "siteCount": 22911,
     "recentlyMoved": [
+        {
+            "domain_name": "africanbushcamps-agent-portal.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-25 03:46:23"
+        },
         {
             "domain_name": "www.stansairsystems.com",
             "destination": "Digital Ocean",
@@ -467,11 +472,6 @@
             "date": "2024-11-23 18:13:03"
         },
         {
-            "domain_name": "www.premierartsdental.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 17:58:51"
-        },
-        {
             "domain_name": "dbintegrations.tech",
             "destination": "Digital Ocean",
             "date": "2024-11-23 17:58:08"
@@ -572,7 +572,7 @@
     "topDestinationHosts": {
         "Pressable": 5932,
         "Bluehost": 3463,
-        "Digital Ocean": 1396,
+        "Digital Ocean": 1397,
         "SiteGround": 1255,
         "Kinsta": 1244,
         "Hostinger": 670,
@@ -587,8 +587,8 @@
         "OVH": 68,
         "Namecheap": 60,
         "Hetzner Online": 56,
-        "IONOS": 56,
         "A2 Hosting": 56,
+        "IONOS": 56,
         "Krystal Hosting": 51
     },
     "dailyTotalStat": {
