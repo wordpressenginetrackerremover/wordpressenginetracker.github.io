@@ -1,6 +1,11 @@
 {
-    "siteCount": 22926,
+    "siteCount": 22929,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sjdny.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-25 10:02:37"
+        },
         {
             "domain_name": "pinstriperecruitment.com.au",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.stonegateparkdentistry.com",
             "destination": "Kinsta",
             "date": "2024-11-23 17:54:55"
-        },
-        {
-            "domain_name": "www.rockymountainoralsurgery.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 17:52:02"
         }
     ],
     "dailyMovedStat": {
@@ -576,7 +576,7 @@
         "SiteGround": 1258,
         "Kinsta": 1244,
         "Hostinger": 670,
-        "GoDaddy": 316,
+        "GoDaddy": 317,
         "Elementor Hosting": 177,
         "BigScoots": 177,
         "Wordify": 135,
