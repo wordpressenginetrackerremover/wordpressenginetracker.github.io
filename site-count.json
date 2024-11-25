@@ -1,6 +1,11 @@
 {
-    "siteCount": 22890,
+    "siteCount": 22893,
     "recentlyMoved": [
+        {
+            "domain_name": "pacificrimstorage.ca",
+            "destination": "Hostinger",
+            "date": "2024-11-24 23:28:27"
+        },
         {
             "domain_name": "engagedelaney.com",
             "destination": "SiteGround",
@@ -452,11 +457,6 @@
             "date": "2024-11-23 17:58:08"
         },
         {
-            "domain_name": "www.koreaccounting.com",
-            "destination": "BigScoots",
-            "date": "2024-11-23 17:56:13"
-        },
-        {
             "domain_name": "www.perezsmiles.com",
             "destination": "Kinsta",
             "date": "2024-11-23 17:55:26"
@@ -575,7 +575,7 @@
         "Digital Ocean": 1393,
         "SiteGround": 1254,
         "Kinsta": 1244,
-        "Hostinger": 669,
+        "Hostinger": 670,
         "GoDaddy": 315,
         "Elementor Hosting": 177,
         "BigScoots": 177,
