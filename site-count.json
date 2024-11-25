@@ -1,10 +1,25 @@
 {
-    "siteCount": 23086,
+    "siteCount": 23092,
     "recentlyMoved": [
+        {
+            "domain_name": "cartelinsight.com",
+            "destination": "Bluehost",
+            "date": "2024-11-25 21:16:14"
+        },
+        {
+            "domain_name": "infomineresearch.com",
+            "destination": "Bluehost",
+            "date": "2024-11-25 20:44:38"
+        },
         {
             "domain_name": "globalensec.org",
             "destination": "WordPress.com",
             "date": "2024-11-25 20:23:20"
+        },
+        {
+            "domain_name": "heartwireddigital.com",
+            "destination": "SiteGround",
+            "date": "2024-11-25 20:15:34"
         },
         {
             "domain_name": "americanpolicycoalition.com",
@@ -472,11 +487,6 @@
             "date": "2024-11-23 20:26:24"
         },
         {
-            "domain_name": "www.flettplumbing.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 20:11:26"
-        },
-        {
             "domain_name": "hemisphereformation.com",
             "destination": "Hostinger",
             "date": "2024-11-23 20:07:30"
@@ -490,16 +500,6 @@
             "domain_name": "www.sellmyhome.trinityrealestateservices.com",
             "destination": "Digital Ocean",
             "date": "2024-11-23 19:59:28"
-        },
-        {
-            "domain_name": "www.michaelswaaley.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 19:59:28"
-        },
-        {
-            "domain_name": "app.kslsports.com",
-            "destination": "Kinsta",
-            "date": "2024-11-23 19:51:40"
         }
     ],
     "dailyMovedStat": {
@@ -570,21 +570,21 @@
         "2024-11-24": "22890"
     },
     "topDestinationHosts": {
-        "Pressable": 5932,
-        "Bluehost": 3464,
-        "Digital Ocean": 1401,
-        "SiteGround": 1258,
-        "Kinsta": 1244,
-        "Hostinger": 670,
-        "GoDaddy": 318,
+        "Pressable": 5933,
+        "Bluehost": 3466,
+        "Digital Ocean": 1402,
+        "SiteGround": 1261,
+        "Kinsta": 1247,
+        "Hostinger": 671,
+        "GoDaddy": 319,
         "Elementor Hosting": 177,
         "BigScoots": 177,
         "Wordify": 135,
         "Liquid Web": 130,
         "WordPress.com": 108,
-        "InMotion Hosting": 90,
+        "InMotion Hosting": 91,
         "GridPane": 73,
-        "OVH": 68,
+        "OVH": 69,
         "Namecheap": 60,
         "IONOS": 58,
         "A2 Hosting": 56,
