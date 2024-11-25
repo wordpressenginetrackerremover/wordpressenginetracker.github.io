@@ -1,10 +1,20 @@
 {
-    "siteCount": 23095,
+    "siteCount": 23102,
     "recentlyMoved": [
+        {
+            "domain_name": "momlifetoday.com",
+            "destination": "BigScoots",
+            "date": "2024-11-25 22:24:15"
+        },
         {
             "domain_name": "sunshinecitycrossfit.com",
             "destination": "SiteGround",
             "date": "2024-11-25 22:00:43"
+        },
+        {
+            "domain_name": "thepegman.com.au",
+            "destination": "SiteGround",
+            "date": "2024-11-25 21:57:02"
         },
         {
             "domain_name": "chiefphelps.com",
@@ -490,16 +500,6 @@
             "domain_name": "benbowlin.com",
             "destination": "Digital Ocean",
             "date": "2024-11-23 20:50:12"
-        },
-        {
-            "domain_name": "balanceacoustics.tech",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 20:26:24"
-        },
-        {
-            "domain_name": "hemisphereformation.com",
-            "destination": "Hostinger",
-            "date": "2024-11-23 20:07:30"
         }
     ],
     "dailyMovedStat": {
@@ -567,18 +567,19 @@
         "2024-11-21": "21733",
         "2024-11-22": "22351",
         "2024-11-23": "22794",
-        "2024-11-24": "22890"
+        "2024-11-24": "22890",
+        "2024-11-25": "23102"
     },
     "topDestinationHosts": {
         "Pressable": 5933,
         "Bluehost": 3467,
         "Digital Ocean": 1402,
-        "SiteGround": 1262,
+        "SiteGround": 1263,
         "Kinsta": 1247,
         "Hostinger": 671,
         "GoDaddy": 320,
+        "BigScoots": 178,
         "Elementor Hosting": 177,
-        "BigScoots": 177,
         "Wordify": 135,
         "Liquid Web": 130,
         "WordPress.com": 108,
@@ -656,6 +657,7 @@
         "2024-11-21": "712869",
         "2024-11-22": "712189",
         "2024-11-23": "711241",
-        "2024-11-24": "707360"
+        "2024-11-24": "707360",
+        "2024-11-25": "707035"
     }
 }
