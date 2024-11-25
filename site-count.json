@@ -1,6 +1,11 @@
 {
-    "siteCount": 22917,
+    "siteCount": 22920,
     "recentlyMoved": [
+        {
+            "domain_name": "thesitecoach.com.au",
+            "destination": "SiteGround",
+            "date": "2024-11-25 06:35:21"
+        },
         {
             "domain_name": "www.emeraldpaintinginc.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.rockymountainoralsurgery.com",
             "destination": "Kinsta",
             "date": "2024-11-23 17:52:02"
-        },
-        {
-            "domain_name": "strengthlabpc.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 17:46:40"
         }
     ],
     "dailyMovedStat": {
