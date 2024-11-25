@@ -1,6 +1,16 @@
 {
-    "siteCount": 22911,
+    "siteCount": 22917,
     "recentlyMoved": [
+        {
+            "domain_name": "www.emeraldpaintinginc.com",
+            "destination": "IONOS",
+            "date": "2024-11-25 04:45:16"
+        },
+        {
+            "domain_name": "reddypeople.com.au",
+            "destination": "SiteGround",
+            "date": "2024-11-25 04:43:25"
+        },
         {
             "domain_name": "africanbushcamps-agent-portal.com",
             "destination": "Digital Ocean",
@@ -432,11 +442,6 @@
             "date": "2024-11-23 18:32:57"
         },
         {
-            "domain_name": "covalentdesign.tech",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 18:23:35"
-        },
-        {
             "domain_name": "dnesco.com",
             "destination": "SiteGround",
             "date": "2024-11-23 18:22:18"
@@ -495,11 +500,6 @@
             "domain_name": "strengthlabpc.com",
             "destination": "GridPane",
             "date": "2024-11-23 17:46:40"
-        },
-        {
-            "domain_name": "store.awaken2sleep.com",
-            "destination": "SiteGround",
-            "date": "2024-11-23 17:41:45"
         }
     ],
     "dailyMovedStat": {
@@ -573,7 +573,7 @@
         "Pressable": 5932,
         "Bluehost": 3463,
         "Digital Ocean": 1397,
-        "SiteGround": 1255,
+        "SiteGround": 1256,
         "Kinsta": 1244,
         "Hostinger": 670,
         "GoDaddy": 316,
@@ -586,9 +586,9 @@
         "GridPane": 73,
         "OVH": 68,
         "Namecheap": 60,
-        "Hetzner Online": 56,
+        "IONOS": 57,
         "A2 Hosting": 56,
-        "IONOS": 56,
+        "Hetzner Online": 56,
         "Krystal Hosting": 51
     },
     "dailyTotalStat": {
