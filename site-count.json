@@ -1,10 +1,25 @@
 {
-    "siteCount": 23135,
+    "siteCount": 23143,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sarsonsmechanical.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 05:56:06"
+        },
+        {
+            "domain_name": "crossfithelvetix.ch",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 05:46:40"
+        },
         {
             "domain_name": "centrumtandzorg.nl",
             "destination": "Kinsta",
             "date": "2024-11-26 05:33:50"
+        },
+        {
+            "domain_name": "www.patriothomesolutionsheatingandairconditioning.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 05:32:20"
         },
         {
             "domain_name": "www.lewisplumbingandheating.com",
@@ -467,11 +482,6 @@
             "date": "2024-11-24 00:35:54"
         },
         {
-            "domain_name": "weddingsbywendi.com",
-            "destination": "Kinsta",
-            "date": "2024-11-24 00:20:29"
-        },
-        {
             "domain_name": "www.sirokyphotography.com",
             "destination": "GridPane",
             "date": "2024-11-24 00:16:17"
@@ -490,16 +500,6 @@
             "domain_name": "www.jerrymartinphotography.com",
             "destination": "GridPane",
             "date": "2024-11-23 23:58:34"
-        },
-        {
-            "domain_name": "www.farmlandlp.com",
-            "destination": "A2 Hosting",
-            "date": "2024-11-23 23:50:39"
-        },
-        {
-            "domain_name": "thomasmunson.org",
-            "destination": "GoDaddy",
-            "date": "2024-11-23 22:53:33"
         }
     ],
     "dailyMovedStat": {
@@ -573,9 +573,9 @@
     "topDestinationHosts": {
         "Pressable": 5937,
         "Bluehost": 3467,
-        "Digital Ocean": 1407,
+        "Digital Ocean": 1410,
         "SiteGround": 1268,
-        "Kinsta": 1250,
+        "Kinsta": 1251,
         "Hostinger": 671,
         "GoDaddy": 320,
         "BigScoots": 178,
