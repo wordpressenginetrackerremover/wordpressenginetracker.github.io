@@ -1,6 +1,31 @@
 {
-    "siteCount": 23154,
+    "siteCount": 23162,
     "recentlyMoved": [
+        {
+            "domain_name": "karryon.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-26 09:31:43"
+        },
+        {
+            "domain_name": "shieldguyana.ca",
+            "destination": "SiteGround",
+            "date": "2024-11-26 09:12:32"
+        },
+        {
+            "domain_name": "insightatlantic.ca",
+            "destination": "SiteGround",
+            "date": "2024-11-26 08:57:45"
+        },
+        {
+            "domain_name": "scscincinnati.com",
+            "destination": "SiteGround",
+            "date": "2024-11-26 08:48:52"
+        },
+        {
+            "domain_name": "www.campuswild-uct.co.za",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 08:45:21"
+        },
         {
             "domain_name": "www.aarondembskibowden.com",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "studio5.ksl.com",
             "destination": "Kinsta",
             "date": "2024-11-24 02:08:40"
-        },
-        {
-            "domain_name": "lehightonstfrancisah.com",
-            "destination": "GridPane",
-            "date": "2024-11-24 01:47:04"
-        },
-        {
-            "domain_name": "preserverealtyri.com",
-            "destination": "Kinsta",
-            "date": "2024-11-24 00:35:54"
-        },
-        {
-            "domain_name": "www.sirokyphotography.com",
-            "destination": "GridPane",
-            "date": "2024-11-24 00:16:17"
-        },
-        {
-            "domain_name": "bcwitchcamp.ca",
-            "destination": "Hostinger",
-            "date": "2024-11-24 00:16:11"
-        },
-        {
-            "domain_name": "www.jerrymartinphotography.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 23:58:34"
         }
     ],
     "dailyMovedStat": {
@@ -573,8 +573,8 @@
     "topDestinationHosts": {
         "Pressable": 5937,
         "Bluehost": 3467,
-        "Digital Ocean": 1410,
-        "SiteGround": 1268,
+        "Digital Ocean": 1411,
+        "SiteGround": 1270,
         "Kinsta": 1251,
         "Hostinger": 672,
         "GoDaddy": 320,
