@@ -1,6 +1,21 @@
 {
-    "siteCount": 23247,
+    "siteCount": 23257,
     "recentlyMoved": [
+        {
+            "domain_name": "troutcreekveterinary.com",
+            "destination": "GridPane",
+            "date": "2024-11-26 14:47:51"
+        },
+        {
+            "domain_name": "dsadevelopmentco.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-26 14:33:26"
+        },
+        {
+            "domain_name": "drwattselectric.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 14:33:26"
+        },
         {
             "domain_name": "sylverapp.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "pinstriperecruitment.com.au",
             "destination": "SiteGround",
             "date": "2024-11-25 08:00:54"
-        },
-        {
-            "domain_name": "thesitecoach.com.au",
-            "destination": "SiteGround",
-            "date": "2024-11-25 06:35:21"
-        },
-        {
-            "domain_name": "www.emeraldpaintinginc.com",
-            "destination": "IONOS",
-            "date": "2024-11-25 04:45:16"
-        },
-        {
-            "domain_name": "reddypeople.com.au",
-            "destination": "SiteGround",
-            "date": "2024-11-25 04:43:25"
         }
     ],
     "dailyMovedStat": {
@@ -573,18 +573,18 @@
     "topDestinationHosts": {
         "Pressable": 5952,
         "Bluehost": 3467,
-        "Digital Ocean": 1418,
-        "SiteGround": 1274,
+        "Digital Ocean": 1419,
+        "SiteGround": 1275,
         "Kinsta": 1254,
         "Hostinger": 673,
-        "GoDaddy": 322,
+        "GoDaddy": 323,
         "BigScoots": 178,
         "Elementor Hosting": 177,
         "Wordify": 135,
         "Liquid Web": 131,
         "WordPress.com": 108,
         "InMotion Hosting": 92,
-        "GridPane": 75,
+        "GridPane": 76,
         "OVH": 70,
         "Namecheap": 60,
         "IONOS": 58,
