@@ -1,6 +1,56 @@
 {
-    "siteCount": 23181,
+    "siteCount": 23195,
     "recentlyMoved": [
+        {
+            "domain_name": "planner.alorawellnessspa.com",
+            "destination": "Pressable",
+            "date": "2024-11-26 12:14:14"
+        },
+        {
+            "domain_name": "giantpartners.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-26 12:02:19"
+        },
+        {
+            "domain_name": "ghgsensing.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-11-26 12:02:19"
+        },
+        {
+            "domain_name": "gulleysgardencenter.com",
+            "destination": "Pressable",
+            "date": "2024-11-26 12:01:31"
+        },
+        {
+            "domain_name": "fletcherindustries.com",
+            "destination": "Pressable",
+            "date": "2024-11-26 12:00:18"
+        },
+        {
+            "domain_name": "antexexterminating.com",
+            "destination": "Pressable",
+            "date": "2024-11-26 11:49:45"
+        },
+        {
+            "domain_name": "firstflightagency.com",
+            "destination": "Pressable",
+            "date": "2024-11-26 11:49:25"
+        },
+        {
+            "domain_name": "northglennhealthandfitness.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 11:43:48"
+        },
+        {
+            "domain_name": "abbelstarr.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 11:40:33"
+        },
+        {
+            "domain_name": "303magazine.com",
+            "destination": "Pressable",
+            "date": "2024-11-26 11:15:31"
+        },
         {
             "domain_name": "uxid.co.za",
             "destination": "Digital Ocean",
@@ -450,56 +500,6 @@
             "domain_name": "challengeacceptedusa.org",
             "destination": "Digital Ocean",
             "date": "2024-11-24 17:06:52"
-        },
-        {
-            "domain_name": "planetair.ca",
-            "destination": "Hostinger",
-            "date": "2024-11-24 16:29:09"
-        },
-        {
-            "domain_name": "aquabus.co.uk",
-            "destination": "Kinsta",
-            "date": "2024-11-24 16:17:20"
-        },
-        {
-            "domain_name": "weroof.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-24 15:39:31"
-        },
-        {
-            "domain_name": "chriscrowdergolfacademy.com",
-            "destination": "WordPress.com",
-            "date": "2024-11-24 13:31:17"
-        },
-        {
-            "domain_name": "bysheilla.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-24 13:10:45"
-        },
-        {
-            "domain_name": "bluprimesteakhouse.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-24 12:45:52"
-        },
-        {
-            "domain_name": "hoofsolutionsusa.com",
-            "destination": "SiteGround",
-            "date": "2024-11-24 12:32:48"
-        },
-        {
-            "domain_name": "harrisfuneralhome.ca",
-            "destination": "Hostinger",
-            "date": "2024-11-24 12:13:17"
-        },
-        {
-            "domain_name": "surgicalscience.com",
-            "destination": "Kinsta",
-            "date": "2024-11-24 09:40:28"
-        },
-        {
-            "domain_name": "dbseer.com",
-            "destination": "BigScoots",
-            "date": "2024-11-24 09:40:11"
         }
     ],
     "dailyMovedStat": {
@@ -571,9 +571,9 @@
         "2024-11-25": "23102"
     },
     "topDestinationHosts": {
-        "Pressable": 5938,
+        "Pressable": 5943,
         "Bluehost": 3467,
-        "Digital Ocean": 1415,
+        "Digital Ocean": 1417,
         "SiteGround": 1272,
         "Kinsta": 1252,
         "Hostinger": 672,
@@ -581,9 +581,9 @@
         "BigScoots": 178,
         "Elementor Hosting": 177,
         "Wordify": 135,
-        "Liquid Web": 130,
+        "Liquid Web": 131,
         "WordPress.com": 108,
-        "InMotion Hosting": 91,
+        "InMotion Hosting": 92,
         "GridPane": 74,
         "OVH": 69,
         "Namecheap": 60,
