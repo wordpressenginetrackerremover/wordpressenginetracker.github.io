@@ -1,15 +1,40 @@
 {
-    "siteCount": 23162,
+    "siteCount": 23174,
     "recentlyMoved": [
+        {
+            "domain_name": "maxfitkc.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 10:29:05"
+        },
+        {
+            "domain_name": "www.thewrendesign.com",
+            "destination": "Hetzner Online",
+            "date": "2024-11-26 09:54:49"
+        },
+        {
+            "domain_name": "slaughterhousefx.com",
+            "destination": "SiteGround",
+            "date": "2024-11-26 09:35:19"
+        },
         {
             "domain_name": "karryon.com.au",
             "destination": "Kinsta",
             "date": "2024-11-26 09:31:43"
         },
         {
+            "domain_name": "www.rotarylamision.org",
+            "destination": "Pressable",
+            "date": "2024-11-26 09:25:47"
+        },
+        {
             "domain_name": "shieldguyana.ca",
             "destination": "SiteGround",
             "date": "2024-11-26 09:12:32"
+        },
+        {
+            "domain_name": "southhallcrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 09:11:10"
         },
         {
             "domain_name": "insightatlantic.ca",
@@ -472,34 +497,9 @@
             "date": "2024-11-24 09:40:11"
         },
         {
-            "domain_name": "wayfinderfit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-24 07:59:33"
-        },
-        {
             "domain_name": "alumapdx.com",
             "destination": "InMotion Hosting",
             "date": "2024-11-24 07:48:08"
-        },
-        {
-            "domain_name": "thefamilyconnectedllc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-24 03:17:39"
-        },
-        {
-            "domain_name": "manageme.ca",
-            "destination": "Hostinger",
-            "date": "2024-11-24 02:52:45"
-        },
-        {
-            "domain_name": "www.slfdentistry.com",
-            "destination": "Kinsta",
-            "date": "2024-11-24 02:25:33"
-        },
-        {
-            "domain_name": "studio5.ksl.com",
-            "destination": "Kinsta",
-            "date": "2024-11-24 02:08:40"
         }
     ],
     "dailyMovedStat": {
@@ -571,11 +571,11 @@
         "2024-11-25": "23102"
     },
     "topDestinationHosts": {
-        "Pressable": 5937,
+        "Pressable": 5938,
         "Bluehost": 3467,
-        "Digital Ocean": 1411,
-        "SiteGround": 1270,
-        "Kinsta": 1251,
+        "Digital Ocean": 1412,
+        "SiteGround": 1272,
+        "Kinsta": 1252,
         "Hostinger": 672,
         "GoDaddy": 320,
         "BigScoots": 178,
@@ -588,8 +588,8 @@
         "OVH": 69,
         "Namecheap": 60,
         "IONOS": 58,
+        "Hetzner Online": 57,
         "A2 Hosting": 56,
-        "Hetzner Online": 56,
         "Krystal Hosting": 51
     },
     "dailyTotalStat": {
