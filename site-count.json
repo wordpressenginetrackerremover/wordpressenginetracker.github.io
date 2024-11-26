@@ -1,6 +1,11 @@
 {
-    "siteCount": 23149,
+    "siteCount": 23154,
     "recentlyMoved": [
+        {
+            "domain_name": "www.aarondembskibowden.com",
+            "destination": "Hostinger",
+            "date": "2024-11-26 07:40:53"
+        },
         {
             "domain_name": "www.sarsonsmechanical.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2024-11-24 00:16:11"
         },
         {
-            "domain_name": "windowwizardsllc.com",
-            "destination": "SiteGround",
-            "date": "2024-11-24 00:13:42"
-        },
-        {
             "domain_name": "www.jerrymartinphotography.com",
             "destination": "GridPane",
             "date": "2024-11-23 23:58:34"
@@ -576,7 +576,7 @@
         "Digital Ocean": 1410,
         "SiteGround": 1268,
         "Kinsta": 1251,
-        "Hostinger": 671,
+        "Hostinger": 672,
         "GoDaddy": 320,
         "BigScoots": 178,
         "Elementor Hosting": 177,
