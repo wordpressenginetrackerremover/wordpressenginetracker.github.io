@@ -1,6 +1,26 @@
 {
-    "siteCount": 23129,
+    "siteCount": 23135,
     "recentlyMoved": [
+        {
+            "domain_name": "centrumtandzorg.nl",
+            "destination": "Kinsta",
+            "date": "2024-11-26 05:33:50"
+        },
+        {
+            "domain_name": "www.lewisplumbingandheating.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 05:29:20"
+        },
+        {
+            "domain_name": "www.homeenergyheating.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 05:15:23"
+        },
+        {
+            "domain_name": "www.cooltechmechanical.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-26 04:18:36"
+        },
         {
             "domain_name": "palomaagency.se",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "thomasmunson.org",
             "destination": "GoDaddy",
             "date": "2024-11-23 22:53:33"
-        },
-        {
-            "domain_name": "doitfordadranch.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 22:22:19"
-        },
-        {
-            "domain_name": "copleyvisual.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-23 22:22:15"
-        },
-        {
-            "domain_name": "crittercareanimalclinic.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 21:47:23"
-        },
-        {
-            "domain_name": "crown3equine.com",
-            "destination": "GridPane",
-            "date": "2024-11-23 21:43:03"
         }
     ],
     "dailyMovedStat": {
@@ -573,7 +573,7 @@
     "topDestinationHosts": {
         "Pressable": 5937,
         "Bluehost": 3467,
-        "Digital Ocean": 1404,
+        "Digital Ocean": 1407,
         "SiteGround": 1268,
         "Kinsta": 1250,
         "Hostinger": 671,
