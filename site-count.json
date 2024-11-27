@@ -1,6 +1,26 @@
 {
-    "siteCount": 23602,
+    "siteCount": 23610,
     "recentlyMoved": [
+        {
+            "domain_name": "norsk-stenmiljo.se",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 11:40:04"
+        },
+        {
+            "domain_name": "norsk-steinmiljo.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 11:40:04"
+        },
+        {
+            "domain_name": "vaultmaumee.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 10:47:15"
+        },
+        {
+            "domain_name": "ebertstudio.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 10:33:20"
+        },
         {
             "domain_name": "custompools.design",
             "destination": "Pressable",
@@ -477,29 +497,9 @@
             "date": "2024-11-26 18:55:56"
         },
         {
-            "domain_name": "dunchreport.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:54:57"
-        },
-        {
             "domain_name": "modalitymusic.com",
             "destination": "Pressable",
             "date": "2024-11-26 18:50:14"
-        },
-        {
-            "domain_name": "yerkaran.org",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:32:26"
-        },
-        {
-            "domain_name": "drpia.com",
-            "destination": "BigScoots",
-            "date": "2024-11-26 18:23:42"
-        },
-        {
-            "domain_name": "theoudplayer.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:19:56"
         }
     ],
     "dailyMovedStat": {
@@ -574,9 +574,9 @@
     "topDestinationHosts": {
         "Pressable": 6003,
         "Bluehost": 3469,
-        "Digital Ocean": 1434,
+        "Digital Ocean": 1437,
         "SiteGround": 1295,
-        "Kinsta": 1276,
+        "Kinsta": 1277,
         "Hostinger": 681,
         "GoDaddy": 328,
         "BigScoots": 181,
