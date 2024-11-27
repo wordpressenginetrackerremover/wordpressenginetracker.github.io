@@ -1,6 +1,21 @@
 {
-    "siteCount": 23535,
+    "siteCount": 23544,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thedecksupply.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 02:32:53"
+        },
+        {
+            "domain_name": "sonjaphoto.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 02:07:43"
+        },
+        {
+            "domain_name": "junkgrabbersus.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 01:41:11"
+        },
         {
             "domain_name": "inclusee.org.au",
             "destination": "Kinsta",
@@ -472,11 +487,6 @@
             "date": "2024-11-26 16:16:06"
         },
         {
-            "domain_name": "furnishinghopejunkremoval.com",
-            "destination": "Kinsta",
-            "date": "2024-11-26 16:09:29"
-        },
-        {
             "domain_name": "aravod.com",
             "destination": "Pressable",
             "date": "2024-11-26 16:07:48"
@@ -490,16 +500,6 @@
             "domain_name": "pointepros.com",
             "destination": "Digital Ocean",
             "date": "2024-11-26 15:55:33"
-        },
-        {
-            "domain_name": "getgoing.crawfordctc.org",
-            "destination": "BigScoots",
-            "date": "2024-11-26 15:47:47"
-        },
-        {
-            "domain_name": "partnersinpediatrics.co",
-            "destination": "Kinsta",
-            "date": "2024-11-26 15:35:22"
         }
     ],
     "dailyMovedStat": {
@@ -572,11 +572,11 @@
         "2024-11-26": "23520"
     },
     "topDestinationHosts": {
-        "Pressable": 5992,
+        "Pressable": 5993,
         "Bluehost": 3469,
         "Digital Ocean": 1428,
         "SiteGround": 1291,
-        "Kinsta": 1267,
+        "Kinsta": 1268,
         "Hostinger": 679,
         "GoDaddy": 328,
         "BigScoots": 181,
