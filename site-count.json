@@ -1,6 +1,16 @@
 {
-    "siteCount": 23521,
+    "siteCount": 23530,
     "recentlyMoved": [
+        {
+            "domain_name": "agcvfra.net",
+            "destination": "SiteGround",
+            "date": "2024-11-27 00:13:14"
+        },
+        {
+            "domain_name": "2023.internoise.org",
+            "destination": "GoDaddy",
+            "date": "2024-11-26 23:59:33"
+        },
         {
             "domain_name": "morrisandmae.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "partnersinpediatrics.co",
             "destination": "Kinsta",
             "date": "2024-11-26 15:35:22"
-        },
-        {
-            "domain_name": "ontracautomation.com",
-            "destination": "Hostinger",
-            "date": "2024-11-26 15:24:33"
-        },
-        {
-            "domain_name": "vitalsignhomecare.com",
-            "destination": "SiteGround",
-            "date": "2024-11-26 15:20:55"
         }
     ],
     "dailyMovedStat": {
@@ -575,10 +575,10 @@
         "Pressable": 5992,
         "Bluehost": 3469,
         "Digital Ocean": 1428,
-        "SiteGround": 1289,
+        "SiteGround": 1290,
         "Kinsta": 1265,
         "Hostinger": 679,
-        "GoDaddy": 327,
+        "GoDaddy": 328,
         "BigScoots": 181,
         "Elementor Hosting": 177,
         "Liquid Web": 141,
