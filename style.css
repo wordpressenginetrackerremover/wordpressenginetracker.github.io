@@ -202,6 +202,10 @@ p a {
     width: 100%;
 }
 
+.recently-moved-site {
+    overflow: visible;
+}
+
 .recently-moved-container,
 .top-destinations {
     padding: 0 20px 40px 0;
@@ -267,7 +271,6 @@ p a {
 
 .recently-moved-site {
     line-height: 16px;
-    overflow: hidden;
     text-overflow: ellipsis;
     display: flex;
     flex-direction: column;
