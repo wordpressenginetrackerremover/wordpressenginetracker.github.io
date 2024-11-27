@@ -1,6 +1,26 @@
 {
-    "siteCount": 23586,
+    "siteCount": 23593,
     "recentlyMoved": [
+        {
+            "domain_name": "www.inboxcrayon.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 09:17:00"
+        },
+        {
+            "domain_name": "www.harringtonplasticsurgery.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 09:15:23"
+        },
+        {
+            "domain_name": "burnzozobra.com",
+            "destination": "SiteGround",
+            "date": "2024-11-27 09:12:14"
+        },
+        {
+            "domain_name": "beyondbeautymed.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 08:26:05"
+        },
         {
             "domain_name": "fruitsnackstudios.com",
             "destination": "Hostinger",
@@ -467,16 +487,6 @@
             "date": "2024-11-26 18:19:56"
         },
         {
-            "domain_name": "sonicmarket.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:11:36"
-        },
-        {
-            "domain_name": "sonic-nomad.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:11:36"
-        },
-        {
             "domain_name": "craftbrewerswhiskeyproject.com",
             "destination": "Pressable",
             "date": "2024-11-26 18:05:30"
@@ -490,16 +500,6 @@
             "domain_name": "www.parkmeadowscosmeticsurgery.com",
             "destination": "Kinsta",
             "date": "2024-11-26 17:57:49"
-        },
-        {
-            "domain_name": "cioninvestments.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-26 17:40:03"
-        },
-        {
-            "domain_name": "spavelous.com",
-            "destination": "Kinsta",
-            "date": "2024-11-26 17:31:03"
         }
     ],
     "dailyMovedStat": {
@@ -572,11 +572,11 @@
         "2024-11-26": "23520"
     },
     "topDestinationHosts": {
-        "Pressable": 5999,
+        "Pressable": 6001,
         "Bluehost": 3469,
         "Digital Ocean": 1434,
-        "SiteGround": 1293,
-        "Kinsta": 1273,
+        "SiteGround": 1294,
+        "Kinsta": 1274,
         "Hostinger": 680,
         "GoDaddy": 328,
         "BigScoots": 181,
