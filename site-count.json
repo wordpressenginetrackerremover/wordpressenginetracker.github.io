@@ -1,6 +1,46 @@
 {
-    "siteCount": 23610,
+    "siteCount": 23629,
     "recentlyMoved": [
+        {
+            "domain_name": "artistic-kitchens.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 12:33:07"
+        },
+        {
+            "domain_name": "www.arkwrightconstruction.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 12:31:33"
+        },
+        {
+            "domain_name": "alabamahearing.net",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 12:23:22"
+        },
+        {
+            "domain_name": "golfrock.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 12:06:00"
+        },
+        {
+            "domain_name": "allaboutgoats.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 12:02:18"
+        },
+        {
+            "domain_name": "foreverchangedinternational.org",
+            "destination": "SiteGround",
+            "date": "2024-11-27 12:01:39"
+        },
+        {
+            "domain_name": "askanaudiologist.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 11:56:45"
+        },
+        {
+            "domain_name": "www.bayareaorthopedicsurgery.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 11:52:28"
+        },
         {
             "domain_name": "norsk-stenmiljo.se",
             "destination": "Digital Ocean",
@@ -10,6 +50,11 @@
             "domain_name": "norsk-steinmiljo.no",
             "destination": "Digital Ocean",
             "date": "2024-11-27 11:40:04"
+        },
+        {
+            "domain_name": "feliciabender.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-27 11:31:57"
         },
         {
             "domain_name": "vaultmaumee.com",
@@ -427,16 +472,6 @@
             "date": "2024-11-26 19:58:28"
         },
         {
-            "domain_name": "nourrecords.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 19:57:05"
-        },
-        {
-            "domain_name": "finejewelrybypamela.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 19:57:03"
-        },
-        {
             "domain_name": "pcunw.com",
             "destination": "Pressable",
             "date": "2024-11-26 19:51:25"
@@ -457,49 +492,14 @@
             "date": "2024-11-26 19:46:26"
         },
         {
-            "domain_name": "nicolebryansalon.com",
-            "destination": "SiteGround",
-            "date": "2024-11-26 19:43:54"
-        },
-        {
-            "domain_name": "olyweb.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 19:40:30"
-        },
-        {
-            "domain_name": "olypress.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 19:40:30"
-        },
-        {
-            "domain_name": "waterfollies.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 19:40:25"
-        },
-        {
             "domain_name": "aesteemaesthetics.com",
             "destination": "Kinsta",
             "date": "2024-11-26 19:32:20"
         },
         {
-            "domain_name": "eheap.org",
-            "destination": "Pressable",
-            "date": "2024-11-26 19:23:23"
-        },
-        {
             "domain_name": "omniarecovery.com",
             "destination": "SiteGround",
             "date": "2024-11-26 19:16:52"
-        },
-        {
-            "domain_name": "evansandiego.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:55:56"
-        },
-        {
-            "domain_name": "modalitymusic.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 18:50:14"
         }
     ],
     "dailyMovedStat": {
@@ -572,13 +572,13 @@
         "2024-11-26": "23520"
     },
     "topDestinationHosts": {
-        "Pressable": 6003,
+        "Pressable": 6004,
         "Bluehost": 3469,
-        "Digital Ocean": 1437,
-        "SiteGround": 1295,
+        "Digital Ocean": 1440,
+        "SiteGround": 1296,
         "Kinsta": 1277,
         "Hostinger": 681,
-        "GoDaddy": 328,
+        "GoDaddy": 329,
         "BigScoots": 181,
         "Elementor Hosting": 177,
         "Liquid Web": 143,
