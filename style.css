@@ -364,7 +364,7 @@ p a {
     font-size: 12px;
     font-weight: bold;
     position: absolute;
-    left: 18px;
+    left: 12px;
     bottom: calc( var(--chart-height) + var(--chart-offset ) + 12px );
 }
 
@@ -481,6 +481,10 @@ p a {
     main > section.chart {
         width: 50%;
         overflow: hidden;
+    }
+
+    .chart-container__title {
+        left: 32px;
     }
 
     .intro,
