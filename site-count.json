@@ -1,10 +1,40 @@
 {
-    "siteCount": 23578,
+    "siteCount": 23586,
     "recentlyMoved": [
+        {
+            "domain_name": "fruitsnackstudios.com",
+            "destination": "Hostinger",
+            "date": "2024-11-27 08:18:28"
+        },
+        {
+            "domain_name": "www.ae-internships.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 08:13:17"
+        },
+        {
+            "domain_name": "ovationhospice.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 08:04:01"
+        },
+        {
+            "domain_name": "outreachcrayon.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 08:01:30"
+        },
+        {
+            "domain_name": "poolsoflongview.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 07:47:37"
+        },
         {
             "domain_name": "elementct.com",
             "destination": "Kinsta",
             "date": "2024-11-27 07:11:39"
+        },
+        {
+            "domain_name": "verdensendecamping.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-27 07:06:49"
         },
         {
             "domain_name": "earthexponential.org",
@@ -462,44 +492,14 @@
             "date": "2024-11-26 17:57:49"
         },
         {
-            "domain_name": "centralfloridaeye.com",
-            "destination": "Kinsta",
-            "date": "2024-11-26 17:57:10"
-        },
-        {
-            "domain_name": "keftimeavalon.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 17:53:47"
-        },
-        {
-            "domain_name": "www.mydentfix.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-26 17:47:51"
-        },
-        {
             "domain_name": "cioninvestments.com",
             "destination": "GoDaddy",
             "date": "2024-11-26 17:40:03"
         },
         {
-            "domain_name": "www.montanowood.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-11-26 17:38:58"
-        },
-        {
-            "domain_name": "www.michaelsetzen.com",
-            "destination": "Kinsta",
-            "date": "2024-11-26 17:34:02"
-        },
-        {
             "domain_name": "spavelous.com",
             "destination": "Kinsta",
             "date": "2024-11-26 17:31:03"
-        },
-        {
-            "domain_name": "cas.olypress.com",
-            "destination": "Pressable",
-            "date": "2024-11-26 17:09:16"
         }
     ],
     "dailyMovedStat": {
@@ -572,12 +572,12 @@
         "2024-11-26": "23520"
     },
     "topDestinationHosts": {
-        "Pressable": 5997,
+        "Pressable": 5999,
         "Bluehost": 3469,
-        "Digital Ocean": 1433,
+        "Digital Ocean": 1434,
         "SiteGround": 1293,
-        "Kinsta": 1271,
-        "Hostinger": 679,
+        "Kinsta": 1273,
+        "Hostinger": 680,
         "GoDaddy": 328,
         "BigScoots": 181,
         "Elementor Hosting": 177,
