@@ -1,6 +1,36 @@
 {
-    "siteCount": 23777,
+    "siteCount": 23787,
     "recentlyMoved": [
+        {
+            "domain_name": "golfmemes.thegolfnewsnet.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 19:07:39"
+        },
+        {
+            "domain_name": "www.houseofharper.com",
+            "destination": "Hostinger",
+            "date": "2024-11-27 18:55:37"
+        },
+        {
+            "domain_name": "thegolfnewsnet.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 18:43:46"
+        },
+        {
+            "domain_name": "deals.thegolfnewsnet.com",
+            "destination": "Pressable",
+            "date": "2024-11-27 18:40:02"
+        },
+        {
+            "domain_name": "trugridpower.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-27 18:37:38"
+        },
+        {
+            "domain_name": "wythecountyanimalclinic.com",
+            "destination": "GridPane",
+            "date": "2024-11-27 18:23:41"
+        },
         {
             "domain_name": "www.phillyeyeplastics.com",
             "destination": "Kinsta",
@@ -20,6 +50,11 @@
             "domain_name": "lhcjax.com",
             "destination": "SiteGround",
             "date": "2024-11-27 18:10:50"
+        },
+        {
+            "domain_name": "www.theaddisondentist.com",
+            "destination": "Kinsta",
+            "date": "2024-11-27 18:07:28"
         },
         {
             "domain_name": "taylorhutchinsonfitness.net",
@@ -462,44 +497,9 @@
             "date": "2024-11-27 10:08:37"
         },
         {
-            "domain_name": "www.northshoredermatologycenter.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 09:54:05"
-        },
-        {
             "domain_name": "cobblersandcoffee.co.uk",
             "destination": "Hostinger",
             "date": "2024-11-27 09:48:52"
-        },
-        {
-            "domain_name": "chojax.org",
-            "destination": "SiteGround",
-            "date": "2024-11-27 09:42:17"
-        },
-        {
-            "domain_name": "www.pacificaplasticsurgery.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 09:34:43"
-        },
-        {
-            "domain_name": "www.inboxcrayon.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 09:17:00"
-        },
-        {
-            "domain_name": "www.harringtonplasticsurgery.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 09:15:23"
-        },
-        {
-            "domain_name": "burnzozobra.com",
-            "destination": "SiteGround",
-            "date": "2024-11-27 09:12:14"
-        },
-        {
-            "domain_name": "beyondbeautymed.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 08:26:05"
         }
     ],
     "dailyMovedStat": {
@@ -572,20 +572,20 @@
         "2024-11-26": "23520"
     },
     "topDestinationHosts": {
-        "Pressable": 6019,
+        "Pressable": 6022,
         "Bluehost": 3472,
         "Digital Ocean": 1449,
         "SiteGround": 1304,
-        "Kinsta": 1297,
-        "Hostinger": 690,
+        "Kinsta": 1298,
+        "Hostinger": 691,
         "GoDaddy": 332,
         "BigScoots": 189,
         "Elementor Hosting": 177,
-        "Liquid Web": 144,
+        "Liquid Web": 145,
         "Wordify": 135,
         "WordPress.com": 108,
         "InMotion Hosting": 93,
-        "GridPane": 77,
+        "GridPane": 78,
         "OVH": 71,
         "Namecheap": 60,
         "A2 Hosting": 58,
