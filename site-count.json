@@ -1,6 +1,16 @@
 {
-    "siteCount": 24229,
+    "siteCount": 24244,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sydneytravelguide.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-28 22:00:06"
+        },
+        {
+            "domain_name": "consarx.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-28 21:27:51"
+        },
         {
             "domain_name": "ignitefitness.nz",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2024-11-28 09:42:55"
         },
         {
-            "domain_name": "www.gsasa.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 09:30:48"
-        },
-        {
             "domain_name": "www.irelandwest.ie",
             "destination": "SiteGround",
             "date": "2024-11-28 09:24:15"
@@ -495,11 +500,6 @@
             "domain_name": "kadobarofficial.com",
             "destination": "Hostinger",
             "date": "2024-11-28 08:59:14"
-        },
-        {
-            "domain_name": "royalvideoproductions.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 08:55:18"
         }
     ],
     "dailyMovedStat": {
@@ -576,10 +576,10 @@
         "Pressable": 6048,
         "Bluehost": 3476,
         "Digital Ocean": 1476,
-        "Kinsta": 1348,
+        "Kinsta": 1349,
         "SiteGround": 1324,
         "Hostinger": 703,
-        "GoDaddy": 338,
+        "GoDaddy": 339,
         "BigScoots": 189,
         "Elementor Hosting": 180,
         "Liquid Web": 150,
