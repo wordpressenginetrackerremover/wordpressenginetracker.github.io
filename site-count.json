@@ -1,10 +1,35 @@
 {
-    "siteCount": 23937,
+    "siteCount": 23946,
     "recentlyMoved": [
+        {
+            "domain_name": "stbernadettesea.org",
+            "destination": "Pressable",
+            "date": "2024-11-28 06:09:41"
+        },
+        {
+            "domain_name": "www.nbs4india.org",
+            "destination": "Pressable",
+            "date": "2024-11-28 05:41:22"
+        },
+        {
+            "domain_name": "www.gridprosoftware.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 05:38:23"
+        },
+        {
+            "domain_name": "safari-logistics.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-28 05:32:16"
+        },
         {
             "domain_name": "robparkersbest.co.uk",
             "destination": "Kinsta",
             "date": "2024-11-28 05:30:09"
+        },
+        {
+            "domain_name": "www.icecreamderm.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 05:27:19"
         },
         {
             "domain_name": "belurmath.org",
@@ -472,34 +497,9 @@
             "date": "2024-11-27 15:07:32"
         },
         {
-            "domain_name": "minerscabins.com",
-            "destination": "BigScoots",
-            "date": "2024-11-27 14:55:09"
-        },
-        {
-            "domain_name": "mindwiregroup.com",
-            "destination": "BigScoots",
-            "date": "2024-11-27 14:55:09"
-        },
-        {
-            "domain_name": "drblackwelder.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 14:46:49"
-        },
-        {
             "domain_name": "elitebuildingservices.com",
             "destination": "Pressable",
             "date": "2024-11-27 14:32:25"
-        },
-        {
-            "domain_name": "tiffanycblackmon.com",
-            "destination": "BigScoots",
-            "date": "2024-11-27 14:26:32"
-        },
-        {
-            "domain_name": "dsapropertygroup.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-27 14:18:07"
         }
     ],
     "dailyMovedStat": {
@@ -573,10 +573,10 @@
         "2024-11-27": "23890"
     },
     "topDestinationHosts": {
-        "Pressable": 6030,
+        "Pressable": 6032,
         "Bluehost": 3472,
-        "Digital Ocean": 1455,
-        "Kinsta": 1313,
+        "Digital Ocean": 1456,
+        "Kinsta": 1315,
         "SiteGround": 1312,
         "Hostinger": 698,
         "GoDaddy": 333,
