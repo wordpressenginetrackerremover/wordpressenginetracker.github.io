@@ -1,6 +1,16 @@
 {
-    "siteCount": 23934,
+    "siteCount": 23937,
     "recentlyMoved": [
+        {
+            "domain_name": "robparkersbest.co.uk",
+            "destination": "Kinsta",
+            "date": "2024-11-28 05:30:09"
+        },
+        {
+            "domain_name": "belurmath.org",
+            "destination": "Hostinger",
+            "date": "2024-11-28 05:20:49"
+        },
         {
             "domain_name": "www.kristinbanta.com",
             "destination": "InMotion Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "dsapropertygroup.com",
             "destination": "GoDaddy",
             "date": "2024-11-27 14:18:07"
-        },
-        {
-            "domain_name": "melonzest.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-27 14:09:13"
-        },
-        {
-            "domain_name": "mentumm.com",
-            "destination": "BigScoots",
-            "date": "2024-11-27 14:02:40"
         }
     ],
     "dailyMovedStat": {
@@ -576,9 +576,9 @@
         "Pressable": 6030,
         "Bluehost": 3472,
         "Digital Ocean": 1455,
+        "Kinsta": 1313,
         "SiteGround": 1312,
-        "Kinsta": 1312,
-        "Hostinger": 697,
+        "Hostinger": 698,
         "GoDaddy": 333,
         "BigScoots": 189,
         "Elementor Hosting": 177,
