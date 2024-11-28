@@ -1,6 +1,21 @@
 {
-    "siteCount": 24024,
+    "siteCount": 24035,
     "recentlyMoved": [
+        {
+            "domain_name": "rhgd.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-28 13:19:30"
+        },
+        {
+            "domain_name": "www.gracelakeville.org",
+            "destination": "Kinsta",
+            "date": "2024-11-28 13:17:26"
+        },
+        {
+            "domain_name": "www.ftworthveins.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 13:06:09"
+        },
         {
             "domain_name": "www.benzin.no",
             "destination": "Elementor Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "verodental.com",
             "destination": "Kinsta",
             "date": "2024-11-27 19:40:27"
-        },
-        {
-            "domain_name": "golfmemes.thegolfnewsnet.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 19:07:39"
-        },
-        {
-            "domain_name": "deals.thegolfnewsnet.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 18:40:02"
-        },
-        {
-            "domain_name": "trugridpower.com",
-            "destination": "Liquid Web",
-            "date": "2024-11-27 18:37:38"
         }
     ],
     "dailyMovedStat": {
@@ -575,14 +575,14 @@
     "topDestinationHosts": {
         "Pressable": 6034,
         "Bluehost": 3472,
-        "Digital Ocean": 1466,
-        "Kinsta": 1326,
+        "Digital Ocean": 1467,
+        "Kinsta": 1329,
         "SiteGround": 1316,
         "Hostinger": 700,
         "GoDaddy": 333,
         "BigScoots": 189,
-        "Elementor Hosting": 177,
-        "Liquid Web": 149,
+        "Elementor Hosting": 178,
+        "Liquid Web": 150,
         "Wordify": 135,
         "WordPress.com": 109,
         "InMotion Hosting": 94,
