@@ -1,6 +1,66 @@
 {
-    "siteCount": 24003,
+    "siteCount": 24024,
     "recentlyMoved": [
+        {
+            "domain_name": "www.benzin.no",
+            "destination": "Elementor Hosting",
+            "date": "2024-11-28 12:48:52"
+        },
+        {
+            "domain_name": "www.killingbeckinsurance.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 12:34:18"
+        },
+        {
+            "domain_name": "www.austinskinandwellness.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 12:31:12"
+        },
+        {
+            "domain_name": "www.thecarrolltondentist.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 12:25:24"
+        },
+        {
+            "domain_name": "arbeidsuke.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-28 12:15:53"
+        },
+        {
+            "domain_name": "alliantchemical.com",
+            "destination": "WordPress.com",
+            "date": "2024-11-28 12:10:26"
+        },
+        {
+            "domain_name": "preferreddentistry.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-28 12:06:30"
+        },
+        {
+            "domain_name": "www.massage-therapy-blog.com",
+            "destination": "Hostinger",
+            "date": "2024-11-28 11:52:49"
+        },
+        {
+            "domain_name": "nrbtv.org",
+            "destination": "Kinsta",
+            "date": "2024-11-28 11:48:59"
+        },
+        {
+            "domain_name": "719-revivemedspa.com",
+            "destination": "Kinsta",
+            "date": "2024-11-28 11:25:43"
+        },
+        {
+            "domain_name": "flowlinecoolers.com",
+            "destination": "WordPress VIP",
+            "date": "2024-11-28 11:24:47"
+        },
+        {
+            "domain_name": "www.dcblaw.com",
+            "destination": "Liquid Web",
+            "date": "2024-11-28 11:16:05"
+        },
         {
             "domain_name": "eischachner.com",
             "destination": "Pressable",
@@ -432,16 +492,6 @@
             "date": "2024-11-27 19:07:39"
         },
         {
-            "domain_name": "www.houseofharper.com",
-            "destination": "Hostinger",
-            "date": "2024-11-27 18:55:37"
-        },
-        {
-            "domain_name": "thegolfnewsnet.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 18:43:46"
-        },
-        {
             "domain_name": "deals.thegolfnewsnet.com",
             "destination": "Pressable",
             "date": "2024-11-27 18:40:02"
@@ -450,56 +500,6 @@
             "domain_name": "trugridpower.com",
             "destination": "Liquid Web",
             "date": "2024-11-27 18:37:38"
-        },
-        {
-            "domain_name": "wythecountyanimalclinic.com",
-            "destination": "GridPane",
-            "date": "2024-11-27 18:23:41"
-        },
-        {
-            "domain_name": "www.phillyeyeplastics.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 18:17:19"
-        },
-        {
-            "domain_name": "www.shwartsfamilydentistry.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 18:14:40"
-        },
-        {
-            "domain_name": "clubhouse.thegolfnewsnet.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 18:13:35"
-        },
-        {
-            "domain_name": "lhcjax.com",
-            "destination": "SiteGround",
-            "date": "2024-11-27 18:10:50"
-        },
-        {
-            "domain_name": "www.theaddisondentist.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 18:07:28"
-        },
-        {
-            "domain_name": "taylorhutchinsonfitness.net",
-            "destination": "Hostinger",
-            "date": "2024-11-27 18:05:10"
-        },
-        {
-            "domain_name": "madronaautoworks.com",
-            "destination": "Pressable",
-            "date": "2024-11-27 18:04:33"
-        },
-        {
-            "domain_name": "www.retina.com",
-            "destination": "Kinsta",
-            "date": "2024-11-27 17:56:38"
-        },
-        {
-            "domain_name": "www.pediatric-associates.org",
-            "destination": "Kinsta",
-            "date": "2024-11-27 17:27:48"
         }
     ],
     "dailyMovedStat": {
@@ -575,16 +575,16 @@
     "topDestinationHosts": {
         "Pressable": 6034,
         "Bluehost": 3472,
-        "Digital Ocean": 1465,
-        "Kinsta": 1322,
+        "Digital Ocean": 1466,
+        "Kinsta": 1326,
         "SiteGround": 1316,
-        "Hostinger": 699,
+        "Hostinger": 700,
         "GoDaddy": 333,
         "BigScoots": 189,
         "Elementor Hosting": 177,
-        "Liquid Web": 148,
+        "Liquid Web": 149,
         "Wordify": 135,
-        "WordPress.com": 108,
+        "WordPress.com": 109,
         "InMotion Hosting": 94,
         "GridPane": 80,
         "OVH": 73,
