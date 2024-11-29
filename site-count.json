@@ -1,6 +1,46 @@
 {
-    "siteCount": 24408,
+    "siteCount": 24422,
     "recentlyMoved": [
+        {
+            "domain_name": "carrefourtheatre.qc.ca",
+            "destination": "Hostinger",
+            "date": "2024-11-29 13:28:43"
+        },
+        {
+            "domain_name": "scorpiotemplate.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 13:15:20"
+        },
+        {
+            "domain_name": "sagittariustemplate.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 13:04:36"
+        },
+        {
+            "domain_name": "samanthanardelli.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 13:03:28"
+        },
+        {
+            "domain_name": "baltimorebuiltstrengthandconditioning.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 12:50:40"
+        },
+        {
+            "domain_name": "rotherhamlife.com",
+            "destination": "OVH",
+            "date": "2024-11-29 12:43:32"
+        },
+        {
+            "domain_name": "rotherhamlife.co.uk",
+            "destination": "OVH",
+            "date": "2024-11-29 12:43:32"
+        },
+        {
+            "domain_name": "www.edmontondowntown.com",
+            "destination": "Kinsta",
+            "date": "2024-11-29 12:40:21"
+        },
         {
             "domain_name": "prochiropaoli.com",
             "destination": "Kinsta",
@@ -427,24 +467,9 @@
             "date": "2024-11-28 20:57:10"
         },
         {
-            "domain_name": "www.asthmaallergycenters.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 20:37:11"
-        },
-        {
             "domain_name": "ayacc.net",
             "destination": "Pressable",
             "date": "2024-11-28 20:28:07"
-        },
-        {
-            "domain_name": "pleasantonotb.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-28 20:18:03"
-        },
-        {
-            "domain_name": "gotoortho.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 20:16:43"
         },
         {
             "domain_name": "www.burnbootcampfranchise.com",
@@ -475,31 +500,6 @@
             "domain_name": "www.iscut.org",
             "destination": "Kinsta",
             "date": "2024-11-28 19:46:29"
-        },
-        {
-            "domain_name": "www.stovepipedeathvalley.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-28 19:46:29"
-        },
-        {
-            "domain_name": "graceproviders.cbhomecare.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-28 19:46:29"
-        },
-        {
-            "domain_name": "www.celiatombalakian.com",
-            "destination": "DreamHost",
-            "date": "2024-11-28 19:46:29"
-        },
-        {
-            "domain_name": "convergixautomation.com",
-            "destination": "Bluehost",
-            "date": "2024-11-28 19:46:29"
-        },
-        {
-            "domain_name": "www.adlerdentistry.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 19:42:32"
         }
     ],
     "dailyMovedStat": {
@@ -576,10 +576,10 @@
     "topDestinationHosts": {
         "Pressable": 6056,
         "Bluehost": 3476,
-        "Digital Ocean": 1503,
-        "Kinsta": 1369,
-        "SiteGround": 1333,
-        "Hostinger": 709,
+        "Digital Ocean": 1507,
+        "Kinsta": 1371,
+        "SiteGround": 1334,
+        "Hostinger": 710,
         "GoDaddy": 342,
         "BigScoots": 189,
         "Elementor Hosting": 181,
@@ -588,7 +588,7 @@
         "WordPress.com": 112,
         "InMotion Hosting": 96,
         "GridPane": 81,
-        "OVH": 74,
+        "OVH": 76,
         "Namecheap": 61,
         "A2 Hosting": 60,
         "Hetzner Online": 59,
