@@ -1,6 +1,36 @@
 {
-    "siteCount": 24441,
+    "siteCount": 24450,
     "recentlyMoved": [
+        {
+            "domain_name": "premierroofsct.com",
+            "destination": "Hostinger",
+            "date": "2024-11-29 16:34:04"
+        },
+        {
+            "domain_name": "premiergutterservicesct.com",
+            "destination": "Hostinger",
+            "date": "2024-11-29 16:34:04"
+        },
+        {
+            "domain_name": "worthygym.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 16:11:00"
+        },
+        {
+            "domain_name": "13stripesfitness.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 15:58:46"
+        },
+        {
+            "domain_name": "getsaltyhawaii.com",
+            "destination": "SiteGround",
+            "date": "2024-11-29 15:46:07"
+        },
+        {
+            "domain_name": "activemarketers.co",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 15:43:29"
+        },
         {
             "domain_name": "michaellouisvinci.com",
             "destination": "Digital Ocean",
@@ -470,36 +500,6 @@
             "domain_name": "bigsplashmedia.com.au",
             "destination": "Kinsta",
             "date": "2024-11-29 00:17:27"
-        },
-        {
-            "domain_name": "aleciasingermft.com",
-            "destination": "Pressable",
-            "date": "2024-11-28 23:49:33"
-        },
-        {
-            "domain_name": "floatx.com",
-            "destination": "GridPane",
-            "date": "2024-11-28 23:27:06"
-        },
-        {
-            "domain_name": "nu-rockbuildingproducts.com.au",
-            "destination": "Kinsta",
-            "date": "2024-11-28 23:18:53"
-        },
-        {
-            "domain_name": "mpsecurity.com.au",
-            "destination": "SiteGround",
-            "date": "2024-11-28 23:10:54"
-        },
-        {
-            "domain_name": "tuelane.com",
-            "destination": "Hostinger",
-            "date": "2024-11-28 22:56:18"
-        },
-        {
-            "domain_name": "midwestweavers.org",
-            "destination": "WordPress.com",
-            "date": "2024-11-28 22:20:41"
         }
     ],
     "dailyMovedStat": {
@@ -576,9 +576,9 @@
     "topDestinationHosts": {
         "Pressable": 6056,
         "Bluehost": 3476,
-        "Digital Ocean": 1513,
+        "Digital Ocean": 1516,
         "Kinsta": 1373,
-        "SiteGround": 1335,
+        "SiteGround": 1336,
         "Hostinger": 711,
         "GoDaddy": 342,
         "BigScoots": 189,
