@@ -1,6 +1,26 @@
 {
-    "siteCount": 24288,
+    "siteCount": 24297,
     "recentlyMoved": [
+        {
+            "domain_name": "www.brodnermd.com",
+            "destination": "Kinsta",
+            "date": "2024-11-29 04:16:07"
+        },
+        {
+            "domain_name": "www.artsaccess.com.au",
+            "destination": "Kinsta",
+            "date": "2024-11-29 04:06:01"
+        },
+        {
+            "domain_name": "foley.at",
+            "destination": "GoDaddy",
+            "date": "2024-11-29 03:48:11"
+        },
+        {
+            "domain_name": "vendisys.com",
+            "destination": "Hostinger",
+            "date": "2024-11-29 03:37:03"
+        },
         {
             "domain_name": "mycatholicschool.org",
             "destination": "Pressable",
@@ -472,34 +492,14 @@
             "date": "2024-11-28 12:48:52"
         },
         {
-            "domain_name": "www.killingbeckinsurance.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 12:34:18"
-        },
-        {
             "domain_name": "www.austinskinandwellness.com",
             "destination": "Kinsta",
             "date": "2024-11-28 12:31:12"
         },
         {
-            "domain_name": "www.thecarrolltondentist.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 12:25:24"
-        },
-        {
-            "domain_name": "arbeidsuke.no",
-            "destination": "Digital Ocean",
-            "date": "2024-11-28 12:15:53"
-        },
-        {
             "domain_name": "preferreddentistry.com",
             "destination": "Digital Ocean",
             "date": "2024-11-28 12:06:30"
-        },
-        {
-            "domain_name": "www.massage-therapy-blog.com",
-            "destination": "Hostinger",
-            "date": "2024-11-28 11:52:49"
         }
     ],
     "dailyMovedStat": {
@@ -577,10 +577,10 @@
         "Pressable": 6053,
         "Bluehost": 3476,
         "Digital Ocean": 1476,
-        "Kinsta": 1354,
+        "Kinsta": 1355,
         "SiteGround": 1326,
-        "Hostinger": 706,
-        "GoDaddy": 340,
+        "Hostinger": 707,
+        "GoDaddy": 341,
         "BigScoots": 189,
         "Elementor Hosting": 181,
         "Liquid Web": 150,
