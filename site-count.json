@@ -1,6 +1,26 @@
 {
-    "siteCount": 24320,
+    "siteCount": 24329,
     "recentlyMoved": [
+        {
+            "domain_name": "mattplapp.com",
+            "destination": "SiteGround",
+            "date": "2024-11-29 06:35:23"
+        },
+        {
+            "domain_name": "www.vitalbygg.no",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 05:54:57"
+        },
+        {
+            "domain_name": "crossfitmerced.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 05:49:07"
+        },
+        {
+            "domain_name": "strengthguildlifting.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-29 05:29:09"
+        },
         {
             "domain_name": "axebooker.com",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "columbinemoving.com",
             "destination": "SiteGround",
             "date": "2024-11-28 13:48:38"
-        },
-        {
-            "domain_name": "www.martinpalmer.com",
-            "destination": "Kinsta",
-            "date": "2024-11-28 13:30:47"
-        },
-        {
-            "domain_name": "katelynsfund.org",
-            "destination": "Namecheap",
-            "date": "2024-11-28 13:28:28"
-        },
-        {
-            "domain_name": "landing.sco.com",
-            "destination": "SiteGround",
-            "date": "2024-11-28 13:27:55"
-        },
-        {
-            "domain_name": "kingstonhill.org",
-            "destination": "Elementor Hosting",
-            "date": "2024-11-28 13:11:15"
         }
     ],
     "dailyMovedStat": {
@@ -576,9 +576,9 @@
     "topDestinationHosts": {
         "Pressable": 6054,
         "Bluehost": 3476,
-        "Digital Ocean": 1478,
+        "Digital Ocean": 1480,
         "Kinsta": 1356,
-        "SiteGround": 1327,
+        "SiteGround": 1328,
         "Hostinger": 708,
         "GoDaddy": 342,
         "BigScoots": 189,
