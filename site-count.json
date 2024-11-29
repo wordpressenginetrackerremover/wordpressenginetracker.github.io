@@ -1,6 +1,11 @@
 {
-    "siteCount": 24464,
+    "siteCount": 24466,
     "recentlyMoved": [
+        {
+            "domain_name": "nervousindustries.com.au",
+            "destination": "SiteGround",
+            "date": "2024-11-29 18:46:13"
+        },
         {
             "domain_name": "www.skinmdandbeyond.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "klangkulisse.at",
             "destination": "GoDaddy",
             "date": "2024-11-29 01:04:18"
-        },
-        {
-            "domain_name": "jmichaelspainting.com",
-            "destination": "Pressable",
-            "date": "2024-11-29 01:00:13"
         }
     ],
     "dailyMovedStat": {
@@ -578,7 +578,7 @@
         "Bluehost": 3476,
         "Digital Ocean": 1516,
         "Kinsta": 1374,
-        "SiteGround": 1336,
+        "SiteGround": 1337,
         "Hostinger": 716,
         "GoDaddy": 342,
         "BigScoots": 189,
