@@ -1,6 +1,11 @@
 {
-    "siteCount": 24456,
+    "siteCount": 24464,
     "recentlyMoved": [
+        {
+            "domain_name": "www.skinmdandbeyond.com",
+            "destination": "Kinsta",
+            "date": "2024-11-29 18:06:58"
+        },
         {
             "domain_name": "sherwoodlife.com",
             "destination": "OVH",
@@ -482,11 +487,6 @@
             "date": "2024-11-29 01:41:09"
         },
         {
-            "domain_name": "www.insidecasino.com",
-            "destination": "Kinsta",
-            "date": "2024-11-29 01:32:22"
-        },
-        {
             "domain_name": "chooseart.com.au",
             "destination": "Kinsta",
             "date": "2024-11-29 01:18:32"
@@ -577,7 +577,7 @@
         "Pressable": 6056,
         "Bluehost": 3476,
         "Digital Ocean": 1516,
-        "Kinsta": 1373,
+        "Kinsta": 1374,
         "SiteGround": 1336,
         "Hostinger": 716,
         "GoDaddy": 342,
