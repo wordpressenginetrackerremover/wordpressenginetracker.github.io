@@ -1,6 +1,16 @@
 {
-    "siteCount": 24704,
+    "siteCount": 24708,
     "recentlyMoved": [
+        {
+            "domain_name": "book.dumpstergentlemen.com",
+            "destination": "A2 Hosting",
+            "date": "2024-11-30 21:14:21"
+        },
+        {
+            "domain_name": "headhighcreative.com",
+            "destination": "SiteGround",
+            "date": "2024-11-30 20:34:47"
+        },
         {
             "domain_name": "wjsaudi.com",
             "destination": "OVH",
@@ -482,11 +492,6 @@
             "date": "2024-11-30 01:20:54"
         },
         {
-            "domain_name": "benchtobedside.com.au",
-            "destination": "Hostinger",
-            "date": "2024-11-30 00:53:39"
-        },
-        {
             "domain_name": "royaloakdetroitelks.com",
             "destination": "SiteGround",
             "date": "2024-11-30 00:39:05"
@@ -495,11 +500,6 @@
             "domain_name": "hpdetroitwholehomes.org",
             "destination": "Hostinger",
             "date": "2024-11-30 00:27:48"
-        },
-        {
-            "domain_name": "portovistasd.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-29 23:47:02"
         }
     ],
     "dailyMovedStat": {
@@ -579,7 +579,7 @@
         "Bluehost": 3481,
         "Digital Ocean": 1539,
         "Kinsta": 1399,
-        "SiteGround": 1348,
+        "SiteGround": 1349,
         "Hostinger": 732,
         "GoDaddy": 345,
         "BigScoots": 189,
@@ -591,8 +591,8 @@
         "GridPane": 84,
         "OVH": 84,
         "Namecheap": 62,
+        "A2 Hosting": 61,
         "Hetzner Online": 60,
-        "A2 Hosting": 60,
         "IONOS": 58,
         "Krystal Hosting": 53
     },
