@@ -1,6 +1,16 @@
 {
-    "siteCount": 24507,
+    "siteCount": 24514,
     "recentlyMoved": [
+        {
+            "domain_name": "vinson.design",
+            "destination": "GridPane",
+            "date": "2024-11-30 00:03:31"
+        },
+        {
+            "domain_name": "portovistasd.com",
+            "destination": "GoDaddy",
+            "date": "2024-11-29 23:47:02"
+        },
         {
             "domain_name": "www.towerwindowcleaning.com.au",
             "destination": "SiteGround",
@@ -487,16 +497,6 @@
             "date": "2024-11-29 04:46:55"
         },
         {
-            "domain_name": "prontocartitleloan.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 04:28:35"
-        },
-        {
-            "domain_name": "promenadetowncenter.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-29 04:28:35"
-        },
-        {
             "domain_name": "healthyquaboag.org",
             "destination": "Hostinger",
             "date": "2024-11-29 04:26:39"
@@ -581,14 +581,14 @@
         "Kinsta": 1375,
         "SiteGround": 1339,
         "Hostinger": 716,
-        "GoDaddy": 344,
+        "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
         "Liquid Web": 150,
         "Wordify": 135,
         "WordPress.com": 112,
         "InMotion Hosting": 97,
-        "GridPane": 81,
+        "GridPane": 82,
         "OVH": 78,
         "Namecheap": 62,
         "A2 Hosting": 60,
