@@ -1,6 +1,26 @@
 {
-    "siteCount": 24514,
+    "siteCount": 24519,
     "recentlyMoved": [
+        {
+            "domain_name": "kamadojoe.co.za",
+            "destination": "Digital Ocean",
+            "date": "2024-11-30 01:34:56"
+        },
+        {
+            "domain_name": "benchtobedside.com.au",
+            "destination": "Hostinger",
+            "date": "2024-11-30 00:53:39"
+        },
+        {
+            "domain_name": "royaloakdetroitelks.com",
+            "destination": "SiteGround",
+            "date": "2024-11-30 00:39:05"
+        },
+        {
+            "domain_name": "hpdetroitwholehomes.org",
+            "destination": "Hostinger",
+            "date": "2024-11-30 00:27:48"
+        },
         {
             "domain_name": "vinson.design",
             "destination": "GridPane",
@@ -480,26 +500,6 @@
             "domain_name": "crossfitmerced.com",
             "destination": "Digital Ocean",
             "date": "2024-11-29 05:49:07"
-        },
-        {
-            "domain_name": "strengthguildlifting.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 05:29:09"
-        },
-        {
-            "domain_name": "axebooker.com",
-            "destination": "SiteGround",
-            "date": "2024-11-29 04:53:33"
-        },
-        {
-            "domain_name": "battlegroundsfit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 04:46:55"
-        },
-        {
-            "domain_name": "healthyquaboag.org",
-            "destination": "Hostinger",
-            "date": "2024-11-29 04:26:39"
         }
     ],
     "dailyMovedStat": {
@@ -579,8 +579,8 @@
         "Bluehost": 3477,
         "Digital Ocean": 1518,
         "Kinsta": 1375,
-        "SiteGround": 1339,
-        "Hostinger": 716,
+        "SiteGround": 1340,
+        "Hostinger": 718,
         "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
