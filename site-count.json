@@ -1,6 +1,36 @@
 {
-    "siteCount": 24651,
+    "siteCount": 24660,
     "recentlyMoved": [
+        {
+            "domain_name": "premierlocksct.com",
+            "destination": "Hostinger",
+            "date": "2024-11-30 16:32:56"
+        },
+        {
+            "domain_name": "wcrc.eu",
+            "destination": "Hetzner Online",
+            "date": "2024-11-30 16:06:55"
+        },
+        {
+            "domain_name": "www.altoseye.com",
+            "destination": "Kinsta",
+            "date": "2024-11-30 16:05:53"
+        },
+        {
+            "domain_name": "platinumwashct.com",
+            "destination": "Hostinger",
+            "date": "2024-11-30 16:01:47"
+        },
+        {
+            "domain_name": "wjphilippines.com",
+            "destination": "OVH",
+            "date": "2024-11-30 15:41:09"
+        },
+        {
+            "domain_name": "openaccessibility.ca",
+            "destination": "OVH",
+            "date": "2024-11-30 15:28:00"
+        },
         {
             "domain_name": "mission-cure.org",
             "destination": "Pressable",
@@ -462,44 +492,14 @@
             "date": "2024-11-29 16:35:09"
         },
         {
-            "domain_name": "premierroofsct.com",
-            "destination": "Hostinger",
-            "date": "2024-11-29 16:34:04"
-        },
-        {
-            "domain_name": "premiergutterservicesct.com",
-            "destination": "Hostinger",
-            "date": "2024-11-29 16:34:04"
-        },
-        {
             "domain_name": "retfordlifemagazine.com",
             "destination": "OVH",
             "date": "2024-11-29 16:13:11"
         },
         {
-            "domain_name": "worthygym.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 16:11:00"
-        },
-        {
             "domain_name": "readerair.co.uk",
             "destination": "Hostinger",
             "date": "2024-11-29 16:09:15"
-        },
-        {
-            "domain_name": "13stripesfitness.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 15:58:46"
-        },
-        {
-            "domain_name": "getsaltyhawaii.com",
-            "destination": "SiteGround",
-            "date": "2024-11-29 15:46:07"
-        },
-        {
-            "domain_name": "activemarketers.co",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 15:43:29"
         }
     ],
     "dailyMovedStat": {
@@ -578,9 +578,9 @@
         "Pressable": 6070,
         "Bluehost": 3480,
         "Digital Ocean": 1539,
-        "Kinsta": 1390,
+        "Kinsta": 1391,
         "SiteGround": 1346,
-        "Hostinger": 726,
+        "Hostinger": 727,
         "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
@@ -589,10 +589,10 @@
         "WordPress.com": 112,
         "InMotion Hosting": 98,
         "GridPane": 83,
-        "OVH": 80,
+        "OVH": 82,
         "Namecheap": 62,
+        "Hetzner Online": 60,
         "A2 Hosting": 60,
-        "Hetzner Online": 59,
         "IONOS": 58,
         "Krystal Hosting": 53
     },
