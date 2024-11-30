@@ -1,10 +1,25 @@
 {
-    "siteCount": 24660,
+    "siteCount": 24665,
     "recentlyMoved": [
+        {
+            "domain_name": "houstonsportsmedicine.com",
+            "destination": "Bluehost",
+            "date": "2024-11-30 16:48:29"
+        },
+        {
+            "domain_name": "privatefirstclassfitness.com",
+            "destination": "Hostinger",
+            "date": "2024-11-30 16:38:31"
+        },
         {
             "domain_name": "premierlocksct.com",
             "destination": "Hostinger",
             "date": "2024-11-30 16:32:56"
+        },
+        {
+            "domain_name": "www.cifarelliinjurylaw.com",
+            "destination": "Kinsta",
+            "date": "2024-11-30 16:20:50"
         },
         {
             "domain_name": "wcrc.eu",
@@ -485,21 +500,6 @@
             "domain_name": "jmcigars.com",
             "destination": "Hostinger",
             "date": "2024-11-29 16:44:06"
-        },
-        {
-            "domain_name": "hydroturf.co.uk",
-            "destination": "Hostinger",
-            "date": "2024-11-29 16:35:09"
-        },
-        {
-            "domain_name": "retfordlifemagazine.com",
-            "destination": "OVH",
-            "date": "2024-11-29 16:13:11"
-        },
-        {
-            "domain_name": "readerair.co.uk",
-            "destination": "Hostinger",
-            "date": "2024-11-29 16:09:15"
         }
     ],
     "dailyMovedStat": {
@@ -576,11 +576,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 6070,
-        "Bluehost": 3480,
+        "Bluehost": 3481,
         "Digital Ocean": 1539,
-        "Kinsta": 1391,
+        "Kinsta": 1392,
         "SiteGround": 1346,
-        "Hostinger": 727,
+        "Hostinger": 729,
         "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
