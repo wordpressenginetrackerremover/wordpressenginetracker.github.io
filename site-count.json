@@ -1,6 +1,16 @@
 {
-    "siteCount": 24564,
+    "siteCount": 24574,
     "recentlyMoved": [
+        {
+            "domain_name": "pickleballbooker.com",
+            "destination": "SiteGround",
+            "date": "2024-11-30 08:07:03"
+        },
+        {
+            "domain_name": "omnifitnessstudio.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-30 07:26:59"
+        },
         {
             "domain_name": "triplerbaseballnj.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "lagerpark1.no",
             "destination": "Digital Ocean",
             "date": "2024-11-29 09:20:38"
-        },
-        {
-            "domain_name": "sageservicesgroup.com",
-            "destination": "Kinsta",
-            "date": "2024-11-29 09:14:17"
-        },
-        {
-            "domain_name": "sandpointstrength.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 08:46:55"
         }
     ],
     "dailyMovedStat": {
@@ -577,9 +577,9 @@
     "topDestinationHosts": {
         "Pressable": 6056,
         "Bluehost": 3478,
-        "Digital Ocean": 1530,
+        "Digital Ocean": 1531,
         "Kinsta": 1375,
-        "SiteGround": 1341,
+        "SiteGround": 1342,
         "Hostinger": 724,
         "GoDaddy": 345,
         "BigScoots": 189,
