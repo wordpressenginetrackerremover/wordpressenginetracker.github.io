@@ -1,6 +1,51 @@
 {
-    "siteCount": 24679,
+    "siteCount": 24704,
     "recentlyMoved": [
+        {
+            "domain_name": "wjsaudi.com",
+            "destination": "OVH",
+            "date": "2024-11-30 20:11:51"
+        },
+        {
+            "domain_name": "wjgl.com",
+            "destination": "OVH",
+            "date": "2024-11-30 20:11:51"
+        },
+        {
+            "domain_name": "www.williamsburgplasticsurgery.com",
+            "destination": "Kinsta",
+            "date": "2024-11-30 20:08:34"
+        },
+        {
+            "domain_name": "www.westendregenmed.com",
+            "destination": "Kinsta",
+            "date": "2024-11-30 20:08:34"
+        },
+        {
+            "domain_name": "www.rejuveneyouth.com",
+            "destination": "Kinsta",
+            "date": "2024-11-30 20:08:34"
+        },
+        {
+            "domain_name": "nepton.fi",
+            "destination": "Kinsta",
+            "date": "2024-11-30 20:08:34"
+        },
+        {
+            "domain_name": "kompetansenettverklokalmat.no",
+            "destination": "Kinsta",
+            "date": "2024-11-30 20:08:34"
+        },
+        {
+            "domain_name": "www.gmlegal.net",
+            "destination": "Liquid Web",
+            "date": "2024-11-30 20:08:34"
+        },
+        {
+            "domain_name": "northmittenevents.com",
+            "destination": "Hostinger",
+            "date": "2024-11-30 19:43:19"
+        },
         {
             "domain_name": "www.precisecreation.com",
             "destination": "Kinsta",
@@ -452,54 +497,9 @@
             "date": "2024-11-30 00:27:48"
         },
         {
-            "domain_name": "vinson.design",
-            "destination": "GridPane",
-            "date": "2024-11-30 00:03:31"
-        },
-        {
             "domain_name": "portovistasd.com",
             "destination": "GoDaddy",
             "date": "2024-11-29 23:47:02"
-        },
-        {
-            "domain_name": "www.towerwindowcleaning.com.au",
-            "destination": "SiteGround",
-            "date": "2024-11-29 22:25:50"
-        },
-        {
-            "domain_name": "ktstrading.com",
-            "destination": "DreamHost",
-            "date": "2024-11-29 21:36:27"
-        },
-        {
-            "domain_name": "sfndesign.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 20:54:39"
-        },
-        {
-            "domain_name": "eastsidefeed.com",
-            "destination": "SiteGround",
-            "date": "2024-11-29 20:18:55"
-        },
-        {
-            "domain_name": "creditlawsolutions.com",
-            "destination": "HostGator",
-            "date": "2024-11-29 20:18:55"
-        },
-        {
-            "domain_name": "www.barbadosblockchain.org",
-            "destination": "Bluehost",
-            "date": "2024-11-29 20:18:55"
-        },
-        {
-            "domain_name": "www.greatstorysound.com",
-            "destination": "GoDaddy",
-            "date": "2024-11-29 20:18:55"
-        },
-        {
-            "domain_name": "www.bodydelsolaesthetics.com",
-            "destination": "Kinsta",
-            "date": "2024-11-29 20:18:55"
         }
     ],
     "dailyMovedStat": {
@@ -578,18 +578,18 @@
         "Pressable": 6070,
         "Bluehost": 3481,
         "Digital Ocean": 1539,
-        "Kinsta": 1394,
+        "Kinsta": 1399,
         "SiteGround": 1348,
-        "Hostinger": 731,
+        "Hostinger": 732,
         "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
-        "Liquid Web": 150,
+        "Liquid Web": 151,
         "Wordify": 135,
         "WordPress.com": 112,
         "InMotion Hosting": 98,
         "GridPane": 84,
-        "OVH": 82,
+        "OVH": 84,
         "Namecheap": 62,
         "Hetzner Online": 60,
         "A2 Hosting": 60,
