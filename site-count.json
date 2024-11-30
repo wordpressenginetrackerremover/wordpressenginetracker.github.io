@@ -1,6 +1,11 @@
 {
-    "siteCount": 24600,
+    "siteCount": 24602,
     "recentlyMoved": [
+        {
+            "domain_name": "nextupsoftware.com",
+            "destination": "SiteGround",
+            "date": "2024-11-30 10:52:09"
+        },
         {
             "domain_name": "www.wearecunninglygood.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "vha4health.com",
             "destination": "Kinsta",
             "date": "2024-11-29 11:04:49"
-        },
-        {
-            "domain_name": "nikaathletics.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 11:00:39"
         }
     ],
     "dailyMovedStat": {
@@ -578,8 +578,8 @@
         "Pressable": 6056,
         "Bluehost": 3478,
         "Digital Ocean": 1536,
-        "Kinsta": 1380,
-        "SiteGround": 1343,
+        "Kinsta": 1381,
+        "SiteGround": 1344,
         "Hostinger": 724,
         "GoDaddy": 345,
         "BigScoots": 189,
