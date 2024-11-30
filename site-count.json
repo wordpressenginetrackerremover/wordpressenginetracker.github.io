@@ -1,6 +1,21 @@
 {
-    "siteCount": 24540,
+    "siteCount": 24545,
     "recentlyMoved": [
+        {
+            "domain_name": "jutecrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-11-30 05:23:14"
+        },
+        {
+            "domain_name": "kb.cellocator.com",
+            "destination": "Hostinger",
+            "date": "2024-11-30 05:15:57"
+        },
+        {
+            "domain_name": "rotherlife.com",
+            "destination": "OVH",
+            "date": "2024-11-30 04:59:05"
+        },
         {
             "domain_name": "ambitiouscharters.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "paradopower.com",
             "destination": "Digital Ocean",
             "date": "2024-11-29 07:51:20"
-        },
-        {
-            "domain_name": "oldmillfuncentre.com",
-            "destination": "SiteGround",
-            "date": "2024-11-29 07:44:58"
-        },
-        {
-            "domain_name": "30dayswithjesus.org",
-            "destination": "InMotion Hosting",
-            "date": "2024-11-29 07:08:04"
-        },
-        {
-            "domain_name": "2311communityfitness.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-29 07:04:35"
         }
     ],
     "dailyMovedStat": {
@@ -577,7 +577,7 @@
     "topDestinationHosts": {
         "Pressable": 6056,
         "Bluehost": 3478,
-        "Digital Ocean": 1521,
+        "Digital Ocean": 1522,
         "Kinsta": 1375,
         "SiteGround": 1340,
         "Hostinger": 723,
@@ -589,7 +589,7 @@
         "WordPress.com": 112,
         "InMotion Hosting": 97,
         "GridPane": 82,
-        "OVH": 78,
+        "OVH": 79,
         "Namecheap": 62,
         "A2 Hosting": 60,
         "Hetzner Online": 59,
