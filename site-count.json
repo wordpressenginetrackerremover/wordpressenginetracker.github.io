@@ -1,6 +1,16 @@
 {
-    "siteCount": 24805,
+    "siteCount": 24825,
     "recentlyMoved": [
+        {
+            "domain_name": "visitcapitolreef.com",
+            "destination": "Hostinger",
+            "date": "2024-12-01 20:04:05"
+        },
+        {
+            "domain_name": "wirelessconsultant.net",
+            "destination": "HostGator",
+            "date": "2024-12-01 19:56:58"
+        },
         {
             "domain_name": "spiritualwalkwithkara.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "www.extrememobiledetailing.com",
             "destination": "Digital Ocean",
             "date": "2024-11-30 12:35:09"
-        },
-        {
-            "domain_name": "perthglovers.co.uk",
-            "destination": "Kinsta",
-            "date": "2024-11-30 12:10:44"
-        },
-        {
-            "domain_name": "gavinloveorthopaedics.co.uk",
-            "destination": "Kinsta",
-            "date": "2024-11-30 11:51:16"
         }
     ],
     "dailyMovedStat": {
@@ -581,7 +581,7 @@
         "Digital Ocean": 1542,
         "Kinsta": 1400,
         "SiteGround": 1352,
-        "Hostinger": 735,
+        "Hostinger": 736,
         "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
