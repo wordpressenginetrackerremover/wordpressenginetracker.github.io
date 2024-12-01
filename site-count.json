@@ -1,6 +1,36 @@
 {
-    "siteCount": 24746,
+    "siteCount": 24756,
     "recentlyMoved": [
+        {
+            "domain_name": "samcontrollers.com",
+            "destination": "Pressable",
+            "date": "2024-12-01 04:22:53"
+        },
+        {
+            "domain_name": "pensacolaopera.com",
+            "destination": "Pressable",
+            "date": "2024-12-01 04:16:53"
+        },
+        {
+            "domain_name": "blueprint.trinav.us",
+            "destination": "GridPane",
+            "date": "2024-12-01 04:01:44"
+        },
+        {
+            "domain_name": "ecoguardian.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-01 04:00:47"
+        },
+        {
+            "domain_name": "www.primebarbados.com",
+            "destination": "Bluehost",
+            "date": "2024-12-01 04:00:18"
+        },
+        {
+            "domain_name": "3dfs.com",
+            "destination": "Pressable",
+            "date": "2024-12-01 03:51:31"
+        },
         {
             "domain_name": "mickelsonconstruction.com",
             "destination": "Pressable",
@@ -470,36 +500,6 @@
             "domain_name": "triplerbaseballnj.com",
             "destination": "Digital Ocean",
             "date": "2024-11-30 06:50:29"
-        },
-        {
-            "domain_name": "trianglecrossfit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-30 06:27:38"
-        },
-        {
-            "domain_name": "mapclinton.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-30 06:19:02"
-        },
-        {
-            "domain_name": "luxuryweddingshownl.com",
-            "destination": "SiteGround",
-            "date": "2024-11-30 06:10:30"
-        },
-        {
-            "domain_name": "tidalfitness.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-11-30 06:03:49"
-        },
-        {
-            "domain_name": "crossfitportcredit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-30 06:01:59"
-        },
-        {
-            "domain_name": "crossfitbytown.com",
-            "destination": "Digital Ocean",
-            "date": "2024-11-30 06:01:59"
         }
     ],
     "dailyMovedStat": {
@@ -576,9 +576,9 @@
         "2024-11-30": "24714"
     },
     "topDestinationHosts": {
-        "Pressable": 6079,
-        "Bluehost": 3482,
-        "Digital Ocean": 1540,
+        "Pressable": 6081,
+        "Bluehost": 3483,
+        "Digital Ocean": 1541,
         "Kinsta": 1400,
         "SiteGround": 1350,
         "Hostinger": 735,
@@ -589,7 +589,7 @@
         "Wordify": 135,
         "WordPress.com": 112,
         "InMotion Hosting": 98,
-        "GridPane": 84,
+        "GridPane": 85,
         "OVH": 84,
         "Namecheap": 62,
         "A2 Hosting": 61,
