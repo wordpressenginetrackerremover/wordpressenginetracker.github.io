@@ -1,6 +1,16 @@
 {
-    "siteCount": 24767,
+    "siteCount": 24770,
     "recentlyMoved": [
+        {
+            "domain_name": "broaddaylight.cc",
+            "destination": "Bluehost",
+            "date": "2024-12-01 13:25:02"
+        },
+        {
+            "domain_name": "sandcastlecontracting.com",
+            "destination": "A2 Hosting",
+            "date": "2024-12-01 12:44:40"
+        },
         {
             "domain_name": "wjgroup.org",
             "destination": "OVH",
@@ -490,16 +500,6 @@
             "domain_name": "www.hildesrenhold.no",
             "destination": "Digital Ocean",
             "date": "2024-11-30 08:40:13"
-        },
-        {
-            "domain_name": "www.digitay.scot",
-            "destination": "Kinsta",
-            "date": "2024-11-30 08:15:32"
-        },
-        {
-            "domain_name": "autoutvik.no",
-            "destination": "Digital Ocean",
-            "date": "2024-11-30 08:05:58"
         }
     ],
     "dailyMovedStat": {
@@ -577,7 +577,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 6083,
-        "Bluehost": 3483,
+        "Bluehost": 3484,
         "Digital Ocean": 1541,
         "Kinsta": 1400,
         "SiteGround": 1350,
@@ -592,7 +592,7 @@
         "OVH": 86,
         "GridPane": 85,
         "Namecheap": 62,
-        "A2 Hosting": 61,
+        "A2 Hosting": 62,
         "Hetzner Online": 60,
         "IONOS": 58,
         "Krystal Hosting": 53
