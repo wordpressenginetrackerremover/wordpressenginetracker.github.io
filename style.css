@@ -312,6 +312,7 @@ p a {
 }
 
 .recently-moved-site-destination p {
+    font-family: 'Inter', sans-serif;
     font-size: var(--font-size-small);
     color: var(--black);
     margin: 0;
