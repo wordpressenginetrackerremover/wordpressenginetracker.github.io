@@ -1,6 +1,36 @@
 {
-    "siteCount": 24901,
+    "siteCount": 24945,
     "recentlyMoved": [
+        {
+            "domain_name": "www.pediatricsboardreview.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-02 20:40:53"
+        },
+        {
+            "domain_name": "arrasservices.co.uk",
+            "destination": "IONOS",
+            "date": "2024-12-02 20:28:58"
+        },
+        {
+            "domain_name": "ryzemedspa.com",
+            "destination": "A2 Hosting",
+            "date": "2024-12-02 20:28:58"
+        },
+        {
+            "domain_name": "kantaraustralia.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-02 20:28:58"
+        },
+        {
+            "domain_name": "hopeafterhardship.com",
+            "destination": "BigScoots",
+            "date": "2024-12-02 20:28:58"
+        },
+        {
+            "domain_name": "ilmdispensary.com",
+            "destination": "Namecheap",
+            "date": "2024-12-02 20:28:58"
+        },
         {
             "domain_name": "twelfthjames.com",
             "destination": "SiteGround",
@@ -470,36 +500,6 @@
             "domain_name": "sunrisecomfortcaretc.com",
             "destination": "Hostinger",
             "date": "2024-11-30 17:41:59"
-        },
-        {
-            "domain_name": "centeredchurchnola.com",
-            "destination": "GridPane",
-            "date": "2024-11-30 17:38:54"
-        },
-        {
-            "domain_name": "www.laserandskinsurgerycenter.com",
-            "destination": "Kinsta",
-            "date": "2024-11-30 17:16:59"
-        },
-        {
-            "domain_name": "shop.mccluskeyarms.com",
-            "destination": "SiteGround",
-            "date": "2024-11-30 16:57:56"
-        },
-        {
-            "domain_name": "houstonsportsmedicine.com",
-            "destination": "Bluehost",
-            "date": "2024-11-30 16:48:29"
-        },
-        {
-            "domain_name": "privatefirstclassfitness.com",
-            "destination": "Hostinger",
-            "date": "2024-11-30 16:38:31"
-        },
-        {
-            "domain_name": "www.cifarelliinjurylaw.com",
-            "destination": "Kinsta",
-            "date": "2024-11-30 16:20:50"
         }
     ],
     "dailyMovedStat": {
@@ -579,12 +579,12 @@
     "topDestinationHosts": {
         "Pressable": 6099,
         "Bluehost": 3485,
-        "Digital Ocean": 1549,
+        "Digital Ocean": 1550,
         "Kinsta": 1403,
         "SiteGround": 1359,
         "Hostinger": 743,
-        "GoDaddy": 345,
-        "BigScoots": 190,
+        "GoDaddy": 346,
+        "BigScoots": 191,
         "Elementor Hosting": 181,
         "Liquid Web": 152,
         "Wordify": 135,
@@ -592,10 +592,10 @@
         "InMotion Hosting": 98,
         "OVH": 86,
         "GridPane": 85,
-        "Namecheap": 63,
-        "A2 Hosting": 62,
+        "Namecheap": 64,
+        "A2 Hosting": 63,
         "Hetzner Online": 60,
-        "IONOS": 58,
+        "IONOS": 59,
         "Krystal Hosting": 54
     },
     "dailyTotalStat": {
