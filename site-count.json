@@ -1,10 +1,35 @@
 {
-    "siteCount": 24945,
+    "siteCount": 24952,
     "recentlyMoved": [
+        {
+            "domain_name": "callairvantage.ca",
+            "destination": "A2 Hosting",
+            "date": "2024-12-02 21:27:14"
+        },
+        {
+            "domain_name": "joelshaw.photography",
+            "destination": "SiteGround",
+            "date": "2024-12-02 21:12:35"
+        },
+        {
+            "domain_name": "jewishinamericabook.com",
+            "destination": "Hostinger",
+            "date": "2024-12-02 20:58:56"
+        },
+        {
+            "domain_name": "hello.trinityaviationsolutions.com",
+            "destination": "GridPane",
+            "date": "2024-12-02 20:58:27"
+        },
         {
             "domain_name": "www.pediatricsboardreview.com",
             "destination": "Digital Ocean",
             "date": "2024-12-02 20:40:53"
+        },
+        {
+            "domain_name": "relationshipsuite.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-02 20:38:11"
         },
         {
             "domain_name": "arrasservices.co.uk",
@@ -475,31 +500,6 @@
             "domain_name": "www.gmlegal.net",
             "destination": "Liquid Web",
             "date": "2024-11-30 20:08:34"
-        },
-        {
-            "domain_name": "northmittenevents.com",
-            "destination": "Hostinger",
-            "date": "2024-11-30 19:43:19"
-        },
-        {
-            "domain_name": "www.precisecreation.com",
-            "destination": "Kinsta",
-            "date": "2024-11-30 18:10:43"
-        },
-        {
-            "domain_name": "kidsvisionforlifestlouis.com",
-            "destination": "Hostinger",
-            "date": "2024-11-30 17:57:16"
-        },
-        {
-            "domain_name": "liveworkwear.com",
-            "destination": "SiteGround",
-            "date": "2024-11-30 17:52:44"
-        },
-        {
-            "domain_name": "sunrisecomfortcaretc.com",
-            "destination": "Hostinger",
-            "date": "2024-11-30 17:41:59"
         }
     ],
     "dailyMovedStat": {
@@ -579,10 +579,10 @@
     "topDestinationHosts": {
         "Pressable": 6099,
         "Bluehost": 3485,
-        "Digital Ocean": 1550,
+        "Digital Ocean": 1551,
         "Kinsta": 1403,
-        "SiteGround": 1359,
-        "Hostinger": 743,
+        "SiteGround": 1360,
+        "Hostinger": 744,
         "GoDaddy": 346,
         "BigScoots": 191,
         "Elementor Hosting": 181,
@@ -590,10 +590,10 @@
         "Wordify": 135,
         "WordPress.com": 112,
         "InMotion Hosting": 98,
+        "GridPane": 86,
         "OVH": 86,
-        "GridPane": 85,
         "Namecheap": 64,
-        "A2 Hosting": 63,
+        "A2 Hosting": 64,
         "Hetzner Online": 60,
         "IONOS": 59,
         "Krystal Hosting": 54
