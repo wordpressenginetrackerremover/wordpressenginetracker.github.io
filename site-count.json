@@ -1,6 +1,11 @@
 {
-    "siteCount": 24831,
+    "siteCount": 24837,
     "recentlyMoved": [
+        {
+            "domain_name": "backcountrylandtrust.org",
+            "destination": "Bluehost",
+            "date": "2024-12-02 00:32:49"
+        },
         {
             "domain_name": "outstrip.ca",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "c7.healthcare",
             "destination": "InMotion Hosting",
             "date": "2024-11-30 12:59:56"
-        },
-        {
-            "domain_name": "www.haddowbathrooms.com",
-            "destination": "Kinsta",
-            "date": "2024-11-30 12:50:26"
         }
     ],
     "dailyMovedStat": {
@@ -578,7 +578,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 6094,
-        "Bluehost": 3484,
+        "Bluehost": 3485,
         "Digital Ocean": 1542,
         "Kinsta": 1400,
         "SiteGround": 1353,
