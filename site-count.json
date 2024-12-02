@@ -1,6 +1,11 @@
 {
-    "siteCount": 24956,
+    "siteCount": 24959,
     "recentlyMoved": [
+        {
+            "domain_name": "umisthevehicle.org",
+            "destination": "Hostinger",
+            "date": "2024-12-02 23:04:30"
+        },
         {
             "domain_name": "cloud9marketing.ca",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "nepton.fi",
             "destination": "Kinsta",
             "date": "2024-11-30 20:08:34"
-        },
-        {
-            "domain_name": "kompetansenettverklokalmat.no",
-            "destination": "Kinsta",
-            "date": "2024-11-30 20:08:34"
         }
     ],
     "dailyMovedStat": {
@@ -574,7 +574,8 @@
         "2024-11-28": "24253",
         "2024-11-29": "24507",
         "2024-11-30": "24714",
-        "2024-12-01": "24827"
+        "2024-12-01": "24827",
+        "2024-12-02": "24959"
     },
     "topDestinationHosts": {
         "Pressable": 6099,
@@ -582,7 +583,7 @@
         "Digital Ocean": 1551,
         "Kinsta": 1405,
         "SiteGround": 1360,
-        "Hostinger": 745,
+        "Hostinger": 746,
         "GoDaddy": 346,
         "BigScoots": 191,
         "Elementor Hosting": 181,
@@ -670,6 +671,7 @@
         "2024-11-28": "704773",
         "2024-11-29": "704054",
         "2024-11-30": "703389",
-        "2024-12-01": "704036"
+        "2024-12-01": "704036",
+        "2024-12-02": "702375"
     }
 }
