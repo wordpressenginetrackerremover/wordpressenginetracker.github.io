@@ -13,8 +13,9 @@ const fetchSitesData = async () => {
 
 const calculateFileSize = ( textContent ) => {
     const size = new TextEncoder().encode( textContent ).length;
-    const mbSize = Math.round( size ? size / 1024 / 1024 : 0 );
-    return mbSize;
+    const mbSize = size ? size / 1024 / 1024 : 0;
+    const mbSizeRounded = Math.round( mbSize * 10 ) / 10;
+    return mbSizeRounded;
 }
 
 const fetchSitesCount = async () => {
@@ -332,6 +333,16 @@ function initTopDestinations() {
     });
 }
 
+function initFileDownloadSize() {
+  fetch("domains.csv")
+    .then((response) => response.text())
+    .then((text) => {
+      const size = calculateFileSize(text);
+      const sizeElement = document.getElementById("download-link");
+      sizeElement.textContent = `Download CSV (${size}mb)`;
+    });
+}
+
 window.addEventListener("load", async () => {
   const sitesCount = await fetchSitesCount();
   const sitesCountElement = document.getElementById("sites-count");
@@ -342,4 +353,5 @@ document.addEventListener("DOMContentLoaded", () => {
   initRecentlyMoved();
   initChart();
   initTopDestinations();
+  initFileDownloadSize();
 }); 
