@@ -1,6 +1,21 @@
 {
-    "siteCount": 24952,
+    "siteCount": 24956,
     "recentlyMoved": [
+        {
+            "domain_name": "cloud9marketing.ca",
+            "destination": "Hostinger",
+            "date": "2024-12-02 21:56:28"
+        },
+        {
+            "domain_name": "www.sabreadhesives.com",
+            "destination": "Kinsta",
+            "date": "2024-12-02 21:53:28"
+        },
+        {
+            "domain_name": "www.spirelaw.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-02 21:40:03"
+        },
         {
             "domain_name": "callairvantage.ca",
             "destination": "A2 Hosting",
@@ -462,16 +477,6 @@
             "date": "2024-11-30 20:34:47"
         },
         {
-            "domain_name": "wjsaudi.com",
-            "destination": "OVH",
-            "date": "2024-11-30 20:11:51"
-        },
-        {
-            "domain_name": "wjgl.com",
-            "destination": "OVH",
-            "date": "2024-11-30 20:11:51"
-        },
-        {
             "domain_name": "www.williamsburgplasticsurgery.com",
             "destination": "Kinsta",
             "date": "2024-11-30 20:08:34"
@@ -494,11 +499,6 @@
         {
             "domain_name": "kompetansenettverklokalmat.no",
             "destination": "Kinsta",
-            "date": "2024-11-30 20:08:34"
-        },
-        {
-            "domain_name": "www.gmlegal.net",
-            "destination": "Liquid Web",
             "date": "2024-11-30 20:08:34"
         }
     ],
@@ -580,9 +580,9 @@
         "Pressable": 6099,
         "Bluehost": 3485,
         "Digital Ocean": 1551,
-        "Kinsta": 1403,
+        "Kinsta": 1405,
         "SiteGround": 1360,
-        "Hostinger": 744,
+        "Hostinger": 745,
         "GoDaddy": 346,
         "BigScoots": 191,
         "Elementor Hosting": 181,
