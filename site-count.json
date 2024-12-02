@@ -1,6 +1,16 @@
 {
-    "siteCount": 24827,
+    "siteCount": 24831,
     "recentlyMoved": [
+        {
+            "domain_name": "outstrip.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-01 23:54:02"
+        },
+        {
+            "domain_name": "oldphila.com",
+            "destination": "Hostinger",
+            "date": "2024-12-01 23:33:31"
+        },
         {
             "domain_name": "timbercraft.co",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "www.haddowbathrooms.com",
             "destination": "Kinsta",
             "date": "2024-11-30 12:50:26"
-        },
-        {
-            "domain_name": "www.haddow-group.com",
-            "destination": "Kinsta",
-            "date": "2024-11-30 12:50:26"
-        },
-        {
-            "domain_name": "bluguardinc.com",
-            "destination": "Pressable",
-            "date": "2024-11-30 12:36:15"
         }
     ],
     "dailyMovedStat": {
@@ -581,8 +581,8 @@
         "Bluehost": 3484,
         "Digital Ocean": 1542,
         "Kinsta": 1400,
-        "SiteGround": 1352,
-        "Hostinger": 736,
+        "SiteGround": 1353,
+        "Hostinger": 737,
         "GoDaddy": 345,
         "BigScoots": 189,
         "Elementor Hosting": 181,
