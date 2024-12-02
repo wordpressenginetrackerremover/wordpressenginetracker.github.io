@@ -1,6 +1,11 @@
 {
-    "siteCount": 24855,
+    "siteCount": 24856,
     "recentlyMoved": [
+        {
+            "domain_name": "memoriesofstruggle.info",
+            "destination": "DreamHost",
+            "date": "2024-12-02 06:21:25"
+        },
         {
             "domain_name": "carefreecovecampground.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "store.maliknd.com",
             "destination": "Pressable",
             "date": "2024-11-30 13:20:19"
-        },
-        {
-            "domain_name": "kevinsprague.com",
-            "destination": "Pressable",
-            "date": "2024-11-30 13:11:25"
         },
         {
             "domain_name": "snowtini.com",
