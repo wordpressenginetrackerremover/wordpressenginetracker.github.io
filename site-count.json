@@ -1,6 +1,11 @@
 {
-    "siteCount": 24899,
+    "siteCount": 24901,
     "recentlyMoved": [
+        {
+            "domain_name": "twelfthjames.com",
+            "destination": "SiteGround",
+            "date": "2024-12-02 19:22:14"
+        },
         {
             "domain_name": "tenderfoot.tv",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2024-11-30 16:38:31"
         },
         {
-            "domain_name": "premierlocksct.com",
-            "destination": "Hostinger",
-            "date": "2024-11-30 16:32:56"
-        },
-        {
             "domain_name": "www.cifarelliinjurylaw.com",
             "destination": "Kinsta",
             "date": "2024-11-30 16:20:50"
@@ -581,8 +581,8 @@
         "Bluehost": 3485,
         "Digital Ocean": 1549,
         "Kinsta": 1403,
-        "SiteGround": 1358,
-        "Hostinger": 742,
+        "SiteGround": 1359,
+        "Hostinger": 743,
         "GoDaddy": 345,
         "BigScoots": 190,
         "Elementor Hosting": 181,
