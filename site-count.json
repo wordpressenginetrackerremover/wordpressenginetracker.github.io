@@ -1,6 +1,11 @@
 {
-    "siteCount": 24985,
+    "siteCount": 24991,
     "recentlyMoved": [
+        {
+            "domain_name": "studio.roadbook.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-03 05:41:57"
+        },
         {
             "domain_name": "anybabycan.org",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "h2odrainagesystems.pro",
             "destination": "Hostinger",
             "date": "2024-12-01 00:23:12"
-        },
-        {
-            "domain_name": "goodguysax.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-01 00:22:27"
         }
     ],
     "dailyMovedStat": {
@@ -580,7 +580,7 @@
     "topDestinationHosts": {
         "Pressable": 6101,
         "Bluehost": 3485,
-        "Digital Ocean": 1555,
+        "Digital Ocean": 1556,
         "Kinsta": 1405,
         "SiteGround": 1363,
         "Hostinger": 747,
