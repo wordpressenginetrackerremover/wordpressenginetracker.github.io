@@ -1,6 +1,11 @@
 {
-    "siteCount": 24971,
+    "siteCount": 24976,
     "recentlyMoved": [
+        {
+            "domain_name": "mucissimo.it",
+            "destination": "Hetzner Online",
+            "date": "2024-12-03 03:04:10"
+        },
         {
             "domain_name": "indiacoolingcoalition.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "luciddreaming.studio",
             "destination": "SiteGround",
             "date": "2024-11-30 21:54:44"
-        },
-        {
-            "domain_name": "leadershiplunchclub.com",
-            "destination": "Hostinger",
-            "date": "2024-11-30 21:46:36"
         }
     ],
     "dailyMovedStat": {
@@ -595,7 +595,7 @@
         "OVH": 86,
         "Namecheap": 64,
         "A2 Hosting": 64,
-        "Hetzner Online": 60,
+        "Hetzner Online": 61,
         "IONOS": 59,
         "Krystal Hosting": 54
     },
