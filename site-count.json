@@ -1,6 +1,16 @@
 {
-    "siteCount": 25261,
+    "siteCount": 25264,
     "recentlyMoved": [
+        {
+            "domain_name": "trendymommies.com",
+            "destination": "Kinsta",
+            "date": "2024-12-03 23:06:12"
+        },
+        {
+            "domain_name": "miraclelanesoftoledo.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-03 22:54:01"
+        },
         {
             "domain_name": "tammyp.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.the-jab-lab.com",
             "destination": "Kinsta",
             "date": "2024-12-03 10:24:36"
-        },
-        {
-            "domain_name": "www.sevenbendshealth.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 10:11:45"
-        },
-        {
-            "domain_name": "tahvoset.fi",
-            "destination": "Hetzner Online",
-            "date": "2024-12-03 09:37:12"
         }
     ],
     "dailyMovedStat": {
@@ -575,13 +575,14 @@
         "2024-11-29": "24507",
         "2024-11-30": "24714",
         "2024-12-01": "24827",
-        "2024-12-02": "24959"
+        "2024-12-02": "24959",
+        "2024-12-03": "25264"
     },
     "topDestinationHosts": {
         "Pressable": 6113,
         "Bluehost": 3488,
-        "Digital Ocean": 1569,
-        "Kinsta": 1434,
+        "Digital Ocean": 1570,
+        "Kinsta": 1435,
         "SiteGround": 1382,
         "Hostinger": 755,
         "GoDaddy": 352,
@@ -672,6 +673,7 @@
         "2024-11-29": "704054",
         "2024-11-30": "703389",
         "2024-12-01": "704036",
-        "2024-12-02": "702375"
+        "2024-12-02": "702375",
+        "2024-12-03": "701792"
     }
 }
