@@ -1,15 +1,55 @@
 {
-    "siteCount": 25241,
+    "siteCount": 25261,
     "recentlyMoved": [
+        {
+            "domain_name": "tammyp.com",
+            "destination": "SiteGround",
+            "date": "2024-12-03 22:28:41"
+        },
+        {
+            "domain_name": "www.quicksheen.com",
+            "destination": "SiteGround",
+            "date": "2024-12-03 22:07:06"
+        },
+        {
+            "domain_name": "ketiwellness.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-03 21:49:23"
+        },
         {
             "domain_name": "www.mbcokinawa.net",
             "destination": "BigScoots",
             "date": "2024-12-03 21:49:11"
         },
         {
+            "domain_name": "larueco.com",
+            "destination": "Kinsta",
+            "date": "2024-12-03 21:44:31"
+        },
+        {
+            "domain_name": "collaborativeco.com",
+            "destination": "Kinsta",
+            "date": "2024-12-03 21:28:43"
+        },
+        {
+            "domain_name": "www.offmadisonave.com",
+            "destination": "BigScoots",
+            "date": "2024-12-03 21:26:12"
+        },
+        {
+            "domain_name": "spalaposada.com",
+            "destination": "Pressable",
+            "date": "2024-12-03 21:22:49"
+        },
+        {
             "domain_name": "savannahriverjunkremoval.com",
             "destination": "Kinsta",
             "date": "2024-12-03 21:08:19"
+        },
+        {
+            "domain_name": "chazkeinu.org",
+            "destination": "SiteGround",
+            "date": "2024-12-03 21:00:19"
         },
         {
             "domain_name": "canalcoffeecompany.com",
@@ -452,16 +492,6 @@
             "date": "2024-12-03 10:24:36"
         },
         {
-            "domain_name": "www.prettylittleliesaesthetics.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 10:13:17"
-        },
-        {
-            "domain_name": "www.randwdental.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 10:13:15"
-        },
-        {
             "domain_name": "www.sevenbendshealth.com",
             "destination": "Kinsta",
             "date": "2024-12-03 10:11:45"
@@ -470,36 +500,6 @@
             "domain_name": "tahvoset.fi",
             "destination": "Hetzner Online",
             "date": "2024-12-03 09:37:12"
-        },
-        {
-            "domain_name": "rigsbysburgers.com",
-            "destination": "Pressable",
-            "date": "2024-12-03 09:13:45"
-        },
-        {
-            "domain_name": "reqfast.com",
-            "destination": "Pressable",
-            "date": "2024-12-03 09:02:18"
-        },
-        {
-            "domain_name": "roaminginterest.com",
-            "destination": "Bluehost",
-            "date": "2024-12-03 08:50:53"
-        },
-        {
-            "domain_name": "www.druglitigationlawfirm.com",
-            "destination": "Hostinger",
-            "date": "2024-12-03 08:45:22"
-        },
-        {
-            "domain_name": "wjqatar.com",
-            "destination": "OVH",
-            "date": "2024-12-03 08:03:54"
-        },
-        {
-            "domain_name": "www.columbariumusa.com",
-            "destination": "HostGator",
-            "date": "2024-12-03 07:54:36"
         }
     ],
     "dailyMovedStat": {
@@ -578,14 +578,14 @@
         "2024-12-02": "24959"
     },
     "topDestinationHosts": {
-        "Pressable": 6112,
+        "Pressable": 6113,
         "Bluehost": 3488,
         "Digital Ocean": 1569,
-        "Kinsta": 1431,
-        "SiteGround": 1379,
+        "Kinsta": 1434,
+        "SiteGround": 1382,
         "Hostinger": 755,
-        "GoDaddy": 351,
-        "BigScoots": 197,
+        "GoDaddy": 352,
+        "BigScoots": 199,
         "Elementor Hosting": 181,
         "Liquid Web": 154,
         "Wordify": 135,
