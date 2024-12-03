@@ -1,10 +1,15 @@
 {
-    "siteCount": 24967,
+    "siteCount": 24971,
     "recentlyMoved": [
         {
             "domain_name": "indiacoolingcoalition.org",
             "destination": "Pressable",
             "date": "2024-12-03 01:08:32"
+        },
+        {
+            "domain_name": "www.myomnirealty.com",
+            "destination": "Pressable",
+            "date": "2024-12-03 01:05:49"
         },
         {
             "domain_name": "highstrange.com",
@@ -495,11 +500,6 @@
             "domain_name": "leadershiplunchclub.com",
             "destination": "Hostinger",
             "date": "2024-11-30 21:46:36"
-        },
-        {
-            "domain_name": "www.lifewestrugby.com",
-            "destination": "Kinsta",
-            "date": "2024-11-30 21:16:47"
         }
     ],
     "dailyMovedStat": {
@@ -578,7 +578,7 @@
         "2024-12-02": "24959"
     },
     "topDestinationHosts": {
-        "Pressable": 6100,
+        "Pressable": 6101,
         "Bluehost": 3485,
         "Digital Ocean": 1554,
         "Kinsta": 1405,
