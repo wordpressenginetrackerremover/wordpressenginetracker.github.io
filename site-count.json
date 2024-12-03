@@ -1,6 +1,21 @@
 {
-    "siteCount": 24976,
+    "siteCount": 24982,
     "recentlyMoved": [
+        {
+            "domain_name": "anybabycan.org",
+            "destination": "SiteGround",
+            "date": "2024-12-03 04:17:00"
+        },
+        {
+            "domain_name": "withcottmed.com.au",
+            "destination": "Hostinger",
+            "date": "2024-12-03 04:15:37"
+        },
+        {
+            "domain_name": "www.borge-borge.no",
+            "destination": "Digital Ocean",
+            "date": "2024-12-03 04:06:17"
+        },
         {
             "domain_name": "mucissimo.it",
             "destination": "Hetzner Online",
@@ -485,21 +500,6 @@
             "domain_name": "goodguysax.com",
             "destination": "Digital Ocean",
             "date": "2024-12-01 00:22:27"
-        },
-        {
-            "domain_name": "pensacolamardigras.com",
-            "destination": "Pressable",
-            "date": "2024-11-30 23:45:01"
-        },
-        {
-            "domain_name": "ajmugs.com",
-            "destination": "Pressable",
-            "date": "2024-11-30 23:26:53"
-        },
-        {
-            "domain_name": "luciddreaming.studio",
-            "destination": "SiteGround",
-            "date": "2024-11-30 21:54:44"
         }
     ],
     "dailyMovedStat": {
@@ -582,8 +582,8 @@
         "Bluehost": 3485,
         "Digital Ocean": 1554,
         "Kinsta": 1405,
-        "SiteGround": 1362,
-        "Hostinger": 746,
+        "SiteGround": 1363,
+        "Hostinger": 747,
         "GoDaddy": 346,
         "BigScoots": 191,
         "Elementor Hosting": 181,
