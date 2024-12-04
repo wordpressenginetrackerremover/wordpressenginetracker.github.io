@@ -1,6 +1,71 @@
 {
-    "siteCount": 25508,
+    "siteCount": 25560,
     "recentlyMoved": [
+        {
+            "domain_name": "www.zizania.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-04 20:27:32"
+        },
+        {
+            "domain_name": "www.sculptdentalspa.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-04 20:27:32"
+        },
+        {
+            "domain_name": "atenterprises.ca",
+            "destination": "DreamHost",
+            "date": "2024-12-04 20:26:01"
+        },
+        {
+            "domain_name": "franklin.maristoneseniorliving.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-04 20:17:37"
+        },
+        {
+            "domain_name": "gregbrownortho.com",
+            "destination": "Pressable",
+            "date": "2024-12-04 20:13:27"
+        },
+        {
+            "domain_name": "adamsnwfishing.com",
+            "destination": "Pressable",
+            "date": "2024-12-04 19:52:23"
+        },
+        {
+            "domain_name": "afmacdonaldcounseling.com",
+            "destination": "SiteGround",
+            "date": "2024-12-04 19:51:21"
+        },
+        {
+            "domain_name": "apptekstucco.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 19:50:27"
+        },
+        {
+            "domain_name": "wtfmarketing.com",
+            "destination": "Pressable",
+            "date": "2024-12-04 19:35:24"
+        },
+        {
+            "domain_name": "gardengeekslandscaping.com",
+            "destination": "Pressable",
+            "date": "2024-12-04 19:32:28"
+        },
+        {
+            "domain_name": "galeriaslaestrella.com",
+            "destination": "Pressable",
+            "date": "2024-12-04 19:32:28"
+        },
+        {
+            "domain_name": "719veteranshometeam.com",
+            "destination": "SiteGround",
+            "date": "2024-12-04 19:25:03"
+        },
+        {
+            "domain_name": "wattsvideos.com",
+            "destination": "BigScoots",
+            "date": "2024-12-04 19:19:29"
+        },
         {
             "domain_name": "nelsons-barbershop.com",
             "destination": "SiteGround",
@@ -432,74 +497,9 @@
             "date": "2024-12-04 08:21:21"
         },
         {
-            "domain_name": "watsonjunkremoval.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 08:09:06"
-        },
-        {
-            "domain_name": "westcoastjunk.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 08:08:11"
-        },
-        {
-            "domain_name": "woodlandspresbyterianhsv.org",
-            "destination": "HostGator",
-            "date": "2024-12-04 08:04:07"
-        },
-        {
             "domain_name": "harrybingham.com",
             "destination": "Pressable",
             "date": "2024-12-04 07:54:47"
-        },
-        {
-            "domain_name": "alchemiststudios.co.uk",
-            "destination": "Hostinger",
-            "date": "2024-12-04 07:54:36"
-        },
-        {
-            "domain_name": "faithpresaustin.org",
-            "destination": "SiteGround",
-            "date": "2024-12-04 07:47:31"
-        },
-        {
-            "domain_name": "graham4jesus.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-04 07:46:10"
-        },
-        {
-            "domain_name": "vangonewyork.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 07:18:54"
-        },
-        {
-            "domain_name": "nmetc.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 07:02:36"
-        },
-        {
-            "domain_name": "thejunkrehab.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 06:45:10"
-        },
-        {
-            "domain_name": "clarifiedaccounting.ca",
-            "destination": "SiteGround",
-            "date": "2024-12-04 05:39:35"
-        },
-        {
-            "domain_name": "kristyleehanson.com",
-            "destination": "Bluehost",
-            "date": "2024-12-04 05:26:40"
-        },
-        {
-            "domain_name": "careersatvehikit.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 05:21:17"
-        },
-        {
-            "domain_name": "www.meninblackremovals.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-04 05:15:39"
         }
     ],
     "dailyMovedStat": {
@@ -579,14 +579,14 @@
         "2024-12-03": "25264"
     },
     "topDestinationHosts": {
-        "Pressable": 6124,
+        "Pressable": 6129,
         "Bluehost": 3490,
         "Digital Ocean": 1590,
-        "Kinsta": 1463,
-        "SiteGround": 1402,
+        "Kinsta": 1464,
+        "SiteGround": 1404,
         "Hostinger": 771,
-        "GoDaddy": 354,
-        "BigScoots": 199,
+        "GoDaddy": 355,
+        "BigScoots": 200,
         "Elementor Hosting": 181,
         "Liquid Web": 158,
         "Wordify": 136,
