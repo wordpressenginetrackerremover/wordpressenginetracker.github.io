@@ -1,6 +1,21 @@
 {
-    "siteCount": 25300,
+    "siteCount": 25307,
     "recentlyMoved": [
+        {
+            "domain_name": "careersatvehikit.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 05:21:17"
+        },
+        {
+            "domain_name": "bridgenl.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-04 05:20:13"
+        },
+        {
+            "domain_name": "robingerrard.com",
+            "destination": "HostGator",
+            "date": "2024-12-04 05:14:24"
+        },
         {
             "domain_name": "pinx.ch",
             "destination": "Digital Ocean",
@@ -10,6 +25,11 @@
             "domain_name": "account.themeboy.com",
             "destination": "SiteGround",
             "date": "2024-12-04 04:06:22"
+        },
+        {
+            "domain_name": "hccaac.org",
+            "destination": "Digital Ocean",
+            "date": "2024-12-04 04:02:25"
         },
         {
             "domain_name": "fixresto.com",
@@ -480,26 +500,6 @@
             "domain_name": "skomvar.no",
             "destination": "Digital Ocean",
             "date": "2024-12-03 12:58:22"
-        },
-        {
-            "domain_name": "www.farrellmd.net",
-            "destination": "Kinsta",
-            "date": "2024-12-03 12:55:30"
-        },
-        {
-            "domain_name": "bieganowskilaw.com",
-            "destination": "Hostinger",
-            "date": "2024-12-03 12:40:40"
-        },
-        {
-            "domain_name": "haargrossisten.no",
-            "destination": "Digital Ocean",
-            "date": "2024-12-03 12:16:31"
-        },
-        {
-            "domain_name": "www.bridgewateravon.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 11:53:18"
         }
     ],
     "dailyMovedStat": {
@@ -581,9 +581,9 @@
     "topDestinationHosts": {
         "Pressable": 6115,
         "Bluehost": 3488,
-        "Digital Ocean": 1573,
-        "Kinsta": 1435,
-        "SiteGround": 1384,
+        "Digital Ocean": 1574,
+        "Kinsta": 1436,
+        "SiteGround": 1385,
         "Hostinger": 759,
         "GoDaddy": 352,
         "BigScoots": 199,
