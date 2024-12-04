@@ -1,6 +1,16 @@
 {
-    "siteCount": 25273,
+    "siteCount": 25278,
     "recentlyMoved": [
+        {
+            "domain_name": "sci-chem.com",
+            "destination": "Hostinger",
+            "date": "2024-12-04 01:22:49"
+        },
+        {
+            "domain_name": "blog.wedsites.com",
+            "destination": "SiteGround",
+            "date": "2024-12-04 00:47:54"
+        },
         {
             "domain_name": "groundwork.space",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "fastframe.com",
             "destination": "Hostinger",
             "date": "2024-12-03 11:34:31"
-        },
-        {
-            "domain_name": "metrixdata360.com",
-            "destination": "Bluehost",
-            "date": "2024-12-03 10:39:48"
-        },
-        {
-            "domain_name": "mountainlakemarina.com",
-            "destination": "Pressable",
-            "date": "2024-12-03 10:29:10"
         }
     ],
     "dailyMovedStat": {
@@ -583,8 +583,8 @@
         "Bluehost": 3488,
         "Digital Ocean": 1571,
         "Kinsta": 1435,
-        "SiteGround": 1382,
-        "Hostinger": 756,
+        "SiteGround": 1383,
+        "Hostinger": 757,
         "GoDaddy": 352,
         "BigScoots": 199,
         "Elementor Hosting": 181,
