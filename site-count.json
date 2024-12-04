@@ -1,6 +1,16 @@
 {
-    "siteCount": 25315,
+    "siteCount": 25321,
     "recentlyMoved": [
+        {
+            "domain_name": "vangonewyork.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 07:18:54"
+        },
+        {
+            "domain_name": "nmetc.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 07:02:36"
+        },
         {
             "domain_name": "thejunkrehab.com",
             "destination": "Kinsta",
@@ -482,11 +492,6 @@
             "date": "2024-12-03 13:46:12"
         },
         {
-            "domain_name": "kingsleydda.com",
-            "destination": "Hostinger",
-            "date": "2024-12-03 13:42:48"
-        },
-        {
             "domain_name": "love.wedsites.com",
             "destination": "SiteGround",
             "date": "2024-12-03 13:38:22"
@@ -495,11 +500,6 @@
             "domain_name": "www.revalla.com",
             "destination": "Kinsta",
             "date": "2024-12-03 13:26:38"
-        },
-        {
-            "domain_name": "soccerasylum.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 13:09:08"
         }
     ],
     "dailyMovedStat": {
@@ -582,7 +582,7 @@
         "Pressable": 6115,
         "Bluehost": 3489,
         "Digital Ocean": 1574,
-        "Kinsta": 1437,
+        "Kinsta": 1440,
         "SiteGround": 1386,
         "Hostinger": 759,
         "GoDaddy": 352,
