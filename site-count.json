@@ -1,6 +1,36 @@
 {
-    "siteCount": 25394,
+    "siteCount": 25420,
     "recentlyMoved": [
+        {
+            "domain_name": "shorelinecamps.org",
+            "destination": "Digital Ocean",
+            "date": "2024-12-04 13:40:24"
+        },
+        {
+            "domain_name": "carolinahearingdoctors.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-04 13:11:51"
+        },
+        {
+            "domain_name": "julianospoolssc.com",
+            "destination": "Hostinger",
+            "date": "2024-12-04 13:10:23"
+        },
+        {
+            "domain_name": "sbgc.org",
+            "destination": "Hostinger",
+            "date": "2024-12-04 12:54:32"
+        },
+        {
+            "domain_name": "www.lechienfumant.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-04 12:53:42"
+        },
+        {
+            "domain_name": "banditk9training.com",
+            "destination": "Hostinger",
+            "date": "2024-12-04 12:45:49"
+        },
         {
             "domain_name": "prolotherapynow.com",
             "destination": "Kinsta",
@@ -15,6 +45,31 @@
             "domain_name": "goldenstatecrossfit.com",
             "destination": "Digital Ocean",
             "date": "2024-12-04 12:36:23"
+        },
+        {
+            "domain_name": "rotarycfd.org",
+            "destination": "Wordify",
+            "date": "2024-12-04 12:35:47"
+        },
+        {
+            "domain_name": "inlandnaturalmedicine.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 12:35:14"
+        },
+        {
+            "domain_name": "injurylawyersconnect.com",
+            "destination": "Pressable",
+            "date": "2024-12-04 12:35:14"
+        },
+        {
+            "domain_name": "bestdentalimplantshouston.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-04 12:33:31"
+        },
+        {
+            "domain_name": "heavensbeststafford.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-04 12:23:55"
         },
         {
             "domain_name": "www.themaxchallenge.com",
@@ -432,11 +487,6 @@
             "date": "2024-12-03 19:52:21"
         },
         {
-            "domain_name": "musicandthespokenword.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 19:41:41"
-        },
-        {
             "domain_name": "nthzone.com",
             "destination": "Kinsta",
             "date": "2024-12-03 19:35:06"
@@ -450,56 +500,6 @@
             "domain_name": "foundedinfoco.com",
             "destination": "Pressable",
             "date": "2024-12-03 19:21:18"
-        },
-        {
-            "domain_name": "www.yesimprovement.com",
-            "destination": "Hostinger",
-            "date": "2024-12-03 19:15:17"
-        },
-        {
-            "domain_name": "therestorenetwork.org",
-            "destination": "Kinsta",
-            "date": "2024-12-03 19:07:13"
-        },
-        {
-            "domain_name": "lugaway.com",
-            "destination": "Kinsta",
-            "date": "2024-12-03 18:47:20"
-        },
-        {
-            "domain_name": "dayjardins.co",
-            "destination": "Digital Ocean",
-            "date": "2024-12-03 18:45:20"
-        },
-        {
-            "domain_name": "themissouritimes.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-03 18:35:00"
-        },
-        {
-            "domain_name": "lovebytheounce.com",
-            "destination": "Hostinger",
-            "date": "2024-12-03 18:27:58"
-        },
-        {
-            "domain_name": "civil-rights.law",
-            "destination": "WordPress.com",
-            "date": "2024-12-03 18:19:32"
-        },
-        {
-            "domain_name": "lifestylehealthservices.com",
-            "destination": "DreamHost",
-            "date": "2024-12-03 18:06:23"
-        },
-        {
-            "domain_name": "stephanieerdel.com",
-            "destination": "SiteGround",
-            "date": "2024-12-03 17:57:50"
-        },
-        {
-            "domain_name": "lcecmadison.org",
-            "destination": "SiteGround",
-            "date": "2024-12-03 17:52:52"
         }
     ],
     "dailyMovedStat": {
@@ -579,17 +579,17 @@
         "2024-12-03": "25264"
     },
     "topDestinationHosts": {
-        "Pressable": 6116,
+        "Pressable": 6117,
         "Bluehost": 3490,
-        "Digital Ocean": 1578,
-        "Kinsta": 1452,
+        "Digital Ocean": 1581,
+        "Kinsta": 1454,
         "SiteGround": 1393,
-        "Hostinger": 763,
+        "Hostinger": 765,
         "GoDaddy": 352,
         "BigScoots": 199,
         "Elementor Hosting": 181,
-        "Liquid Web": 155,
-        "Wordify": 135,
+        "Liquid Web": 156,
+        "Wordify": 136,
         "WordPress.com": 114,
         "InMotion Hosting": 101,
         "OVH": 88,
