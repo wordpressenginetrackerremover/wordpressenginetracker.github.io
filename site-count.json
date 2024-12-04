@@ -1,6 +1,21 @@
 {
-    "siteCount": 25369,
+    "siteCount": 25375,
     "recentlyMoved": [
+        {
+            "domain_name": "elijahstreams.com",
+            "destination": "IONOS",
+            "date": "2024-12-04 11:07:23"
+        },
+        {
+            "domain_name": "topjunkremovers.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 10:58:27"
+        },
+        {
+            "domain_name": "tjscleanoutservices.com",
+            "destination": "Kinsta",
+            "date": "2024-12-04 10:37:00"
+        },
         {
             "domain_name": "martinezcardiologypa.com",
             "destination": "InMotion Hosting",
@@ -482,24 +497,9 @@
             "date": "2024-12-03 16:31:34"
         },
         {
-            "domain_name": "healingbrokenhearts.org",
-            "destination": "WordPress.com",
-            "date": "2024-12-03 16:30:15"
-        },
-        {
             "domain_name": "honorscollege.uncg.edu",
             "destination": "Pressable",
             "date": "2024-12-03 16:25:45"
-        },
-        {
-            "domain_name": "hardinge.com",
-            "destination": "Pressable",
-            "date": "2024-12-03 16:12:35"
-        },
-        {
-            "domain_name": "babybluekennels.net",
-            "destination": "SiteGround",
-            "date": "2024-12-03 16:10:54"
         }
     ],
     "dailyMovedStat": {
@@ -582,7 +582,7 @@
         "Pressable": 6116,
         "Bluehost": 3490,
         "Digital Ocean": 1575,
-        "Kinsta": 1450,
+        "Kinsta": 1452,
         "SiteGround": 1391,
         "Hostinger": 761,
         "GoDaddy": 352,
@@ -597,7 +597,7 @@
         "A2 Hosting": 67,
         "Namecheap": 64,
         "Hetzner Online": 62,
-        "IONOS": 59,
+        "IONOS": 60,
         "Krystal Hosting": 54
     },
     "dailyTotalStat": {
