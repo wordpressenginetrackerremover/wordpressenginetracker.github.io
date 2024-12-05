@@ -1,6 +1,46 @@
 {
-    "siteCount": 25698,
+    "siteCount": 25710,
     "recentlyMoved": [
+        {
+            "domain_name": "pivotalgroup.com",
+            "destination": "BigScoots",
+            "date": "2024-12-05 12:36:26"
+        },
+        {
+            "domain_name": "admin.cloudcemeteries.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 12:06:55"
+        },
+        {
+            "domain_name": "adlmedia.co.uk",
+            "destination": "SiteGround",
+            "date": "2024-12-05 12:01:43"
+        },
+        {
+            "domain_name": "primeusascales.com",
+            "destination": "Kinsta",
+            "date": "2024-12-05 11:52:56"
+        },
+        {
+            "domain_name": "atlmobileaesthetics.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-05 11:51:20"
+        },
+        {
+            "domain_name": "www.abariorthodontics.com",
+            "destination": "Kinsta",
+            "date": "2024-12-05 11:45:51"
+        },
+        {
+            "domain_name": "flackstock.com",
+            "destination": "SiteGround",
+            "date": "2024-12-05 11:25:12"
+        },
+        {
+            "domain_name": "208snacks.com",
+            "destination": "SiteGround",
+            "date": "2024-12-05 11:19:36"
+        },
         {
             "domain_name": "twentyfoursevenblac.com",
             "destination": "Kinsta",
@@ -460,46 +500,6 @@
             "domain_name": "lateralaction.com",
             "destination": "SiteGround",
             "date": "2024-12-04 17:13:27"
-        },
-        {
-            "domain_name": "riverwalkphiladelphia.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-04 16:45:27"
-        },
-        {
-            "domain_name": "protectkidsonline.us",
-            "destination": "Kinsta",
-            "date": "2024-12-04 16:33:38"
-        },
-        {
-            "domain_name": "balconimonuments.com",
-            "destination": "SiteGround",
-            "date": "2024-12-04 16:29:15"
-        },
-        {
-            "domain_name": "raleighelectriccompany.com",
-            "destination": "SiteGround",
-            "date": "2024-12-04 16:22:48"
-        },
-        {
-            "domain_name": "positivemediahawaii.com",
-            "destination": "Hostinger",
-            "date": "2024-12-04 16:05:13"
-        },
-        {
-            "domain_name": "poseidonsigma.com",
-            "destination": "Pressable",
-            "date": "2024-12-04 16:05:13"
-        },
-        {
-            "domain_name": "workwealthandtravel.com",
-            "destination": "Namecheap",
-            "date": "2024-12-04 15:42:32"
-        },
-        {
-            "domain_name": "aiwasi-cdp.wricitiesindia.org",
-            "destination": "Pressable",
-            "date": "2024-12-04 15:30:38"
         }
     ],
     "dailyMovedStat": {
@@ -583,11 +583,11 @@
         "Pressable": 6131,
         "Bluehost": 3493,
         "Digital Ocean": 1598,
-        "Kinsta": 1477,
-        "SiteGround": 1414,
-        "Hostinger": 779,
+        "Kinsta": 1478,
+        "SiteGround": 1417,
+        "Hostinger": 780,
         "GoDaddy": 360,
-        "BigScoots": 206,
+        "BigScoots": 207,
         "Elementor Hosting": 181,
         "Liquid Web": 159,
         "Wordify": 136,
