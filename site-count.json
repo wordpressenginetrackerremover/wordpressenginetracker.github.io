@@ -1,6 +1,11 @@
 {
-    "siteCount": 25616,
+    "siteCount": 25621,
     "recentlyMoved": [
+        {
+            "domain_name": "twinsprucellc.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 02:40:58"
+        },
         {
             "domain_name": "caseylewis.com",
             "destination": "SiteGround",
@@ -462,11 +467,6 @@
             "date": "2024-12-04 12:42:55"
         },
         {
-            "domain_name": "goldenstatecrossfit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-04 12:36:23"
-        },
-        {
             "domain_name": "rotarycfd.org",
             "destination": "Wordify",
             "date": "2024-12-04 12:35:47"
@@ -585,7 +585,7 @@
         "Digital Ocean": 1592,
         "Kinsta": 1470,
         "SiteGround": 1409,
-        "Hostinger": 773,
+        "Hostinger": 774,
         "GoDaddy": 357,
         "BigScoots": 202,
         "Elementor Hosting": 181,
