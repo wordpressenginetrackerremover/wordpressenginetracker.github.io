@@ -1,10 +1,95 @@
 {
-    "siteCount": 25821,
+    "siteCount": 25849,
     "recentlyMoved": [
+        {
+            "domain_name": "taptech.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-05 18:18:46"
+        },
+        {
+            "domain_name": "listdefender.com",
+            "destination": "BigScoots",
+            "date": "2024-12-05 18:15:43"
+        },
+        {
+            "domain_name": "sunstreamboatlifts.com",
+            "destination": "BigScoots",
+            "date": "2024-12-05 18:13:22"
+        },
+        {
+            "domain_name": "masshiremsw.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-05 18:06:31"
+        },
+        {
+            "domain_name": "lobmarketing.com",
+            "destination": "WordPress.com",
+            "date": "2024-12-05 17:55:42"
+        },
+        {
+            "domain_name": "www.theplanodentist.com",
+            "destination": "Kinsta",
+            "date": "2024-12-05 17:52:52"
+        },
+        {
+            "domain_name": "clggeorgia.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-05 17:51:53"
+        },
+        {
+            "domain_name": "www.prenticefp.com",
+            "destination": "Pressable",
+            "date": "2024-12-05 17:51:06"
+        },
+        {
+            "domain_name": "circlepreceptionhall.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-12-05 17:48:08"
+        },
+        {
+            "domain_name": "www.sixthdivision.com",
+            "destination": "BigScoots",
+            "date": "2024-12-05 17:40:24"
+        },
+        {
+            "domain_name": "www.seatoskyit.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 17:40:19"
+        },
+        {
+            "domain_name": "www.signaturedentalgroup.com",
+            "destination": "Kinsta",
+            "date": "2024-12-05 17:36:31"
+        },
+        {
+            "domain_name": "www.riversidedental.org",
+            "destination": "Kinsta",
+            "date": "2024-12-05 17:33:02"
+        },
+        {
+            "domain_name": "www.residentialinspector.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-05 17:32:47"
+        },
+        {
+            "domain_name": "sjras.org",
+            "destination": "Hostinger",
+            "date": "2024-12-05 17:26:57"
+        },
         {
             "domain_name": "burgertheoryidahofalls.com",
             "destination": "SiteGround",
             "date": "2024-12-05 17:26:48"
+        },
+        {
+            "domain_name": "slottable.com",
+            "destination": "BigScoots",
+            "date": "2024-12-05 17:19:12"
+        },
+        {
+            "domain_name": "smoothscaling.co",
+            "destination": "BigScoots",
+            "date": "2024-12-05 17:10:14"
         },
         {
             "domain_name": "jnprivatewealth.com",
@@ -415,91 +500,6 @@
             "domain_name": "coleaircontracting.ca",
             "destination": "SiteGround",
             "date": "2024-12-05 09:42:54"
-        },
-        {
-            "domain_name": "junkdrs.com",
-            "destination": "Kinsta",
-            "date": "2024-12-05 09:28:39"
-        },
-        {
-            "domain_name": "www.heskje.no",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 09:24:26"
-        },
-        {
-            "domain_name": "www.joepayneweddingphotography.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 09:20:10"
-        },
-        {
-            "domain_name": "iconnectfundraising.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 09:10:40"
-        },
-        {
-            "domain_name": "www.jafs.no",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 08:59:44"
-        },
-        {
-            "domain_name": "www.littlelovejar.com",
-            "destination": "Kinsta",
-            "date": "2024-12-05 08:54:14"
-        },
-        {
-            "domain_name": "hhscf.org",
-            "destination": "Bluehost",
-            "date": "2024-12-05 08:51:05"
-        },
-        {
-            "domain_name": "scoutadvocacy.com",
-            "destination": "Kinsta",
-            "date": "2024-12-05 08:46:23"
-        },
-        {
-            "domain_name": "wireandstuff.co.uk",
-            "destination": "Kinsta",
-            "date": "2024-12-05 08:21:25"
-        },
-        {
-            "domain_name": "outsidethetank.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 08:10:30"
-        },
-        {
-            "domain_name": "forestandbrown.no",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 08:02:15"
-        },
-        {
-            "domain_name": "activebooker.com",
-            "destination": "SiteGround",
-            "date": "2024-12-05 07:48:51"
-        },
-        {
-            "domain_name": "orland-naringsforum.no",
-            "destination": "SiteGround",
-            "date": "2024-12-05 07:19:30"
-        },
-        {
-            "domain_name": "thetomhealy.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 06:46:29"
-        },
-        {
-            "domain_name": "www.skyvoss.no",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 06:16:04"
-        },
-        {
-            "domain_name": "styylish.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-05 06:06:10"
-        },
-        {
-            "domain_name": "theboredroomx.com",
-            "destination": "Hostinger",
-            "date": "2024-12-05 06:04:01"
         }
     ],
     "dailyMovedStat": {
@@ -580,19 +580,19 @@
         "2024-12-04": "25595"
     },
     "topDestinationHosts": {
-        "Pressable": 6139,
+        "Pressable": 6140,
         "Bluehost": 3494,
-        "Digital Ocean": 1602,
-        "Kinsta": 1490,
-        "SiteGround": 1429,
-        "Hostinger": 791,
-        "GoDaddy": 365,
-        "BigScoots": 215,
+        "Digital Ocean": 1603,
+        "Kinsta": 1493,
+        "SiteGround": 1430,
+        "Hostinger": 793,
+        "GoDaddy": 366,
+        "BigScoots": 221,
         "Elementor Hosting": 181,
         "Liquid Web": 159,
         "Wordify": 138,
-        "WordPress.com": 115,
-        "InMotion Hosting": 102,
+        "WordPress.com": 116,
+        "InMotion Hosting": 103,
         "OVH": 91,
         "GridPane": 86,
         "A2 Hosting": 67,
