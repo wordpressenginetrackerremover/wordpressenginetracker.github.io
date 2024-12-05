@@ -1,6 +1,11 @@
 {
-    "siteCount": 25628,
+    "siteCount": 25637,
     "recentlyMoved": [
+        {
+            "domain_name": "incloodiefoodtour.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 04:56:22"
+        },
         {
             "domain_name": "pmu-pros.com",
             "destination": "GoDaddy",
@@ -477,11 +482,6 @@
             "date": "2024-12-04 12:53:42"
         },
         {
-            "domain_name": "banditk9training.com",
-            "destination": "Hostinger",
-            "date": "2024-12-04 12:45:49"
-        },
-        {
             "domain_name": "rotarycfd.org",
             "destination": "Wordify",
             "date": "2024-12-04 12:35:47"
@@ -585,7 +585,7 @@
         "Digital Ocean": 1592,
         "Kinsta": 1472,
         "SiteGround": 1409,
-        "Hostinger": 775,
+        "Hostinger": 776,
         "GoDaddy": 359,
         "BigScoots": 202,
         "Elementor Hosting": 181,
