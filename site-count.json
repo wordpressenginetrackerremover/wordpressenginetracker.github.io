@@ -1,6 +1,11 @@
 {
-    "siteCount": 25649,
+    "siteCount": 25652,
     "recentlyMoved": [
+        {
+            "domain_name": "thetomhealy.com",
+            "destination": "BigScoots",
+            "date": "2024-12-05 06:46:29"
+        },
         {
             "domain_name": "www.skyvoss.no",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.lechienfumant.com",
             "destination": "Digital Ocean",
             "date": "2024-12-04 12:53:42"
-        },
-        {
-            "domain_name": "inlandnaturalmedicine.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 12:35:14"
         }
     ],
     "dailyMovedStat": {
@@ -587,7 +587,7 @@
         "SiteGround": 1409,
         "Hostinger": 777,
         "GoDaddy": 359,
-        "BigScoots": 202,
+        "BigScoots": 203,
         "Elementor Hosting": 181,
         "Liquid Web": 159,
         "Wordify": 136,
