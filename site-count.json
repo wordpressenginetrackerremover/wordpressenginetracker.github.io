@@ -1,15 +1,70 @@
 {
-    "siteCount": 25742,
+    "siteCount": 25757,
     "recentlyMoved": [
+        {
+            "domain_name": "nisco-inc.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 15:09:39"
+        },
+        {
+            "domain_name": "emanuellodi.com",
+            "destination": "SiteGround",
+            "date": "2024-12-05 14:49:29"
+        },
+        {
+            "domain_name": "www.wtmdigital.com",
+            "destination": "Kinsta",
+            "date": "2024-12-05 14:49:26"
+        },
+        {
+            "domain_name": "everylittlestepacademy.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 14:44:52"
+        },
+        {
+            "domain_name": "yogapalooza.com",
+            "destination": "Pressable",
+            "date": "2024-12-05 14:42:05"
+        },
+        {
+            "domain_name": "nickholtfitness.com",
+            "destination": "SiteGround",
+            "date": "2024-12-05 14:31:39"
+        },
+        {
+            "domain_name": "mrpoolandspas.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 14:19:50"
+        },
         {
             "domain_name": "cronkhitelaw.com",
             "destination": "SiteGround",
             "date": "2024-12-05 14:18:16"
         },
         {
+            "domain_name": "tigks.com",
+            "destination": "Bluehost",
+            "date": "2024-12-05 14:18:09"
+        },
+        {
+            "domain_name": "jcwebdesignhosting.com",
+            "destination": "SiteGround",
+            "date": "2024-12-05 14:13:18"
+        },
+        {
+            "domain_name": "midtownvideo.com",
+            "destination": "Pressable",
+            "date": "2024-12-05 14:11:05"
+        },
+        {
             "domain_name": "superherodesign.co",
             "destination": "BigScoots",
             "date": "2024-12-05 14:04:40"
+        },
+        {
+            "domain_name": "dog-town.net",
+            "destination": "Hostinger",
+            "date": "2024-12-05 13:59:31"
         },
         {
             "domain_name": "classiccollisionid.com",
@@ -445,61 +500,6 @@
             "domain_name": "atenterprises.ca",
             "destination": "DreamHost",
             "date": "2024-12-04 20:26:01"
-        },
-        {
-            "domain_name": "franklin.maristoneseniorliving.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-04 20:17:37"
-        },
-        {
-            "domain_name": "gregbrownortho.com",
-            "destination": "Pressable",
-            "date": "2024-12-04 20:13:27"
-        },
-        {
-            "domain_name": "adamsnwfishing.com",
-            "destination": "Pressable",
-            "date": "2024-12-04 19:52:23"
-        },
-        {
-            "domain_name": "afmacdonaldcounseling.com",
-            "destination": "SiteGround",
-            "date": "2024-12-04 19:51:21"
-        },
-        {
-            "domain_name": "apptekstucco.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 19:50:27"
-        },
-        {
-            "domain_name": "wtfmarketing.com",
-            "destination": "Pressable",
-            "date": "2024-12-04 19:35:24"
-        },
-        {
-            "domain_name": "gardengeekslandscaping.com",
-            "destination": "Pressable",
-            "date": "2024-12-04 19:32:28"
-        },
-        {
-            "domain_name": "galeriaslaestrella.com",
-            "destination": "Pressable",
-            "date": "2024-12-04 19:32:28"
-        },
-        {
-            "domain_name": "719veteranshometeam.com",
-            "destination": "SiteGround",
-            "date": "2024-12-04 19:25:03"
-        },
-        {
-            "domain_name": "wattsvideos.com",
-            "destination": "BigScoots",
-            "date": "2024-12-04 19:19:29"
-        },
-        {
-            "domain_name": "nelsons-barbershop.com",
-            "destination": "SiteGround",
-            "date": "2024-12-04 19:16:35"
         }
     ],
     "dailyMovedStat": {
@@ -580,12 +580,12 @@
         "2024-12-04": "25595"
     },
     "topDestinationHosts": {
-        "Pressable": 6132,
-        "Bluehost": 3493,
+        "Pressable": 6134,
+        "Bluehost": 3494,
         "Digital Ocean": 1600,
-        "Kinsta": 1484,
-        "SiteGround": 1424,
-        "Hostinger": 780,
+        "Kinsta": 1485,
+        "SiteGround": 1427,
+        "Hostinger": 785,
         "GoDaddy": 361,
         "BigScoots": 208,
         "Elementor Hosting": 181,
