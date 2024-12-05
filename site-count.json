@@ -1,6 +1,31 @@
 {
-    "siteCount": 25621,
+    "siteCount": 25628,
     "recentlyMoved": [
+        {
+            "domain_name": "pmu-pros.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-05 04:14:33"
+        },
+        {
+            "domain_name": "wp-agency.co.uk",
+            "destination": "GoDaddy",
+            "date": "2024-12-05 03:58:34"
+        },
+        {
+            "domain_name": "fivefeetoffury.com",
+            "destination": "Hostinger",
+            "date": "2024-12-05 03:52:16"
+        },
+        {
+            "domain_name": "voltage.digital",
+            "destination": "Kinsta",
+            "date": "2024-12-05 03:52:09"
+        },
+        {
+            "domain_name": "funkysjunkremoval.com",
+            "destination": "Kinsta",
+            "date": "2024-12-05 03:35:19"
+        },
         {
             "domain_name": "twinsprucellc.com",
             "destination": "Hostinger",
@@ -457,16 +482,6 @@
             "date": "2024-12-04 12:45:49"
         },
         {
-            "domain_name": "prolotherapynow.com",
-            "destination": "Kinsta",
-            "date": "2024-12-04 12:44:20"
-        },
-        {
-            "domain_name": "growdaycamps.org",
-            "destination": "Digital Ocean",
-            "date": "2024-12-04 12:42:55"
-        },
-        {
             "domain_name": "rotarycfd.org",
             "destination": "Wordify",
             "date": "2024-12-04 12:35:47"
@@ -485,21 +500,6 @@
             "domain_name": "bestdentalimplantshouston.com",
             "destination": "Liquid Web",
             "date": "2024-12-04 12:33:31"
-        },
-        {
-            "domain_name": "heavensbeststafford.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-04 12:23:55"
-        },
-        {
-            "domain_name": "www.themaxchallenge.com",
-            "destination": "Hostinger",
-            "date": "2024-12-04 12:14:05"
-        },
-        {
-            "domain_name": "aseguranzasutah.com",
-            "destination": "SiteGround",
-            "date": "2024-12-04 12:08:44"
         }
     ],
     "dailyMovedStat": {
@@ -583,10 +583,10 @@
         "Pressable": 6131,
         "Bluehost": 3492,
         "Digital Ocean": 1592,
-        "Kinsta": 1470,
+        "Kinsta": 1472,
         "SiteGround": 1409,
-        "Hostinger": 774,
-        "GoDaddy": 357,
+        "Hostinger": 775,
+        "GoDaddy": 359,
         "BigScoots": 202,
         "Elementor Hosting": 181,
         "Liquid Web": 159,
