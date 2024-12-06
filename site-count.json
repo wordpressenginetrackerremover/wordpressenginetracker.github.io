@@ -1,6 +1,31 @@
 {
-    "siteCount": 26055,
+    "siteCount": 26064,
     "recentlyMoved": [
+        {
+            "domain_name": "evergreenstatetowing.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 11:10:31"
+        },
+        {
+            "domain_name": "empower.org.sg",
+            "destination": "A2 Hosting",
+            "date": "2024-12-06 10:58:13"
+        },
+        {
+            "domain_name": "extremeeleganceimage.com",
+            "destination": "Hostinger",
+            "date": "2024-12-06 10:53:05"
+        },
+        {
+            "domain_name": "usweedchannel.com",
+            "destination": "IONOS",
+            "date": "2024-12-06 10:46:12"
+        },
+        {
+            "domain_name": "tualatintogether.org",
+            "destination": "SiteGround",
+            "date": "2024-12-06 10:43:57"
+        },
         {
             "domain_name": "www.stoneworld.co.uk",
             "destination": "Kinsta",
@@ -462,11 +487,6 @@
             "date": "2024-12-05 16:59:42"
         },
         {
-            "domain_name": "bluechipgroup.net",
-            "destination": "BigScoots",
-            "date": "2024-12-05 16:55:59"
-        },
-        {
             "domain_name": "capstoneadvisors.com",
             "destination": "Kinsta",
             "date": "2024-12-05 16:54:50"
@@ -477,29 +497,9 @@
             "date": "2024-12-05 16:48:58"
         },
         {
-            "domain_name": "saboresmexican.com",
-            "destination": "Hostinger",
-            "date": "2024-12-05 16:48:04"
-        },
-        {
-            "domain_name": "ricksplacema.org",
-            "destination": "Hostinger",
-            "date": "2024-12-05 16:46:54"
-        },
-        {
             "domain_name": "scarfo-realestate.com",
             "destination": "Hostinger",
             "date": "2024-12-05 16:43:08"
-        },
-        {
-            "domain_name": "in-home.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 16:38:56"
-        },
-        {
-            "domain_name": "robinsonoutdoorllc.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-05 16:29:37"
         }
     ],
     "dailyMovedStat": {
@@ -585,8 +585,8 @@
         "Bluehost": 3496,
         "Digital Ocean": 1619,
         "Kinsta": 1509,
-        "SiteGround": 1436,
-        "Hostinger": 797,
+        "SiteGround": 1438,
+        "Hostinger": 798,
         "GoDaddy": 372,
         "BigScoots": 225,
         "Elementor Hosting": 181,
@@ -596,10 +596,10 @@
         "InMotion Hosting": 103,
         "OVH": 91,
         "GridPane": 87,
-        "A2 Hosting": 68,
+        "A2 Hosting": 69,
         "Namecheap": 65,
         "Hetzner Online": 64,
-        "IONOS": 63,
+        "IONOS": 64,
         "Krystal Hosting": 54
     },
     "dailyTotalStat": {
