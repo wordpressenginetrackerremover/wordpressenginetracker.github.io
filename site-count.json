@@ -1,10 +1,45 @@
 {
-    "siteCount": 26342,
+    "siteCount": 26353,
     "recentlyMoved": [
+        {
+            "domain_name": "nobaweb.com",
+            "destination": "Hostinger",
+            "date": "2024-12-06 23:05:41"
+        },
+        {
+            "domain_name": "elevatecom.com",
+            "destination": "Pressable",
+            "date": "2024-12-06 22:47:48"
+        },
+        {
+            "domain_name": "elevate-digital.com",
+            "destination": "Kinsta",
+            "date": "2024-12-06 22:47:48"
+        },
+        {
+            "domain_name": "www.glide.org",
+            "destination": "Kinsta",
+            "date": "2024-12-06 22:44:14"
+        },
         {
             "domain_name": "thetastefultribe.com",
             "destination": "BigScoots",
             "date": "2024-12-06 22:39:52"
+        },
+        {
+            "domain_name": "venturingcrew369.org",
+            "destination": "SiteGround",
+            "date": "2024-12-06 22:39:11"
+        },
+        {
+            "domain_name": "thorps.org",
+            "destination": "SiteGround",
+            "date": "2024-12-06 22:38:46"
+        },
+        {
+            "domain_name": "estatepolicett.com",
+            "destination": "Hostinger",
+            "date": "2024-12-06 22:27:59"
         },
         {
             "domain_name": "mannahouserincon.org",
@@ -462,44 +497,9 @@
             "date": "2024-12-06 14:21:17"
         },
         {
-            "domain_name": "superiorturffarms.com",
-            "destination": "SiteGround",
-            "date": "2024-12-06 14:12:57"
-        },
-        {
             "domain_name": "cycloneservicespestcontrol.com",
             "destination": "Pressable",
             "date": "2024-12-06 14:09:13"
-        },
-        {
-            "domain_name": "stjohndg.com",
-            "destination": "SiteGround",
-            "date": "2024-12-06 13:45:58"
-        },
-        {
-            "domain_name": "customfloorcovering.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-06 13:42:23"
-        },
-        {
-            "domain_name": "createwithcolorblind.com",
-            "destination": "Hostinger",
-            "date": "2024-12-06 13:42:00"
-        },
-        {
-            "domain_name": "cranmer-grass.com",
-            "destination": "SiteGround",
-            "date": "2024-12-06 13:38:28"
-        },
-        {
-            "domain_name": "stephaniebattaglino.com",
-            "destination": "SiteGround",
-            "date": "2024-12-06 13:38:21"
-        },
-        {
-            "domain_name": "cozyinmycottage.com",
-            "destination": "Pressable",
-            "date": "2024-12-06 13:17:46"
         }
     ],
     "dailyMovedStat": {
@@ -578,17 +578,18 @@
         "2024-12-02": "24959",
         "2024-12-03": "25264",
         "2024-12-04": "25595",
-        "2024-12-05": "25980"
+        "2024-12-05": "25980",
+        "2024-12-06": "26353"
     },
     "topDestinationHosts": {
-        "Pressable": 6170,
+        "Pressable": 6171,
         "Bluehost": 3499,
         "Digital Ocean": 1624,
-        "Kinsta": 1527,
-        "SiteGround": 1471,
-        "Hostinger": 812,
+        "Kinsta": 1529,
+        "SiteGround": 1473,
+        "Hostinger": 814,
         "GoDaddy": 377,
-        "BigScoots": 237,
+        "BigScoots": 238,
         "Elementor Hosting": 183,
         "Liquid Web": 165,
         "Wordify": 138,
@@ -678,6 +679,7 @@
         "2024-12-02": "702375",
         "2024-12-03": "701792",
         "2024-12-04": "701042",
-        "2024-12-05": "696740"
+        "2024-12-05": "696740",
+        "2024-12-06": "698884"
     }
 }
