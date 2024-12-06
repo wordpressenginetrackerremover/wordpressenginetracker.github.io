@@ -1,10 +1,25 @@
 {
-    "siteCount": 26139,
+    "siteCount": 26151,
     "recentlyMoved": [
+        {
+            "domain_name": "nataliewadeco.com",
+            "destination": "BigScoots",
+            "date": "2024-12-06 15:03:16"
+        },
+        {
+            "domain_name": "equalityhealth.com",
+            "destination": "Kinsta",
+            "date": "2024-12-06 14:58:16"
+        },
         {
             "domain_name": "meridiangb.com",
             "destination": "WordPress.com",
             "date": "2024-12-06 14:40:34"
+        },
+        {
+            "domain_name": "nextgenvendkc.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 14:39:09"
         },
         {
             "domain_name": "www.thisisorb.com",
@@ -15,6 +30,11 @@
             "domain_name": "thehonorablesociety.com",
             "destination": "Kinsta",
             "date": "2024-12-06 14:29:09"
+        },
+        {
+            "domain_name": "mocaga.org",
+            "destination": "SiteGround",
+            "date": "2024-12-06 14:27:12"
         },
         {
             "domain_name": "thecrazyover40slife.com",
@@ -472,11 +492,6 @@
             "date": "2024-12-05 20:21:38"
         },
         {
-            "domain_name": "envisian.com.au",
-            "destination": "GoDaddy",
-            "date": "2024-12-05 20:21:38"
-        },
-        {
             "domain_name": "barrozolaw.com",
             "destination": "Bluehost",
             "date": "2024-12-05 20:12:49"
@@ -485,21 +500,6 @@
             "domain_name": "harveyquotes.com",
             "destination": "Pressable",
             "date": "2024-12-05 20:00:53"
-        },
-        {
-            "domain_name": "www.unicash.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-05 19:49:24"
-        },
-        {
-            "domain_name": "www.autoraptor.com",
-            "destination": "Pressable",
-            "date": "2024-12-05 19:46:19"
-        },
-        {
-            "domain_name": "all-in-design.com",
-            "destination": "Pressable",
-            "date": "2024-12-05 19:39:06"
         }
     ],
     "dailyMovedStat": {
@@ -584,15 +584,15 @@
         "Pressable": 6156,
         "Bluehost": 3496,
         "Digital Ocean": 1619,
-        "Kinsta": 1515,
-        "SiteGround": 1449,
+        "Kinsta": 1516,
+        "SiteGround": 1451,
         "Hostinger": 802,
         "GoDaddy": 375,
-        "BigScoots": 227,
+        "BigScoots": 228,
         "Elementor Hosting": 181,
         "Liquid Web": 162,
         "Wordify": 138,
-        "WordPress.com": 118,
+        "WordPress.com": 119,
         "InMotion Hosting": 104,
         "OVH": 92,
         "GridPane": 87,
