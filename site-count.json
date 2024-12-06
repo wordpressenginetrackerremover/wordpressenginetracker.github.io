@@ -1,6 +1,66 @@
 {
-    "siteCount": 26172,
+    "siteCount": 26201,
     "recentlyMoved": [
+        {
+            "domain_name": "cbrbookkeeping.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-06 17:42:22"
+        },
+        {
+            "domain_name": "sierrasunaz.com",
+            "destination": "BigScoots",
+            "date": "2024-12-06 17:29:36"
+        },
+        {
+            "domain_name": "bdcbox.com",
+            "destination": "Hostinger",
+            "date": "2024-12-06 16:57:09"
+        },
+        {
+            "domain_name": "boxfi.co",
+            "destination": "IONOS",
+            "date": "2024-12-06 16:56:11"
+        },
+        {
+            "domain_name": "ricobrand.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 16:55:19"
+        },
+        {
+            "domain_name": "recreationrvsales.com",
+            "destination": "BigScoots",
+            "date": "2024-12-06 16:54:30"
+        },
+        {
+            "domain_name": "heddypaintpaper.net",
+            "destination": "Hostinger",
+            "date": "2024-12-06 16:51:58"
+        },
+        {
+            "domain_name": "revocorgroup.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 16:48:45"
+        },
+        {
+            "domain_name": "saltillo360.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-06 16:45:36"
+        },
+        {
+            "domain_name": "resume-place.com",
+            "destination": "Kinsta",
+            "date": "2024-12-06 16:43:28"
+        },
+        {
+            "domain_name": "holidayinneventcenter.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 16:42:57"
+        },
+        {
+            "domain_name": "roughsands.com",
+            "destination": "Kinsta",
+            "date": "2024-12-06 16:37:39"
+        },
         {
             "domain_name": "greenbay.digital",
             "destination": "SiteGround",
@@ -12,9 +72,19 @@
             "date": "2024-12-06 16:29:54"
         },
         {
+            "domain_name": "bluegranitebookkeeping.com",
+            "destination": "Hostinger",
+            "date": "2024-12-06 16:28:51"
+        },
+        {
             "domain_name": "premiumpaintingmichigan.com",
             "destination": "Hostinger",
             "date": "2024-12-06 16:19:55"
+        },
+        {
+            "domain_name": "azwholesalegrowers.com",
+            "destination": "BigScoots",
+            "date": "2024-12-06 16:13:13"
         },
         {
             "domain_name": "foxlaboratory.com",
@@ -430,76 +500,6 @@
             "domain_name": "abileneaudiology.com",
             "destination": "Digital Ocean",
             "date": "2024-12-06 03:13:22"
-        },
-        {
-            "domain_name": "csens.io",
-            "destination": "Kinsta",
-            "date": "2024-12-06 01:41:14"
-        },
-        {
-            "domain_name": "centralpacificcable.com",
-            "destination": "Kinsta",
-            "date": "2024-12-06 01:11:47"
-        },
-        {
-            "domain_name": "atomicderm.com",
-            "destination": "Pressable",
-            "date": "2024-12-06 00:48:41"
-        },
-        {
-            "domain_name": "qualityroofing-contracting.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-06 00:01:36"
-        },
-        {
-            "domain_name": "proelectriclc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 23:56:36"
-        },
-        {
-            "domain_name": "vitalstatistix.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-05 23:29:09"
-        },
-        {
-            "domain_name": "foodsafetyday.org",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 23:17:33"
-        },
-        {
-            "domain_name": "theladybugpestcontrol.com",
-            "destination": "Pressable",
-            "date": "2024-12-05 22:43:12"
-        },
-        {
-            "domain_name": "tyrelineaustralia.com.au",
-            "destination": "SiteGround",
-            "date": "2024-12-05 22:38:58"
-        },
-        {
-            "domain_name": "telostennis.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 22:15:22"
-        },
-        {
-            "domain_name": "www.saltillo360.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 22:06:32"
-        },
-        {
-            "domain_name": "thatgirlwhitney.com",
-            "destination": "Hostinger",
-            "date": "2024-12-05 22:04:09"
-        },
-        {
-            "domain_name": "marierobbins.ca",
-            "destination": "Hostinger",
-            "date": "2024-12-05 21:48:29"
-        },
-        {
-            "domain_name": "www.seawindlanding.ca",
-            "destination": "Digital Ocean",
-            "date": "2024-12-05 21:41:38"
         }
     ],
     "dailyMovedStat": {
@@ -583,12 +583,12 @@
     "topDestinationHosts": {
         "Pressable": 6158,
         "Bluehost": 3496,
-        "Digital Ocean": 1619,
-        "Kinsta": 1516,
-        "SiteGround": 1454,
-        "Hostinger": 806,
+        "Digital Ocean": 1621,
+        "Kinsta": 1519,
+        "SiteGround": 1457,
+        "Hostinger": 809,
         "GoDaddy": 375,
-        "BigScoots": 230,
+        "BigScoots": 233,
         "Elementor Hosting": 181,
         "Liquid Web": 162,
         "Wordify": 138,
@@ -597,8 +597,8 @@
         "OVH": 92,
         "GridPane": 87,
         "A2 Hosting": 69,
+        "IONOS": 66,
         "Namecheap": 65,
-        "IONOS": 65,
         "Hetzner Online": 64,
         "Krystal Hosting": 54
     },
