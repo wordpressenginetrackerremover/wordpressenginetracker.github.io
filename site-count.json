@@ -1,6 +1,31 @@
 {
-    "siteCount": 26000,
+    "siteCount": 26008,
     "recentlyMoved": [
+        {
+            "domain_name": "atlantic-pacific.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 04:06:52"
+        },
+        {
+            "domain_name": "adhocracy2022.vitalstatistix.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-06 03:50:39"
+        },
+        {
+            "domain_name": "adhocracy2021.vitalstatistix.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-06 03:50:39"
+        },
+        {
+            "domain_name": "adhocracy2020.vitalstatistix.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-06 03:50:39"
+        },
+        {
+            "domain_name": "abileneaudiology.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-06 03:13:22"
+        },
         {
             "domain_name": "csens.io",
             "destination": "Kinsta",
@@ -475,31 +500,6 @@
             "domain_name": "oldtownscottsdale.com",
             "destination": "GoDaddy",
             "date": "2024-12-05 15:28:21"
-        },
-        {
-            "domain_name": "nisco-inc.com",
-            "destination": "Hostinger",
-            "date": "2024-12-05 15:09:39"
-        },
-        {
-            "domain_name": "emanuellodi.com",
-            "destination": "SiteGround",
-            "date": "2024-12-05 14:49:29"
-        },
-        {
-            "domain_name": "everylittlestepacademy.com",
-            "destination": "Hostinger",
-            "date": "2024-12-05 14:44:52"
-        },
-        {
-            "domain_name": "nickholtfitness.com",
-            "destination": "SiteGround",
-            "date": "2024-12-05 14:31:39"
-        },
-        {
-            "domain_name": "jcwebdesignhosting.com",
-            "destination": "SiteGround",
-            "date": "2024-12-05 14:13:18"
         }
     ],
     "dailyMovedStat": {
@@ -583,8 +583,8 @@
     "topDestinationHosts": {
         "Pressable": 6151,
         "Bluehost": 3495,
-        "Digital Ocean": 1610,
-        "Kinsta": 1498,
+        "Digital Ocean": 1611,
+        "Kinsta": 1501,
         "SiteGround": 1433,
         "Hostinger": 796,
         "GoDaddy": 371,
@@ -598,8 +598,8 @@
         "GridPane": 87,
         "A2 Hosting": 68,
         "Namecheap": 65,
-        "IONOS": 63,
         "Hetzner Online": 63,
+        "IONOS": 63,
         "Krystal Hosting": 54
     },
     "dailyTotalStat": {
