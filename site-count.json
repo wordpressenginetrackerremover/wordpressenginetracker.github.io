@@ -1,6 +1,51 @@
 {
-    "siteCount": 26064,
+    "siteCount": 26087,
     "recentlyMoved": [
+        {
+            "domain_name": "www.becajun.com",
+            "destination": "Kinsta",
+            "date": "2024-12-06 12:23:01"
+        },
+        {
+            "domain_name": "aultimatesales.com",
+            "destination": "Hostinger",
+            "date": "2024-12-06 12:15:51"
+        },
+        {
+            "domain_name": "accowboysfl.com",
+            "destination": "InMotion Hosting",
+            "date": "2024-12-06 12:02:27"
+        },
+        {
+            "domain_name": "www.borrmannmetals.com",
+            "destination": "BigScoots",
+            "date": "2024-12-06 11:57:56"
+        },
+        {
+            "domain_name": "frictionlessit.net",
+            "destination": "Kinsta",
+            "date": "2024-12-06 11:43:39"
+        },
+        {
+            "domain_name": "foothillsfamilydentists.com",
+            "destination": "Kinsta",
+            "date": "2024-12-06 11:37:14"
+        },
+        {
+            "domain_name": "panaderiaflores.com",
+            "destination": "SiteGround",
+            "date": "2024-12-06 11:35:24"
+        },
+        {
+            "domain_name": "www.rothjackson.com",
+            "destination": "Pressable",
+            "date": "2024-12-06 11:34:15"
+        },
+        {
+            "domain_name": "adopt-us.whales.org",
+            "destination": "Pressable",
+            "date": "2024-12-06 11:20:59"
+        },
         {
             "domain_name": "evergreenstatetowing.com",
             "destination": "SiteGround",
@@ -452,54 +497,9 @@
             "date": "2024-12-05 17:32:47"
         },
         {
-            "domain_name": "sjras.org",
-            "destination": "Hostinger",
-            "date": "2024-12-05 17:26:57"
-        },
-        {
-            "domain_name": "burgertheoryidahofalls.com",
-            "destination": "SiteGround",
-            "date": "2024-12-05 17:26:48"
-        },
-        {
-            "domain_name": "slottable.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 17:19:12"
-        },
-        {
             "domain_name": "smoothscaling.co",
             "destination": "BigScoots",
             "date": "2024-12-05 17:10:14"
-        },
-        {
-            "domain_name": "jnprivatewealth.com",
-            "destination": "Kinsta",
-            "date": "2024-12-05 17:06:53"
-        },
-        {
-            "domain_name": "jongoodmanlaw.com",
-            "destination": "HostGator",
-            "date": "2024-12-05 17:01:01"
-        },
-        {
-            "domain_name": "shorttermrentalmanager.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 16:59:42"
-        },
-        {
-            "domain_name": "capstoneadvisors.com",
-            "destination": "Kinsta",
-            "date": "2024-12-05 16:54:50"
-        },
-        {
-            "domain_name": "kaizenbatter.com",
-            "destination": "Pressable",
-            "date": "2024-12-05 16:48:58"
-        },
-        {
-            "domain_name": "scarfo-realestate.com",
-            "destination": "Hostinger",
-            "date": "2024-12-05 16:43:08"
         }
     ],
     "dailyMovedStat": {
@@ -581,11 +581,11 @@
         "2024-12-05": "25980"
     },
     "topDestinationHosts": {
-        "Pressable": 6152,
+        "Pressable": 6154,
         "Bluehost": 3496,
         "Digital Ocean": 1619,
-        "Kinsta": 1509,
-        "SiteGround": 1438,
+        "Kinsta": 1512,
+        "SiteGround": 1439,
         "Hostinger": 798,
         "GoDaddy": 372,
         "BigScoots": 225,
@@ -593,7 +593,7 @@
         "Liquid Web": 162,
         "Wordify": 138,
         "WordPress.com": 116,
-        "InMotion Hosting": 103,
+        "InMotion Hosting": 104,
         "OVH": 91,
         "GridPane": 87,
         "A2 Hosting": 69,
