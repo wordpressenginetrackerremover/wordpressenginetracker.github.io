@@ -1,6 +1,11 @@
 {
-    "siteCount": 26049,
+    "siteCount": 26055,
     "recentlyMoved": [
+        {
+            "domain_name": "www.stoneworld.co.uk",
+            "destination": "Kinsta",
+            "date": "2024-12-06 09:28:55"
+        },
         {
             "domain_name": "secondshotsphotography.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "robinsonoutdoorllc.com",
             "destination": "GoDaddy",
             "date": "2024-12-05 16:29:37"
-        },
-        {
-            "domain_name": "resumeandcareerservices.com",
-            "destination": "BigScoots",
-            "date": "2024-12-05 16:24:04"
         }
     ],
     "dailyMovedStat": {
@@ -584,7 +584,7 @@
         "Pressable": 6152,
         "Bluehost": 3496,
         "Digital Ocean": 1619,
-        "Kinsta": 1508,
+        "Kinsta": 1509,
         "SiteGround": 1436,
         "Hostinger": 797,
         "GoDaddy": 372,
