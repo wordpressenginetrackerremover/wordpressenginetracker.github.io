@@ -1,6 +1,11 @@
 {
-    "siteCount": 26704,
+    "siteCount": 26706,
     "recentlyMoved": [
+        {
+            "domain_name": "nahsfoundation.org",
+            "destination": "Digital Ocean",
+            "date": "2024-12-07 23:05:21"
+        },
         {
             "domain_name": "dominionair.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "servulocksmiths.com",
             "destination": "Hostinger",
             "date": "2024-12-07 12:55:57"
-        },
-        {
-            "domain_name": "buffalobooties.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 12:32:49"
         }
     ],
     "dailyMovedStat": {
@@ -579,12 +579,13 @@
         "2024-12-03": "25264",
         "2024-12-04": "25595",
         "2024-12-05": "25980",
-        "2024-12-06": "26353"
+        "2024-12-06": "26353",
+        "2024-12-07": "26706"
     },
     "topDestinationHosts": {
         "Pressable": 6193,
         "Bluehost": 3502,
-        "Digital Ocean": 1651,
+        "Digital Ocean": 1652,
         "Kinsta": 1564,
         "SiteGround": 1495,
         "Hostinger": 840,
@@ -680,6 +681,7 @@
         "2024-12-03": "701792",
         "2024-12-04": "701042",
         "2024-12-05": "696740",
-        "2024-12-06": "698884"
+        "2024-12-06": "698884",
+        "2024-12-07": "698514"
     }
 }
