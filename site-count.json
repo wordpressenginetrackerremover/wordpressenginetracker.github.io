@@ -1,10 +1,15 @@
 {
-    "siteCount": 26411,
+    "siteCount": 26412,
     "recentlyMoved": [
         {
             "domain_name": "www.thestonetable.org",
             "destination": "Kinsta",
             "date": "2024-12-07 06:30:06"
+        },
+        {
+            "domain_name": "watsonlakeinn.com",
+            "destination": "Hostinger",
+            "date": "2024-12-07 06:24:38"
         },
         {
             "domain_name": "cntlogistic.com",
@@ -492,11 +497,6 @@
             "date": "2024-12-06 17:35:47"
         },
         {
-            "domain_name": "client.dev.altwebsolutions.net",
-            "destination": "SiteGround",
-            "date": "2024-12-06 17:28:09"
-        },
-        {
             "domain_name": "corbinshitch.com",
             "destination": "Pressable",
             "date": "2024-12-06 17:27:33"
@@ -587,7 +587,7 @@
         "Digital Ocean": 1639,
         "Kinsta": 1538,
         "SiteGround": 1476,
-        "Hostinger": 818,
+        "Hostinger": 819,
         "GoDaddy": 378,
         "BigScoots": 238,
         "Elementor Hosting": 184,
