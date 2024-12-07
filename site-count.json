@@ -1,10 +1,20 @@
 {
-    "siteCount": 26437,
+    "siteCount": 26443,
     "recentlyMoved": [
+        {
+            "domain_name": "nicholsfarms.com",
+            "destination": "Pressable",
+            "date": "2024-12-07 10:41:55"
+        },
         {
             "domain_name": "denverbbs.com",
             "destination": "Bluehost",
             "date": "2024-12-07 10:38:13"
+        },
+        {
+            "domain_name": "dereklee.scienceblog.com",
+            "destination": "Hostinger",
+            "date": "2024-12-07 10:05:51"
         },
         {
             "domain_name": "www.trussvet.com",
@@ -490,16 +500,6 @@
             "domain_name": "travelwithshellyeden.com",
             "destination": "SiteGround",
             "date": "2024-12-06 18:38:29"
-        },
-        {
-            "domain_name": "drufeedingsystem.com",
-            "destination": "Pressable",
-            "date": "2024-12-06 18:36:07"
-        },
-        {
-            "domain_name": "threedegrees.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-06 18:15:21"
         }
     ],
     "dailyMovedStat": {
@@ -582,12 +582,12 @@
         "2024-12-06": "26353"
     },
     "topDestinationHosts": {
-        "Pressable": 6175,
+        "Pressable": 6176,
         "Bluehost": 3501,
         "Digital Ocean": 1640,
         "Kinsta": 1543,
         "SiteGround": 1477,
-        "Hostinger": 819,
+        "Hostinger": 820,
         "GoDaddy": 378,
         "BigScoots": 239,
         "Elementor Hosting": 184,
