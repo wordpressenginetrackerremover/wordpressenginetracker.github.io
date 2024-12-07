@@ -1,10 +1,70 @@
 {
-    "siteCount": 26525,
+    "siteCount": 26545,
     "recentlyMoved": [
+        {
+            "domain_name": "apollomech.com",
+            "destination": "Pressable",
+            "date": "2024-12-07 16:33:32"
+        },
+        {
+            "domain_name": "altavistacc.com",
+            "destination": "SiteGround",
+            "date": "2024-12-07 16:21:50"
+        },
+        {
+            "domain_name": "allcprsanjose.org",
+            "destination": "Kinsta",
+            "date": "2024-12-07 16:18:50"
+        },
+        {
+            "domain_name": "patchprogram.org",
+            "destination": "SiteGround",
+            "date": "2024-12-07 16:13:53"
+        },
+        {
+            "domain_name": "philadelphiahistoricvenues.com",
+            "destination": "Pressable",
+            "date": "2024-12-07 16:03:50"
+        },
+        {
+            "domain_name": "positiveenergycenter.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-07 15:52:06"
+        },
+        {
+            "domain_name": "accessdoneeasy.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-07 15:38:58"
+        },
+        {
+            "domain_name": "agapeallergy.com",
+            "destination": "Hostinger",
+            "date": "2024-12-07 15:36:02"
+        },
+        {
+            "domain_name": "wacopodiatry.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-07 15:29:02"
+        },
+        {
+            "domain_name": "365bluevacations.com",
+            "destination": "SiteGround",
+            "date": "2024-12-07 15:25:46"
+        },
+        {
+            "domain_name": "wealthhackerlabs.com",
+            "destination": "BigScoots",
+            "date": "2024-12-07 15:21:14"
+        },
         {
             "domain_name": "vegasnews.com",
             "destination": "Pressable",
             "date": "2024-12-07 15:16:14"
+        },
+        {
+            "domain_name": "familyphysiatry.com",
+            "destination": "Hostinger",
+            "date": "2024-12-07 15:05:43"
         },
         {
             "domain_name": "eventsathsp.com",
@@ -440,66 +500,6 @@
             "domain_name": "www.freedombreeder.com",
             "destination": "Pressable",
             "date": "2024-12-07 00:55:02"
-        },
-        {
-            "domain_name": "hardcoreblocks.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-07 00:41:38"
-        },
-        {
-            "domain_name": "www.pfdentalinc.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 00:31:56"
-        },
-        {
-            "domain_name": "romyparkcity.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-07 00:30:15"
-        },
-        {
-            "domain_name": "riversideeducare.co.nz",
-            "destination": "Hostinger",
-            "date": "2024-12-07 00:29:57"
-        },
-        {
-            "domain_name": "athletic-adventures.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-07 00:19:04"
-        },
-        {
-            "domain_name": "autoinsuranceyork.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-07 00:07:15"
-        },
-        {
-            "domain_name": "whizkidzpreschool.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 00:06:00"
-        },
-        {
-            "domain_name": "olddoghaven.org",
-            "destination": "Pressable",
-            "date": "2024-12-06 23:59:12"
-        },
-        {
-            "domain_name": "www.a2pianoteachers.com",
-            "destination": "A2 Hosting",
-            "date": "2024-12-06 23:49:03"
-        },
-        {
-            "domain_name": "frequencywriter.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-06 23:40:35"
-        },
-        {
-            "domain_name": "fractionalhumanresources.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-06 23:34:31"
-        },
-        {
-            "domain_name": "orangepsychassociates.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-06 23:19:16"
         }
     ],
     "dailyMovedStat": {
@@ -582,16 +582,16 @@
         "2024-12-06": "26353"
     },
     "topDestinationHosts": {
-        "Pressable": 6184,
+        "Pressable": 6186,
         "Bluehost": 3502,
-        "Digital Ocean": 1646,
-        "Kinsta": 1552,
-        "SiteGround": 1487,
-        "Hostinger": 826,
-        "GoDaddy": 384,
-        "BigScoots": 239,
+        "Digital Ocean": 1647,
+        "Kinsta": 1553,
+        "SiteGround": 1490,
+        "Hostinger": 828,
+        "GoDaddy": 385,
+        "BigScoots": 240,
         "Elementor Hosting": 184,
-        "Liquid Web": 168,
+        "Liquid Web": 169,
         "Wordify": 138,
         "WordPress.com": 119,
         "InMotion Hosting": 106,
