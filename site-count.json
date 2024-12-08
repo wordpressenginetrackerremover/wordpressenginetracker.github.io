@@ -1,6 +1,21 @@
 {
-    "siteCount": 26755,
+    "siteCount": 26761,
     "recentlyMoved": [
+        {
+            "domain_name": "adondepress.org",
+            "destination": "Bluehost",
+            "date": "2024-12-08 11:43:16"
+        },
+        {
+            "domain_name": "outsnapped.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-08 11:42:41"
+        },
+        {
+            "domain_name": "warwickwinesus.com",
+            "destination": "Namecheap",
+            "date": "2024-12-08 11:32:00"
+        },
         {
             "domain_name": "vanibabbar.com",
             "destination": "Hostinger",
@@ -477,11 +492,6 @@
             "date": "2024-12-07 14:39:38"
         },
         {
-            "domain_name": "genotopia.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 14:35:43"
-        },
-        {
             "domain_name": "mynewlifechurch.com",
             "destination": "Liquid Web",
             "date": "2024-12-07 14:28:15"
@@ -490,16 +500,6 @@
             "domain_name": "fairfaxtransfer.com",
             "destination": "Digital Ocean",
             "date": "2024-12-07 14:20:24"
-        },
-        {
-            "domain_name": "mycruisetravelagent.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 14:15:22"
-        },
-        {
-            "domain_name": "fredbortz.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 14:07:27"
         }
     ],
     "dailyMovedStat": {
@@ -584,8 +584,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 6195,
-        "Bluehost": 3502,
-        "Digital Ocean": 1652,
+        "Bluehost": 3503,
+        "Digital Ocean": 1653,
         "Kinsta": 1569,
         "SiteGround": 1499,
         "Hostinger": 841,
@@ -599,8 +599,8 @@
         "OVH": 92,
         "GridPane": 88,
         "A2 Hosting": 73,
+        "Namecheap": 66,
         "IONOS": 66,
-        "Namecheap": 65,
         "Hetzner Online": 64,
         "DreamHost": 54
     },
