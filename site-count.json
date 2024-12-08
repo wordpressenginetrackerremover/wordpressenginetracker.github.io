@@ -1,6 +1,16 @@
 {
-    "siteCount": 26710,
+    "siteCount": 26715,
     "recentlyMoved": [
+        {
+            "domain_name": "serenitypointehomes.com",
+            "destination": "Pressable",
+            "date": "2024-12-08 01:00:16"
+        },
+        {
+            "domain_name": "hroptions.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-08 00:38:43"
+        },
         {
             "domain_name": "anandaclinics.com.au",
             "destination": "Kinsta",
@@ -457,19 +467,9 @@
             "date": "2024-12-07 13:53:11"
         },
         {
-            "domain_name": "clarkfamilysmiles.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 13:53:00"
-        },
-        {
             "domain_name": "www.primamedicine.com",
             "destination": "Kinsta",
             "date": "2024-12-07 13:39:03"
-        },
-        {
-            "domain_name": "clothier-hall.com",
-            "destination": "Pressable",
-            "date": "2024-12-07 13:36:06"
         },
         {
             "domain_name": "livingwordlivingwater.org",
@@ -583,7 +583,7 @@
         "2024-12-07": "26706"
     },
     "topDestinationHosts": {
-        "Pressable": 6194,
+        "Pressable": 6195,
         "Bluehost": 3502,
         "Digital Ocean": 1652,
         "Kinsta": 1565,
@@ -592,7 +592,7 @@
         "GoDaddy": 391,
         "BigScoots": 249,
         "Elementor Hosting": 185,
-        "Liquid Web": 170,
+        "Liquid Web": 171,
         "Wordify": 139,
         "WordPress.com": 119,
         "InMotion Hosting": 107,
