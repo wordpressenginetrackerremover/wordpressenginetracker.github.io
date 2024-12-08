@@ -1,6 +1,21 @@
 {
-    "siteCount": 26820,
+    "siteCount": 26827,
     "recentlyMoved": [
+        {
+            "domain_name": "loffilara.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 22:17:02"
+        },
+        {
+            "domain_name": "theliceclinic.net",
+            "destination": "Pressable",
+            "date": "2024-12-08 22:15:38"
+        },
+        {
+            "domain_name": "thefurbearers.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 21:50:40"
+        },
         {
             "domain_name": "locolakevenue.com",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2024-12-07 16:33:41"
         },
         {
-            "domain_name": "houseofroseblog.com",
-            "destination": "BigScoots",
-            "date": "2024-12-07 16:25:46"
-        },
-        {
-            "domain_name": "bigmountaincrossfit.com",
-            "destination": "A2 Hosting",
-            "date": "2024-12-07 16:22:02"
-        },
-        {
             "domain_name": "bluegrottopools.com",
             "destination": "Hostinger",
             "date": "2024-12-07 16:20:52"
-        },
-        {
-            "domain_name": "research-collective.com",
-            "destination": "BigScoots",
-            "date": "2024-12-07 16:12:06"
         }
     ],
     "dailyMovedStat": {
@@ -583,12 +583,12 @@
         "2024-12-07": "26706"
     },
     "topDestinationHosts": {
-        "Pressable": 6205,
+        "Pressable": 6206,
         "Bluehost": 3503,
         "Digital Ocean": 1653,
         "Kinsta": 1569,
         "SiteGround": 1500,
-        "Hostinger": 843,
+        "Hostinger": 845,
         "GoDaddy": 395,
         "BigScoots": 249,
         "Elementor Hosting": 186,
