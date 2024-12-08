@@ -1,6 +1,31 @@
 {
-    "siteCount": 26789,
+    "siteCount": 26820,
     "recentlyMoved": [
+        {
+            "domain_name": "locolakevenue.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 20:11:57"
+        },
+        {
+            "domain_name": "www.brltg.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 20:11:57"
+        },
+        {
+            "domain_name": "onotalake.com",
+            "destination": "Pressable",
+            "date": "2024-12-08 20:05:23"
+        },
+        {
+            "domain_name": "oldmillberkshires.com",
+            "destination": "Pressable",
+            "date": "2024-12-08 19:54:19"
+        },
+        {
+            "domain_name": "wibowl.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-08 19:22:40"
+        },
         {
             "domain_name": "thornwillowinstitute.org",
             "destination": "Pressable",
@@ -452,19 +477,9 @@
             "date": "2024-12-07 16:38:41"
         },
         {
-            "domain_name": "www.cbfseattle.org",
-            "destination": "Pressable",
-            "date": "2024-12-07 16:34:01"
-        },
-        {
             "domain_name": "jeffrose.com",
             "destination": "BigScoots",
             "date": "2024-12-07 16:33:41"
-        },
-        {
-            "domain_name": "apollomech.com",
-            "destination": "Pressable",
-            "date": "2024-12-07 16:33:32"
         },
         {
             "domain_name": "houseofroseblog.com",
@@ -477,11 +492,6 @@
             "date": "2024-12-07 16:22:02"
         },
         {
-            "domain_name": "altavistacc.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 16:21:50"
-        },
-        {
             "domain_name": "bluegrottopools.com",
             "destination": "Hostinger",
             "date": "2024-12-07 16:20:52"
@@ -490,16 +500,6 @@
             "domain_name": "research-collective.com",
             "destination": "BigScoots",
             "date": "2024-12-07 16:12:06"
-        },
-        {
-            "domain_name": "philadelphiahistoricvenues.com",
-            "destination": "Pressable",
-            "date": "2024-12-07 16:03:50"
-        },
-        {
-            "domain_name": "positiveenergycenter.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-07 15:52:06"
         }
     ],
     "dailyMovedStat": {
@@ -583,16 +583,16 @@
         "2024-12-07": "26706"
     },
     "topDestinationHosts": {
-        "Pressable": 6203,
+        "Pressable": 6205,
         "Bluehost": 3503,
         "Digital Ocean": 1653,
         "Kinsta": 1569,
         "SiteGround": 1500,
-        "Hostinger": 841,
+        "Hostinger": 843,
         "GoDaddy": 395,
         "BigScoots": 249,
         "Elementor Hosting": 186,
-        "Liquid Web": 172,
+        "Liquid Web": 173,
         "Wordify": 139,
         "WordPress.com": 119,
         "InMotion Hosting": 107,
