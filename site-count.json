@@ -1,6 +1,11 @@
 {
-    "siteCount": 26754,
+    "siteCount": 26755,
     "recentlyMoved": [
+        {
+            "domain_name": "vanibabbar.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 11:00:41"
+        },
         {
             "domain_name": "buspas.com",
             "destination": "GoDaddy",
@@ -487,11 +492,6 @@
             "date": "2024-12-07 14:20:24"
         },
         {
-            "domain_name": "zenhabitsbook.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 14:15:46"
-        },
-        {
             "domain_name": "mycruisetravelagent.com",
             "destination": "SiteGround",
             "date": "2024-12-07 14:15:22"
@@ -588,7 +588,7 @@
         "Digital Ocean": 1652,
         "Kinsta": 1569,
         "SiteGround": 1499,
-        "Hostinger": 840,
+        "Hostinger": 841,
         "GoDaddy": 393,
         "BigScoots": 249,
         "Elementor Hosting": 186,
