@@ -1,6 +1,16 @@
 {
-    "siteCount": 26715,
+    "siteCount": 26722,
     "recentlyMoved": [
+        {
+            "domain_name": "districtrelocators.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-08 02:42:08"
+        },
+        {
+            "domain_name": "learnmore.anandaclinics.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-08 01:18:17"
+        },
         {
             "domain_name": "serenitypointehomes.com",
             "destination": "Pressable",
@@ -467,11 +477,6 @@
             "date": "2024-12-07 13:53:11"
         },
         {
-            "domain_name": "www.primamedicine.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 13:39:03"
-        },
-        {
             "domain_name": "livingwordlivingwater.org",
             "destination": "GoDaddy",
             "date": "2024-12-07 13:32:43"
@@ -485,11 +490,6 @@
             "domain_name": "longmeadowartresidency.com",
             "destination": "Digital Ocean",
             "date": "2024-12-07 13:28:24"
-        },
-        {
-            "domain_name": "sterling.us",
-            "destination": "Digital Ocean",
-            "date": "2024-12-07 13:27:55"
         },
         {
             "domain_name": "coolestate.com",
@@ -586,10 +586,10 @@
         "Pressable": 6195,
         "Bluehost": 3502,
         "Digital Ocean": 1652,
-        "Kinsta": 1565,
+        "Kinsta": 1566,
         "SiteGround": 1496,
         "Hostinger": 840,
-        "GoDaddy": 391,
+        "GoDaddy": 392,
         "BigScoots": 249,
         "Elementor Hosting": 185,
         "Liquid Web": 171,
