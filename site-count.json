@@ -1,6 +1,16 @@
 {
-    "siteCount": 26722,
+    "siteCount": 26726,
     "recentlyMoved": [
+        {
+            "domain_name": "nbparis.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-08 02:59:47"
+        },
+        {
+            "domain_name": "urbancrawls.com",
+            "destination": "SiteGround",
+            "date": "2024-12-08 02:59:44"
+        },
         {
             "domain_name": "districtrelocators.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "longmeadowartresidency.com",
             "destination": "Digital Ocean",
             "date": "2024-12-07 13:28:24"
-        },
-        {
-            "domain_name": "coolestate.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 13:21:11"
-        },
-        {
-            "domain_name": "www.psisurvey.com",
-            "destination": "Liquid Web",
-            "date": "2024-12-07 13:16:04"
         }
     ],
     "dailyMovedStat": {
@@ -587,12 +587,12 @@
         "Bluehost": 3502,
         "Digital Ocean": 1652,
         "Kinsta": 1566,
-        "SiteGround": 1496,
+        "SiteGround": 1497,
         "Hostinger": 840,
         "GoDaddy": 392,
         "BigScoots": 249,
         "Elementor Hosting": 185,
-        "Liquid Web": 171,
+        "Liquid Web": 172,
         "Wordify": 139,
         "WordPress.com": 119,
         "InMotion Hosting": 107,
