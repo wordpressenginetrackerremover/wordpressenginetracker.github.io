@@ -1,6 +1,11 @@
 {
-    "siteCount": 26827,
+    "siteCount": 26828,
     "recentlyMoved": [
+        {
+            "domain_name": "tonylara.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 22:26:33"
+        },
         {
             "domain_name": "loffilara.com",
             "destination": "Hostinger",
@@ -482,11 +487,6 @@
             "date": "2024-12-07 16:49:05"
         },
         {
-            "domain_name": "blaserinvestment.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 16:44:17"
-        },
-        {
             "domain_name": "salonv.biz",
             "destination": "SiteGround",
             "date": "2024-12-07 16:38:41"
@@ -580,7 +580,8 @@
         "2024-12-04": "25595",
         "2024-12-05": "25980",
         "2024-12-06": "26353",
-        "2024-12-07": "26706"
+        "2024-12-07": "26706",
+        "2024-12-08": "26828"
     },
     "topDestinationHosts": {
         "Pressable": 6206,
@@ -588,7 +589,7 @@
         "Digital Ocean": 1653,
         "Kinsta": 1569,
         "SiteGround": 1500,
-        "Hostinger": 845,
+        "Hostinger": 846,
         "GoDaddy": 395,
         "BigScoots": 249,
         "Elementor Hosting": 186,
@@ -682,6 +683,7 @@
         "2024-12-04": "701042",
         "2024-12-05": "696740",
         "2024-12-06": "698884",
-        "2024-12-07": "698514"
+        "2024-12-07": "698514",
+        "2024-12-08": "699485"
     }
 }
