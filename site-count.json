@@ -1,6 +1,21 @@
 {
-    "siteCount": 26893,
+    "siteCount": 26898,
     "recentlyMoved": [
+        {
+            "domain_name": "shirlgard.com",
+            "destination": "Pressable",
+            "date": "2024-12-09 17:01:30"
+        },
+        {
+            "domain_name": "rsofne.com",
+            "destination": "Pressable",
+            "date": "2024-12-09 16:49:29"
+        },
+        {
+            "domain_name": "ideasforactionllc.com",
+            "destination": "Pressable",
+            "date": "2024-12-09 16:48:57"
+        },
         {
             "domain_name": "propertydoctorservices.com",
             "destination": "OVH",
@@ -482,24 +497,9 @@
             "date": "2024-12-07 20:26:21"
         },
         {
-            "domain_name": "alaskabehavioralhealth.org",
-            "destination": "Pressable",
-            "date": "2024-12-07 19:57:58"
-        },
-        {
-            "domain_name": "www.delicatedentalgroup.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 19:55:19"
-        },
-        {
             "domain_name": "pnwcompassion.com",
             "destination": "GoDaddy",
             "date": "2024-12-07 19:40:54"
-        },
-        {
-            "domain_name": "www.baraboodental.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 19:39:57"
         }
     ],
     "dailyMovedStat": {
@@ -584,7 +584,7 @@
         "2024-12-08": "26828"
     },
     "topDestinationHosts": {
-        "Pressable": 6210,
+        "Pressable": 6213,
         "Bluehost": 3504,
         "Digital Ocean": 1666,
         "Kinsta": 1569,
@@ -597,7 +597,7 @@
         "Wordify": 139,
         "WordPress.com": 121,
         "InMotion Hosting": 108,
-        "OVH": 92,
+        "OVH": 93,
         "GridPane": 88,
         "A2 Hosting": 74,
         "Namecheap": 66,
