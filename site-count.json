@@ -1,6 +1,26 @@
 {
-    "siteCount": 26881,
+    "siteCount": 26886,
     "recentlyMoved": [
+        {
+            "domain_name": "jennyhaleyhair.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-09 13:10:59"
+        },
+        {
+            "domain_name": "slantbooks.org",
+            "destination": "SiteGround",
+            "date": "2024-12-09 13:06:19"
+        },
+        {
+            "domain_name": "cbdevents.com",
+            "destination": "Pressable",
+            "date": "2024-12-09 13:03:57"
+        },
+        {
+            "domain_name": "hendrixtimbermulchers.com",
+            "destination": "Bluehost",
+            "date": "2024-12-09 12:33:45"
+        },
         {
             "domain_name": "www.blesfoundation.org",
             "destination": "WordPress.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.baraboodental.com",
             "destination": "Kinsta",
             "date": "2024-12-07 19:39:57"
-        },
-        {
-            "domain_name": "naleo.org",
-            "destination": "SiteGround",
-            "date": "2024-12-07 19:07:27"
-        },
-        {
-            "domain_name": "faithlead.org",
-            "destination": "Kinsta",
-            "date": "2024-12-07 18:54:55"
-        },
-        {
-            "domain_name": "ezersonic.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-07 18:18:48"
-        },
-        {
-            "domain_name": "horizon.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 18:09:33"
         }
     ],
     "dailyMovedStat": {
@@ -584,13 +584,13 @@
         "2024-12-08": "26828"
     },
     "topDestinationHosts": {
-        "Pressable": 6208,
-        "Bluehost": 3503,
+        "Pressable": 6209,
+        "Bluehost": 3504,
         "Digital Ocean": 1666,
         "Kinsta": 1569,
         "SiteGround": 1504,
         "Hostinger": 848,
-        "GoDaddy": 395,
+        "GoDaddy": 396,
         "BigScoots": 249,
         "Elementor Hosting": 188,
         "Liquid Web": 173,
