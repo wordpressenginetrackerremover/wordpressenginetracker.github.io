@@ -1,6 +1,11 @@
 {
-    "siteCount": 26941,
+    "siteCount": 26944,
     "recentlyMoved": [
+        {
+            "domain_name": "engage.spirelaw.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-09 22:30:19"
+        },
         {
             "domain_name": "bomi.com.au",
             "destination": "Kinsta",
@@ -487,11 +492,6 @@
             "date": "2024-12-07 20:51:46"
         },
         {
-            "domain_name": "hawkconstruction.us",
-            "destination": "GoDaddy",
-            "date": "2024-12-07 20:50:01"
-        },
-        {
             "domain_name": "healingfromdepression.com",
             "destination": "Hostinger",
             "date": "2024-12-07 20:45:16"
@@ -581,13 +581,14 @@
         "2024-12-05": "25980",
         "2024-12-06": "26353",
         "2024-12-07": "26706",
-        "2024-12-08": "26828"
+        "2024-12-08": "26828",
+        "2024-12-09": "26944"
     },
     "topDestinationHosts": {
         "Pressable": 6216,
         "Bluehost": 3504,
         "Digital Ocean": 1667,
-        "Kinsta": 1571,
+        "Kinsta": 1572,
         "SiteGround": 1508,
         "Hostinger": 849,
         "GoDaddy": 397,
@@ -684,6 +685,7 @@
         "2024-12-05": "696740",
         "2024-12-06": "698884",
         "2024-12-07": "698514",
-        "2024-12-08": "699485"
+        "2024-12-08": "699485",
+        "2024-12-09": "698652"
     }
 }
