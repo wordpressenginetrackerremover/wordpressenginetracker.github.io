@@ -1,6 +1,11 @@
 {
-    "siteCount": 26879,
+    "siteCount": 26881,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blesfoundation.org",
+            "destination": "WordPress.com",
+            "date": "2024-12-09 11:52:56"
+        },
         {
             "domain_name": "judithdesignstudio.com",
             "destination": "WordPress.com",
@@ -482,11 +487,6 @@
             "date": "2024-12-07 19:07:27"
         },
         {
-            "domain_name": "poseidonsciences.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 18:57:02"
-        },
-        {
             "domain_name": "faithlead.org",
             "destination": "Kinsta",
             "date": "2024-12-07 18:54:55"
@@ -595,7 +595,7 @@
         "Elementor Hosting": 188,
         "Liquid Web": 173,
         "Wordify": 139,
-        "WordPress.com": 120,
+        "WordPress.com": 121,
         "InMotion Hosting": 108,
         "OVH": 92,
         "GridPane": 88,
