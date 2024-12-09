@@ -1,6 +1,11 @@
 {
-    "siteCount": 26854,
+    "siteCount": 26856,
     "recentlyMoved": [
+        {
+            "domain_name": "whistleblowerpod.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-09 03:48:59"
+        },
         {
             "domain_name": "facingevilpod.com",
             "destination": "Digital Ocean",
@@ -477,11 +482,6 @@
             "date": "2024-12-07 18:38:33"
         },
         {
-            "domain_name": "www.wanhub.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-07 18:38:31"
-        },
-        {
             "domain_name": "ezersonic.com",
             "destination": "InMotion Hosting",
             "date": "2024-12-07 18:18:48"
@@ -586,7 +586,7 @@
     "topDestinationHosts": {
         "Pressable": 6208,
         "Bluehost": 3503,
-        "Digital Ocean": 1660,
+        "Digital Ocean": 1661,
         "Kinsta": 1569,
         "SiteGround": 1504,
         "Hostinger": 848,
