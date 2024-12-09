@@ -1,6 +1,16 @@
 {
-    "siteCount": 26862,
+    "siteCount": 26871,
     "recentlyMoved": [
+        {
+            "domain_name": "themlktapes.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-09 06:18:46"
+        },
+        {
+            "domain_name": "swornpodcast.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-09 05:31:00"
+        },
         {
             "domain_name": "www.medirarx.com",
             "destination": "Elementor Hosting",
@@ -477,11 +487,6 @@
             "date": "2024-12-07 18:54:55"
         },
         {
-            "domain_name": "gondwanaland.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 18:47:49"
-        },
-        {
             "domain_name": "ezersonic.com",
             "destination": "InMotion Hosting",
             "date": "2024-12-07 18:18:48"
@@ -490,11 +495,6 @@
             "domain_name": "postdocexperience.scienceblog.com",
             "destination": "Hostinger",
             "date": "2024-12-07 18:16:17"
-        },
-        {
-            "domain_name": "joshmitteldorf.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 18:15:27"
         },
         {
             "domain_name": "horizon.scienceblog.com",
@@ -586,13 +586,13 @@
     "topDestinationHosts": {
         "Pressable": 6208,
         "Bluehost": 3503,
-        "Digital Ocean": 1663,
+        "Digital Ocean": 1665,
         "Kinsta": 1569,
         "SiteGround": 1504,
         "Hostinger": 848,
         "GoDaddy": 395,
         "BigScoots": 249,
-        "Elementor Hosting": 187,
+        "Elementor Hosting": 188,
         "Liquid Web": 173,
         "Wordify": 139,
         "WordPress.com": 119,
