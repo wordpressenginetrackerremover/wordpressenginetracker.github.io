@@ -1,6 +1,11 @@
 {
-    "siteCount": 26875,
+    "siteCount": 26877,
     "recentlyMoved": [
+        {
+            "domain_name": "judithdesignstudio.com",
+            "destination": "WordPress.com",
+            "date": "2024-12-09 08:57:41"
+        },
         {
             "domain_name": "themlktapes.com",
             "destination": "Digital Ocean",
@@ -478,11 +483,6 @@
         },
         {
             "domain_name": "poseidonsciences.scienceblog.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 18:57:02"
-        },
-        {
-            "domain_name": "experimentalfrontiers.scienceblog.com",
             "destination": "Hostinger",
             "date": "2024-12-07 18:57:02"
         },
