@@ -1,6 +1,11 @@
 {
-    "siteCount": 26934,
+    "siteCount": 26936,
     "recentlyMoved": [
+        {
+            "domain_name": "bomi.com.au",
+            "destination": "Kinsta",
+            "date": "2024-12-09 20:54:49"
+        },
         {
             "domain_name": "leavetimeshare.com",
             "destination": "Kinsta",
@@ -487,11 +492,6 @@
             "date": "2024-12-07 20:50:01"
         },
         {
-            "domain_name": "hawk-industries.us",
-            "destination": "GoDaddy",
-            "date": "2024-12-07 20:50:01"
-        },
-        {
             "domain_name": "healingfromdepression.com",
             "destination": "Hostinger",
             "date": "2024-12-07 20:45:16"
@@ -584,11 +584,11 @@
         "2024-12-08": "26828"
     },
     "topDestinationHosts": {
-        "Pressable": 6215,
+        "Pressable": 6216,
         "Bluehost": 3504,
         "Digital Ocean": 1667,
-        "Kinsta": 1569,
-        "SiteGround": 1506,
+        "Kinsta": 1571,
+        "SiteGround": 1508,
         "Hostinger": 849,
         "GoDaddy": 397,
         "BigScoots": 249,
