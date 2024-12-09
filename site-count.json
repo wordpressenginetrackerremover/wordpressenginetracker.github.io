@@ -1,6 +1,36 @@
 {
-    "siteCount": 26828,
+    "siteCount": 26839,
     "recentlyMoved": [
+        {
+            "domain_name": "pixiecleanersaz.com",
+            "destination": "Hostinger",
+            "date": "2024-12-09 00:17:07"
+        },
+        {
+            "domain_name": "frontier-development.com",
+            "destination": "Pressable",
+            "date": "2024-12-09 00:11:06"
+        },
+        {
+            "domain_name": "algorithmpod.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-09 00:01:50"
+        },
+        {
+            "domain_name": "poolcarespecialists.com",
+            "destination": "Hostinger",
+            "date": "2024-12-08 23:58:38"
+        },
+        {
+            "domain_name": "pd3foundation.com",
+            "destination": "SiteGround",
+            "date": "2024-12-08 23:56:17"
+        },
+        {
+            "domain_name": "vintagetoastevents.com",
+            "destination": "Pressable",
+            "date": "2024-12-08 23:42:51"
+        },
         {
             "domain_name": "tonylara.com",
             "destination": "Hostinger",
@@ -470,36 +500,6 @@
             "domain_name": "superstate.eu",
             "destination": "Pressable",
             "date": "2024-12-07 17:18:15"
-        },
-        {
-            "domain_name": "serenissimamotoscafi.it",
-            "destination": "Hostinger",
-            "date": "2024-12-07 17:12:27"
-        },
-        {
-            "domain_name": "ryanmorganmd.com",
-            "destination": "Kinsta",
-            "date": "2024-12-07 16:53:46"
-        },
-        {
-            "domain_name": "www.goodfinancialcents.com",
-            "destination": "BigScoots",
-            "date": "2024-12-07 16:49:05"
-        },
-        {
-            "domain_name": "salonv.biz",
-            "destination": "SiteGround",
-            "date": "2024-12-07 16:38:41"
-        },
-        {
-            "domain_name": "jeffrose.com",
-            "destination": "BigScoots",
-            "date": "2024-12-07 16:33:41"
-        },
-        {
-            "domain_name": "bluegrottopools.com",
-            "destination": "Hostinger",
-            "date": "2024-12-07 16:20:52"
         }
     ],
     "dailyMovedStat": {
@@ -584,12 +584,12 @@
         "2024-12-08": "26828"
     },
     "topDestinationHosts": {
-        "Pressable": 6206,
+        "Pressable": 6208,
         "Bluehost": 3503,
-        "Digital Ocean": 1653,
+        "Digital Ocean": 1654,
         "Kinsta": 1569,
-        "SiteGround": 1500,
-        "Hostinger": 846,
+        "SiteGround": 1501,
+        "Hostinger": 848,
         "GoDaddy": 395,
         "BigScoots": 249,
         "Elementor Hosting": 186,
