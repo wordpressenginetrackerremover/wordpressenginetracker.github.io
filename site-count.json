@@ -1,6 +1,96 @@
 {
-    "siteCount": 27059,
+    "siteCount": 27089,
     "recentlyMoved": [
+        {
+            "domain_name": "gryphonfundraising.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 16:26:54"
+        },
+        {
+            "domain_name": "primeplasticsurgery.com",
+            "destination": "Pressable",
+            "date": "2024-12-10 16:24:56"
+        },
+        {
+            "domain_name": "primeaestheticsgroup.com",
+            "destination": "Pressable",
+            "date": "2024-12-10 16:24:56"
+        },
+        {
+            "domain_name": "plumpottery.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 16:24:34"
+        },
+        {
+            "domain_name": "pleasantstdentalel.com",
+            "destination": "Hostinger",
+            "date": "2024-12-10 16:24:34"
+        },
+        {
+            "domain_name": "ashevillestumpgrinding.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 16:19:32"
+        },
+        {
+            "domain_name": "www.beechwebservices.co.uk",
+            "destination": "Kinsta",
+            "date": "2024-12-10 16:13:02"
+        },
+        {
+            "domain_name": "www.okcdisabilityattorney.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-10 16:10:29"
+        },
+        {
+            "domain_name": "www.elevationendodontics.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 16:09:12"
+        },
+        {
+            "domain_name": "www.ronaldgreenedds.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 16:08:38"
+        },
+        {
+            "domain_name": "wegwerphanddoeken.nl",
+            "destination": "Hostinger",
+            "date": "2024-12-10 15:59:57"
+        },
+        {
+            "domain_name": "wachouston.org",
+            "destination": "SiteGround",
+            "date": "2024-12-10 15:57:24"
+        },
+        {
+            "domain_name": "arnoldsmeats.com",
+            "destination": "Hostinger",
+            "date": "2024-12-10 15:54:12"
+        },
+        {
+            "domain_name": "www.easternshoreplasticsurgery.com",
+            "destination": "Pressable",
+            "date": "2024-12-10 15:42:03"
+        },
+        {
+            "domain_name": "vairkko.com",
+            "destination": "SiteGround",
+            "date": "2024-12-10 15:42:03"
+        },
+        {
+            "domain_name": "formativefitness.com",
+            "destination": "SiteGround",
+            "date": "2024-12-10 15:39:18"
+        },
+        {
+            "domain_name": "northstarcounsel.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 15:32:42"
+        },
+        {
+            "domain_name": "wellnessloungesd.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 15:21:47"
+        },
         {
             "domain_name": "eventureco.com",
             "destination": "SiteGround",
@@ -410,96 +500,6 @@
             "domain_name": "www.drcrescenzo.com",
             "destination": "Elementor Hosting",
             "date": "2024-12-09 04:33:51"
-        },
-        {
-            "domain_name": "radiorentalusa.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 04:03:45"
-        },
-        {
-            "domain_name": "whistleblowerpod.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 03:48:59"
-        },
-        {
-            "domain_name": "facingevilpod.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 03:06:17"
-        },
-        {
-            "domain_name": "moorheadsculpturewalk.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-09 02:31:05"
-        },
-        {
-            "domain_name": "theperfectturf.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 02:28:38"
-        },
-        {
-            "domain_name": "towerleasepartners.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 02:18:45"
-        },
-        {
-            "domain_name": "livediela.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 01:57:10"
-        },
-        {
-            "domain_name": "leannaturalbeef.com",
-            "destination": "SiteGround",
-            "date": "2024-12-09 01:55:51"
-        },
-        {
-            "domain_name": "deadandgonepodcast.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 01:51:28"
-        },
-        {
-            "domain_name": "culpablepodcast.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 01:44:19"
-        },
-        {
-            "domain_name": "jcwebdesignmarketing.com",
-            "destination": "SiteGround",
-            "date": "2024-12-09 01:31:05"
-        },
-        {
-            "domain_name": "canadoorsystems.com",
-            "destination": "SiteGround",
-            "date": "2024-12-09 01:06:59"
-        },
-        {
-            "domain_name": "pixiecleanersaz.com",
-            "destination": "Hostinger",
-            "date": "2024-12-09 00:17:07"
-        },
-        {
-            "domain_name": "frontier-development.com",
-            "destination": "Pressable",
-            "date": "2024-12-09 00:11:06"
-        },
-        {
-            "domain_name": "algorithmpod.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-09 00:01:50"
-        },
-        {
-            "domain_name": "poolcarespecialists.com",
-            "destination": "Hostinger",
-            "date": "2024-12-08 23:58:38"
-        },
-        {
-            "domain_name": "pd3foundation.com",
-            "destination": "SiteGround",
-            "date": "2024-12-08 23:56:17"
-        },
-        {
-            "domain_name": "vintagetoastevents.com",
-            "destination": "Pressable",
-            "date": "2024-12-08 23:42:51"
         }
     ],
     "dailyMovedStat": {
@@ -585,16 +585,16 @@
         "2024-12-09": "26944"
     },
     "topDestinationHosts": {
-        "Pressable": 6221,
+        "Pressable": 6224,
         "Bluehost": 3504,
         "Digital Ocean": 1677,
-        "Kinsta": 1584,
-        "SiteGround": 1516,
-        "Hostinger": 853,
+        "Kinsta": 1592,
+        "SiteGround": 1519,
+        "Hostinger": 856,
         "GoDaddy": 403,
         "BigScoots": 249,
         "Elementor Hosting": 189,
-        "Liquid Web": 173,
+        "Liquid Web": 174,
         "Wordify": 139,
         "WordPress.com": 121,
         "InMotion Hosting": 109,
