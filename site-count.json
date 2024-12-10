@@ -1,6 +1,21 @@
 {
-    "siteCount": 26977,
+    "siteCount": 26984,
     "recentlyMoved": [
+        {
+            "domain_name": "prbythebook.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-10 08:12:20"
+        },
+        {
+            "domain_name": "wedgetailcampers.com.au",
+            "destination": "SiteGround",
+            "date": "2024-12-10 08:11:59"
+        },
+        {
+            "domain_name": "amouthfulofair.fm",
+            "destination": "SiteGround",
+            "date": "2024-12-10 08:07:57"
+        },
         {
             "domain_name": "midwestcommon.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "hroptions.com",
             "destination": "Liquid Web",
             "date": "2024-12-08 00:38:43"
-        },
-        {
-            "domain_name": "anandaclinics.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-07 23:37:48"
-        },
-        {
-            "domain_name": "westburygraphicdesign.com",
-            "destination": "Pressable",
-            "date": "2024-12-07 23:31:49"
-        },
-        {
-            "domain_name": "nortoncommando.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 23:14:16"
         }
     ],
     "dailyMovedStat": {
@@ -589,9 +589,9 @@
         "Bluehost": 3504,
         "Digital Ocean": 1670,
         "Kinsta": 1575,
-        "SiteGround": 1509,
+        "SiteGround": 1511,
         "Hostinger": 850,
-        "GoDaddy": 398,
+        "GoDaddy": 399,
         "BigScoots": 249,
         "Elementor Hosting": 189,
         "Liquid Web": 173,
