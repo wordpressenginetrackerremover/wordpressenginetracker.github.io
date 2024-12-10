@@ -1,6 +1,11 @@
 {
-    "siteCount": 26957,
+    "siteCount": 26963,
     "recentlyMoved": [
+        {
+            "domain_name": "www.neurointeractive.com",
+            "destination": "HostGator",
+            "date": "2024-12-10 02:00:15"
+        },
         {
             "domain_name": "integratedlivingsecurity.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "mcld.org",
             "destination": "Pressable",
             "date": "2024-12-07 22:15:32"
-        },
-        {
-            "domain_name": "coltonsimmons.com",
-            "destination": "BigScoots",
-            "date": "2024-12-07 21:42:18"
         }
     ],
     "dailyMovedStat": {
