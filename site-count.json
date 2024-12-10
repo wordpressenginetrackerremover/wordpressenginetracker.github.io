@@ -1,10 +1,55 @@
 {
-    "siteCount": 27135,
+    "siteCount": 27147,
     "recentlyMoved": [
+        {
+            "domain_name": "erazehairstudio.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-10 18:59:20"
+        },
+        {
+            "domain_name": "equatorlandscaping.com",
+            "destination": "Elementor Hosting",
+            "date": "2024-12-10 18:59:20"
+        },
+        {
+            "domain_name": "nhmbrand.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-10 18:43:18"
+        },
+        {
+            "domain_name": "mountainpowerperformance.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 18:40:32"
+        },
         {
             "domain_name": "www.thenaturalresult.com",
             "destination": "Pressable",
             "date": "2024-12-10 18:37:19"
+        },
+        {
+            "domain_name": "mjwhvac.com",
+            "destination": "Hostinger",
+            "date": "2024-12-10 18:34:20"
+        },
+        {
+            "domain_name": "emporiumcm.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2024-12-10 18:33:28"
+        },
+        {
+            "domain_name": "my-dentist.ca",
+            "destination": "SiteGround",
+            "date": "2024-12-10 18:28:38"
+        },
+        {
+            "domain_name": "zyto.com",
+            "destination": "Pressable",
+            "date": "2024-12-10 18:25:38"
+        },
+        {
+            "domain_name": "murphyharpst.org",
+            "destination": "Digital Ocean",
+            "date": "2024-12-10 18:24:53"
         },
         {
             "domain_name": "cooloolacoastrehabfitness.com.au",
@@ -15,6 +60,11 @@
             "domain_name": "www.vgct.nl",
             "destination": "SiteGround",
             "date": "2024-12-10 18:03:43"
+        },
+        {
+            "domain_name": "mdtoday.com",
+            "destination": "Kinsta",
+            "date": "2024-12-10 17:56:45"
         },
         {
             "domain_name": "margarets.com",
@@ -450,56 +500,6 @@
             "domain_name": "amouthfulofair.fm",
             "destination": "SiteGround",
             "date": "2024-12-10 08:07:57"
-        },
-        {
-            "domain_name": "midwestcommon.com",
-            "destination": "Hostinger",
-            "date": "2024-12-10 06:48:58"
-        },
-        {
-            "domain_name": "uturncrossfit.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 06:47:14"
-        },
-        {
-            "domain_name": "mondial88.com.ph",
-            "destination": "GoDaddy",
-            "date": "2024-12-10 06:16:28"
-        },
-        {
-            "domain_name": "www.reinholtsfurniture.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 06:05:20"
-        },
-        {
-            "domain_name": "www.neurointeractive.com",
-            "destination": "HostGator",
-            "date": "2024-12-10 02:00:15"
-        },
-        {
-            "domain_name": "integratedlivingsecurity.com",
-            "destination": "SiteGround",
-            "date": "2024-12-10 00:39:41"
-        },
-        {
-            "domain_name": "arcadiararotonga.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 00:24:54"
-        },
-        {
-            "domain_name": "airpluswa.com.au",
-            "destination": "Elementor Hosting",
-            "date": "2024-12-10 00:10:01"
-        },
-        {
-            "domain_name": "androscogginanimalhospital.com",
-            "destination": "Kinsta",
-            "date": "2024-12-10 00:09:13"
-        },
-        {
-            "domain_name": "antg.com.au",
-            "destination": "Kinsta",
-            "date": "2024-12-10 00:03:06"
         }
     ],
     "dailyMovedStat": {
@@ -585,15 +585,15 @@
         "2024-12-09": "26944"
     },
     "topDestinationHosts": {
-        "Pressable": 6231,
+        "Pressable": 6232,
         "Bluehost": 3504,
-        "Digital Ocean": 1684,
-        "Kinsta": 1598,
-        "SiteGround": 1521,
-        "Hostinger": 860,
-        "GoDaddy": 404,
+        "Digital Ocean": 1687,
+        "Kinsta": 1600,
+        "SiteGround": 1523,
+        "Hostinger": 861,
+        "GoDaddy": 405,
         "BigScoots": 249,
-        "Elementor Hosting": 189,
+        "Elementor Hosting": 190,
         "Liquid Web": 174,
         "Wordify": 139,
         "WordPress.com": 121,
