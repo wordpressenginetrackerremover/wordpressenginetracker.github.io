@@ -1,6 +1,11 @@
 {
-    "siteCount": 26953,
+    "siteCount": 26957,
     "recentlyMoved": [
+        {
+            "domain_name": "integratedlivingsecurity.com",
+            "destination": "SiteGround",
+            "date": "2024-12-10 00:39:41"
+        },
         {
             "domain_name": "arcadiararotonga.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "coltonsimmons.com",
             "destination": "BigScoots",
             "date": "2024-12-07 21:42:18"
-        },
-        {
-            "domain_name": "www.musiccompound.com",
-            "destination": "SiteGround",
-            "date": "2024-12-07 21:01:50"
         }
     ],
     "dailyMovedStat": {
@@ -589,7 +589,7 @@
         "Bluehost": 3504,
         "Digital Ocean": 1669,
         "Kinsta": 1574,
-        "SiteGround": 1508,
+        "SiteGround": 1509,
         "Hostinger": 849,
         "GoDaddy": 397,
         "BigScoots": 249,
